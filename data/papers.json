@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T12:06:06.770001+00:00",
-  "last_checked_at": "2026-08-03T12:06:06.770001+00:00",
+  "updated_at": "2026-08-03T12:17:28.525903+00:00",
+  "last_checked_at": "2026-08-03T12:17:28.525903+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
   "query_start_date": "2025-08-03",
@@ -8,8 +8,8 @@
   "successful_journal_count": 10,
   "examined_work_count": 1538,
   "fetched_matching_count": 79,
-  "new_paper_count": 50,
-  "refreshed_paper_count": 29,
+  "new_paper_count": 0,
+  "refreshed_paper_count": 79,
   "paper_count": 79,
   "errors": [],
   "papers": [
