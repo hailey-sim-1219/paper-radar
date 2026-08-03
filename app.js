@@ -81,7 +81,7 @@ function applyFilters() {
 function switchView(view) {
   state.view = view;
 
-  $$(".nav-link").forEach(button => {
+  $$(".nav-link[data-view]").forEach(button => {
     button.classList.toggle(
       "active",
       button.dataset.view === view
