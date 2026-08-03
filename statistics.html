@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="페이퍼 토벌 연구주제 및 방법론 통계">
+  <title>토벌 현황 | 페이퍼 토벌</title>
+  <link rel="icon" type="image/png" href="assets/chiikawa-logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="statistics.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell masthead-inner">
+      <a class="brand" href="index.html" aria-label="페이퍼 토벌 홈">
+        <img class="brand-logo" src="assets/chiikawa-logo.png" alt="">
+        <span>페이퍼 토벌</span>
+      </a>
+
+      <nav class="nav" aria-label="기본 메뉴">
+        <a class="nav-link" href="index.html#main">Main</a>
+        <a class="nav-link" href="index.html#saved">
+          Saved Papers <span id="saved-count" class="nav-count">0</span>
+        </a>
+        <a class="nav-link active" href="statistics.html" aria-current="page">토벌 현황</a>
+      </nav>
+
+      <p class="updated" id="updated">데이터 불러오는 중…</p>
+    </div>
+  </header>
+
+  <main class="shell dashboard-page">
+    <section class="dashboard-title">
+      <div>
+        <p class="dashboard-eyebrow">PAPER HUNTING REPORT</p>
+        <h1>토벌 현황</h1>
+        <p>수집된 논문의 연구주제와 방법론을 한눈에 살펴봅니다.</p>
+      </div>
+      <p class="selection-summary" id="selection-summary">전체 논문 기준</p>
+    </section>
+
+    <section class="dashboard-filters" aria-label="통계 필터">
+      <label>
+        <span>게재 기간</span>
+        <select id="period-filter">
+          <option value="all">전체 기간</option>
+          <option value="1">최근 1개월</option>
+          <option value="3">최근 3개월</option>
+          <option value="6">최근 6개월</option>
+          <option value="12">최근 12개월</option>
+        </select>
+      </label>
+
+      <label>
+        <span>저널</span>
+        <select id="dashboard-journal-filter">
+          <option value="">모든 저널</option>
+        </select>
+      </label>
+
+      <label>
+        <span>연구주제</span>
+        <select id="dashboard-topic-filter">
+          <option value="">모든 연구주제</option>
+        </select>
+      </label>
+
+      <label>
+        <span>방법론</span>
+        <select id="dashboard-method-filter">
+          <option value="">모든 방법론</option>
+        </select>
+      </label>
+
+      <button id="dashboard-reset" type="button">필터 초기화</button>
+    </section>
+
+    <div id="dashboard-error" class="dashboard-error" hidden></div>
+
+    <section class="kpi-grid" aria-label="핵심 통계">
+      <article class="kpi-card">
+        <p>선택된 논문</p>
+        <strong id="kpi-papers">0</strong><span>편</span>
+      </article>
+      <article class="kpi-card">
+        <p>연구주제</p>
+        <strong id="kpi-topics">0</strong><span>개</span>
+      </article>
+      <article class="kpi-card">
+        <p>방법론</p>
+        <strong id="kpi-methods">0</strong><span>개</span>
+      </article>
+      <article class="kpi-card">
+        <p>최근 30일 신규 등록</p>
+        <strong id="kpi-new">0</strong><span>편</span>
+      </article>
+    </section>
+
+    <section class="dashboard-grid">
+      <article class="dashboard-panel">
+        <header>
+          <div>
+            <h2>연구주제 분포</h2>
+            <p>한 논문에 여러 주제가 포함될 수 있습니다.</p>
+          </div>
+        </header>
+        <div id="topic-chart" class="chart" role="img" aria-label="연구주제별 논문 수 차트"></div>
+      </article>
+
+      <article class="dashboard-panel">
+        <header>
+          <div>
+            <h2>방법론 분포</h2>
+            <p>한 논문에 여러 방법론이 포함될 수 있습니다.</p>
+          </div>
+        </header>
+        <div id="method-chart" class="chart" role="img" aria-label="방법론별 논문 수 차트"></div>
+      </article>
+
+      <article class="dashboard-panel wide">
+        <header>
+          <div>
+            <h2>연구주제 × 방법론</h2>
+            <p>색이 진할수록 해당 조합의 논문이 많습니다. 셀을 누르면 조합이 선택됩니다.</p>
+          </div>
+        </header>
+        <div id="heatmap-chart" class="chart heatmap-chart" role="img" aria-label="연구주제와 방법론 교차표"></div>
+      </article>
+
+      <article class="dashboard-panel wide">
+        <header>
+          <div>
+            <h2>월별 게재 추이</h2>
+            <p>논문의 publication date를 기준으로 집계합니다.</p>
+          </div>
+        </header>
+        <div id="trend-chart" class="chart trend-chart" role="img" aria-label="월별 논문 게재 추이"></div>
+      </article>
+
+      <article class="dashboard-panel wide">
+        <header>
+          <div>
+            <h2>주요 주제·방법론 조합</h2>
+            <p>상위 조합을 선택하면 해당 논문만 확인할 수 있습니다.</p>
+          </div>
+        </header>
+        <div class="table-wrap">
+          <table class="dashboard-table">
+            <thead>
+              <tr>
+                <th>순위</th>
+                <th>연구주제</th>
+                <th>방법론</th>
+                <th>논문 수</th>
+                <th>비중</th>
+              </tr>
+            </thead>
+            <tbody id="combination-table"></tbody>
+          </table>
+        </div>
+      </article>
+
+      <article class="dashboard-panel wide">
+        <header>
+          <div>
+            <h2>선택된 논문</h2>
+            <p id="paper-list-description">최신 게재일 기준 최대 25편을 표시합니다.</p>
+          </div>
+        </header>
+        <div id="selected-paper-list" class="selected-paper-list"></div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="shell footer">
+    <p>Metadata and abstracts from <a href="https://openalex.org" target="_blank" rel="noreferrer">OpenAlex</a>.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/echarts@6/dist/echarts.min.js" defer></script>
+  <script src="statistics.js" defer></script>
+</body>
+</html>
