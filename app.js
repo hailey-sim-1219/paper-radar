@@ -125,7 +125,7 @@ async function init() {
 }
 
 $("#search").addEventListener("input", applyFilters); $("#journal-filter").addEventListener("change", applyFilters); $("#sort").addEventListener("change", applyFilters); $("#reset").addEventListener("click", resetFilters);
-$$(".nav-link").forEach(button => button.addEventListener("click", () => switchView(button.dataset.view)));
+$$(".nav-link[data-view]").forEach(button => button.addEventListener("click", () => switchView(button.dataset.view)));
 $(".toolbar").addEventListener("change", event => { const input = event.target.closest("input[data-filter-type]"); if (!input) return; const set = input.dataset.filterType === "topic" ? state.selectedTopics : state.selectedMethods; input.checked ? set.add(input.value) : set.delete(input.value); applyFilters(); });
 $("#active-filters").addEventListener("click", event => { const button = event.target.closest("button"); if (!button) return; const value = button.dataset.removeTopic || button.dataset.removeMethod; const set = button.dataset.removeTopic ? state.selectedTopics : state.selectedMethods; set.delete(value); const input = $(`input[data-filter-type][value="${CSS.escape(value)}"]`); if (input) input.checked = false; applyFilters(); });
 $("#paper-list").addEventListener("click", event => { const bookmark = event.target.closest("[data-bookmark-id]"); if (bookmark) { event.stopPropagation(); toggleSaved(bookmark.dataset.bookmarkId); return; } const card = event.target.closest("[data-paper-id]"); if (card) openPaper(state.papers.find(p => stableId(p) === card.dataset.paperId) || state.saved.get(card.dataset.paperId)); });
