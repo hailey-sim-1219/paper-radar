@@ -47,7 +47,7 @@ function render() {
     const id = stableId(paper); const saved = state.saved.has(id);
     return `<article class="paper" data-paper-id="${escapeHtml(id)}" tabindex="0">
       <div class="paper-meta"><span class="journal">${escapeHtml(paper.journal_short || paper.journal)}</span><p>${formatDate(paper.publication_date)}</p>${isNew(paper) ? '<span class="new-badge">NEW</span>' : ""}</div>
-      <div class="paper-body"><h2>${escapeHtml(paper.title)}</h2><p class="authors">${escapeHtml((paper.authors || []).join(", "))}</p><div class="tags">${tags(paper)}</div><p class="first-seen">Paper Radar 등록일 · ${formatDate(paper.first_seen_at)}</p></div>
+      <div class="paper-body"><h2>${escapeHtml(paper.title)}</h2><p class="authors">${escapeHtml((paper.authors || []).join(", "))}</p><div class="tags">${tags(paper)}</div><p class="first-seen">페이퍼 토벌 등록일 · ${formatDate(paper.first_seen_at)}</p></div>
       <button class="bookmark ${saved ? "saved" : ""}" type="button" data-bookmark-id="${escapeHtml(id)}" aria-label="${saved ? "저장 해제" : "논문 저장"}" aria-pressed="${saved}">${bookmarkSvg()}</button>
     </article>`;
   }).join("");
