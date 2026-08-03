@@ -1,0 +1,806 @@
+{
+  "updated_at": "2026-08-03T07:05:36.549490+00:00",
+  "lookback_days": 365,
+  "paper_count": 29,
+  "errors": [],
+  "papers": [
+    {
+      "id": "W4412619374",
+      "doi": "10.1093/pnasnexus/pgag256",
+      "title": "Disclosing the costs of co-holding liquid assets and high-interest debt has limited impact on behavior",
+      "authors": [
+        "Rafael M. Batista",
+        "Ella Mao",
+        "Abigail B. Sussman",
+        "Neale Mahoney",
+        "Jessica Min"
+      ],
+      "journal": "PNAS Nexus",
+      "journal_short": "PNAS Nexus",
+      "publication_date": "2026-07-28",
+      "abstract": "Abstract Why do consumers simultaneously maintain low-yield liquid assets and high-interest revolving debt? This behavior, known as ``co-holding,'' affects 23\\% of credit card users in our sample from a major international bank and costs the typical co-holder hundreds of dollars annually in unnecessary interest charges. Our analysis of 38 months of detailed banking records reveals that co-holding is remarkably persistent, with typical co-holders maintaining this behavior for most months observed. Our analysis also reveals that co-holding is not a static financial position: co-holders regularly deposit and withdraw from asset accounts while simultaneously making new credit card purchases. To test whether co-holding could be addressed through information disclosure, we conducted a large-scale field experiment (n = 125,328), providing clear information about co-holding behavior and its costs. Customers received targeted messages through their bank's mobile app, where they could easily transfer money from assets to pay down debt. Despite sufficient power to detect economically small effects, we found no meaningful changes in debt repayment amount, though customers did respond in other ways---making more frequent repayments and paying above required minimums. These results challenge explanations based on limited attention or information gaps and suggest that simple information disclosure, even when carefully designed and delivered through trusted channels, may not effectively address costly financial behaviors.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences",
+        "Field Experiment"
+      ],
+      "topics": [
+        "Information Economics"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1093/pnasnexus/pgag256",
+      "journal_url": "https://doi.org/10.1093/pnasnexus/pgag256",
+      "url": "https://doi.org/10.1093/pnasnexus/pgag256"
+    },
+    {
+      "id": "W7170483989",
+      "doi": "10.1287/isre.2024.1235",
+      "title": "Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from Stack Overflow",
+      "authors": [
+        "Sameer Borwankar",
+        "Warut Khern-am-nuai",
+        "Anastasiya Pocheptsova Ghosh",
+        "Karthik Kannan"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-07-24",
+      "abstract": "This study explores the implications of a policy change announced by Stack Overflow, a popular question-and-answer platform, to prohibit the use of ChatGPT for generating questions or answers. To analyze data from Stack Overflow and Reddit, we employ the difference-in-differences (DID) empirical strategy to examine the impact of Stack Overflow’s policy. Our analysis focuses on the linguistic characteristics of content using natural language processing (NLP) techniques and voting features on both platforms. The results indicate that, after the restriction, the users on Stack Overflow exhibited a change in their answer generation, producing answers that exhibited more language complexity, positivity, and a larger number of words than the users on the AskProgramming subreddit. However, there was no discernible impact on the questions asked on Stack Overflow. Notably, the answers on Stack Overflow received more upvotes after the restriction, suggesting that the community perceived them to be of higher quality than answers on the subreddit. The frequency analysis reveals a noticeable decrease in the number of questions and answers posted by users on Stack Overflow following the restriction. Additionally, our supplementary analysis suggests a decrease in first-time contributors on Stack Overflow after the restriction. We validate our findings using an independent natural experiment leveraging Italy’s temporary nationwide ChatGPT ban, as well as a scenario-based experiment with 440 participants that provides direct evidence of compensatory knowledge signaling by contributors when AI-generated content is restricted. This study contributes to the existing literature by providing empirical evidence and insights into the decision to prohibit ChatGPT on a question-and-answer platform and provides practical implications to platform managers, informing them about the impact of the restriction on the change in answer content.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences"
+      ],
+      "topics": [
+        "Generative AI",
+        "Information Economics"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2024.1235",
+      "journal_url": "https://doi.org/10.1287/isre.2024.1235",
+      "url": "https://doi.org/10.1287/isre.2024.1235"
+    },
+    {
+      "id": "W7169761878",
+      "doi": "10.1287/isre.2024.0902",
+      "title": "Do Non-monetary Virtual Gifts Enhance or Diminish Voluntary Paid Gifts? Evidence From a Video Game Live-Streaming Platform",
+      "authors": [
+        "Peiyan Yu",
+        "Raveesh Mayya",
+        "Anindya Ghose"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-07-20",
+      "abstract": "This paper studies how the introduction of non-monetary gift channels affects voluntary monetary gift-giving in video game live-streaming. The ephemeral nature of live-streamed content confines monetization to the broadcast window, making voluntary paid gifts from viewers the dominant revenue source for streamers. Platforms have increasingly introduced non-monetary gifts to encourage viewer participation within streams. Yet there is no causal evidence on whether non-monetary gifts cannibalize or complement monetary gifts. We theorize that when specific platform design conditions are present (real-time public visibility, value-differentiated gift tiers, and synchronous interaction), non-monetary gifts can complement monetary gifts through costly signaling with norm elevation. Leveraging an exogenous policy change on a major live-streaming platform that increased viewers' access to non-monetary gifts, we analyze individual-level transaction data using multiple modern causal inference approaches. We find that non-monetary gifts significantly increase monetary gift spending. The primary driver is signaling dilution, as non-monetary gifts replicate the reputation value of the lowest paid tier, prompting viewers to escalate to costlier options to maintain differentiation. We also find early evidence of habit formation: previously non-paying viewers who experience non-monetary gift-sending are significantly more likely to begin and sustain monetary gifting. The net effect is complementarity over cannibalization, holding across viewer experience levels, streamer popularity tiers, and game genres. Our findings provide evidence that introducing non-monetary options in live-streaming can raise rather than lower voluntary monetary contributions when platform design enables signaling differentiation.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Information Economics"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2024.0902",
+      "journal_url": "https://doi.org/10.1287/isre.2024.0902",
+      "url": "https://doi.org/10.1287/isre.2024.0902"
+    },
+    {
+      "id": "W7168378078",
+      "doi": "10.1287/isre.2023.0549",
+      "title": "Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention",
+      "authors": [
+        "Yan Leng",
+        "Xiao Liu",
+        "Rodrigo Ruiz"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-07-15",
+      "abstract": "Many online platforms now use complex recommender systems to decide which products, restaurants, or services people see. These systems can improve matching, but their recommendations are often hard for users and managers to understand. This article introduces MG-GAT, a recommender system framework that uses multiple networks and attribute data while keeping track of the neighbors and features that influence each recommendation. The same evidence is then used to generate explanations, so the reason shown to a user is tied to the model’s internal decision process rather than added afterward. Across Yelp data from Ontario and Pennsylvania, the method performs competitively with strong deep-learning baselines. In a randomized experiment, explanations based on MG-GAT increased users’ trust, persuasiveness, satisfaction, and engagement relative to similarity-based, social, and SHAP-based explanations. For practice, the results show that platforms do not have to choose between predictive performance and accountable explanations. Recommendation teams can design systems that expose the signals behind predictions, audit generated explanations for unsupported claims, and give users clearer reasons for accepting or questioning automated recommendations.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Randomized Experiment"
+      ],
+      "topics": [
+        "Generative AI",
+        "Digital Platforms"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2023.0549",
+      "journal_url": "https://doi.org/10.1287/isre.2023.0549",
+      "url": "https://doi.org/10.1287/isre.2023.0549"
+    },
+    {
+      "id": "W7168134258",
+      "doi": "10.1287/isre.2024.1248",
+      "title": "Bounded Rationality in the Digital Age: How Salient Negative Secondhand Information on Knowledge-Sharing Platforms Triggers Investor Mis-Reactions",
+      "authors": [
+        "Zhitao Yin",
+        "Ning Jia",
+        "Sean Xin Xu",
+        "Xiaoquan Zhang"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-07-13",
+      "abstract": "Digital platforms increasingly shape how retail investors encounter firm information, not only by spreading new or false content but also by resurfacing accurate information that was already public. This study examines whether such secondhand information affects investor behavior when it becomes salient and negative. In a randomized field experiment on Wikipedia, we added previously disclosed litigation news to selected public firms’ pages and compared outcomes with matched control firms and a placebo group whose pages received routine operations news. The litigation news additions increased Wikipedia pageviews, raised retail trading volume by 15.7%, and narrowed bid-ask spreads by 6.9 basis points; the placebo edits did not produce comparable effects. The effects were more evident when litigation was severe or recent, when firms were more visible or had more positive prior sentiment, and when the litigation signaled governance weakness. These findings suggest that already public negative information can still shape market behavior when platform-mediated resurfacing draws attention to it. Regulators can strengthen investor education about reshared content. Firms can monitor digital platforms for resurfaced sensitive information. Platforms can provide clearer disclosure date and novelty cues. Financial professionals can incorporate source and novelty checks before acting on attention-grabbing firm information.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences",
+        "Field Experiment"
+      ],
+      "topics": [
+        "Digital Platforms"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2024.1248",
+      "journal_url": "https://doi.org/10.1287/isre.2024.1248",
+      "url": "https://doi.org/10.1287/isre.2024.1248"
+    },
+    {
+      "id": "W7167915571",
+      "doi": "10.1287/mnsc.2024.06909",
+      "title": "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya",
+      "authors": [
+        "Nicholas G. Otis",
+        "Rowan Philip Clarke",
+        "Solène Delecourt",
+        "David Holtz",
+        "Rembrand Koning"
+      ],
+      "journal": "Management Science",
+      "journal_short": "MS",
+      "publication_date": "2026-07-10",
+      "abstract": "Scalable and low-cost artificial intelligence (AI) assistance has the potential to improve firm decision making and economic performance, particularly in emerging markets. However, running a business involves a wide range of open-ended problems, making it unclear whether and how recent advances in AI can help business owners around the world make better decisions. In a field experiment with Kenyan entrepreneurs, we evaluated the impact of AI advice on small business revenues and profits by randomizing access to a GPT-4-powered AI business assistant. Although we are unable to reject the null hypothesis of no average treatment effect on firm revenues and profits, we find that the effect for entrepreneurs who were low performing at baseline is over 0.20-standard-deviations lower than for initial high performers. Subsample analyses show that low performers did nearly 10% worse because of the AI assistant, whereas high performers may have benefited by over 15%. This differential impact does not appear to result from differences in the questions posed to the AI or the advice that it provided but rather, from the advice that entrepreneurs chose to implement. More broadly, these results show that generative AI is already capable of impacting real-world business performance—although in uneven and sometimes unexpected ways. This paper was accepted by Anita McGahan, business strategy. Funding: This work was supported by the Weiss Fund, Harvard Business School, Berkeley Haas, the Cora Jane Flood Endowment at Berkeley Haas, the Agency Fund, the South Park Common Social Impact Fellowship, and the Digital Data Design Institute at Harvard. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06909 .",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences",
+        "Field Experiment"
+      ],
+      "topics": [
+        "Generative AI",
+        "Entrepreneurship",
+        "Decision Making"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/mnsc.2024.06909",
+      "journal_url": "https://doi.org/10.1287/mnsc.2024.06909",
+      "url": "https://doi.org/10.1287/mnsc.2024.06909"
+    },
+    {
+      "id": "W7167481291",
+      "doi": "10.1016/j.dss.2026.114723",
+      "title": "Stock time series prediction correction expert: A knowledge-guided stable multiple large language models enhancement method",
+      "authors": [
+        "Dingxiao Wang",
+        "Hongke Zhao",
+        "Likang Wu",
+        "Xinyu Li"
+      ],
+      "journal": "Decision Support Systems",
+      "journal_short": "DSS",
+      "publication_date": "2026-07-06",
+      "abstract": "",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Time-Series Analysis"
+      ],
+      "topics": [
+        "Generative AI"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1016/j.dss.2026.114723",
+      "journal_url": "https://doi.org/10.1016/j.dss.2026.114723",
+      "url": "https://doi.org/10.1016/j.dss.2026.114723"
+    },
+    {
+      "id": "W7166834835",
+      "doi": "10.1287/mnsc.2024.06633",
+      "title": "The Role of Digital Platforms in Data Markets: How Platform-Shared Market Data Through Advanced Analytics Empower Firm Innovation",
+      "authors": [
+        "Yubo Chen",
+        "Xuebin Cui",
+        "Aishen Li",
+        "Banggang Wu",
+        "Liu Yang"
+      ],
+      "journal": "Management Science",
+      "journal_short": "MS",
+      "publication_date": "2026-07-01",
+      "abstract": "Despite the growing value of data in digital markets, data sharing across firms is constrained by increasingly stringent privacy regulations. Digital platforms with their extensive data and analytical capabilities can help overcome these constraints by sharing market information through advanced analytics rather than raw data. In collaboration with Alibaba’s Taobao Marketplace, we utilize a natural experiment and examine how platform-shared data affect retailers’ performance. We find that advanced data analytics increase retailer sales by 31.8% beyond the effects of descriptive analytics. Analytics leveraging platform-level market data generate larger and more persistent performance gains than those relying solely on firm-level data, with small retailers benefiting disproportionately as market data help bridge their information gaps. Mechanism analyses reveal no effect on price and advertising expenditures; instead, platform-shared data enable retailers to innovate their product assortments, expanding category scope by 6.8% and increasing new stock-keeping unit introductions by 10.5%. This study contributes to the data economy literature by demonstrating that platform-shared market data can serve as a critical input to firm innovation, fostering more effective product assortment innovation and sustained performance improvements. Our findings also inform ongoing debates on data and platforms regulation by offering managerial and policy insights into how nonrival market data can be shared by platforms through data analytics to empower traditional businesses. This paper was accepted by Duncan Simester, marketing. Funding: Y. Chen and L. Yang acknowledge the financial support from the National Natural Science Foundation of China [Grant 71991461] and Tsinghua University School of Economics and Management Research Grant. X. Cui acknowledges the financial support from the National Natural Science Foundation of China [Grant 72002096]. B. Wu acknowledges the financial support from the National Natural Science Foundation of China [Grants 72372109 and 71902148] and Guanghua Talent Project of Southwestern University of Finance and Economics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06633 .",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Digital Platforms"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/mnsc.2024.06633",
+      "journal_url": "https://doi.org/10.1287/mnsc.2024.06633",
+      "url": "https://doi.org/10.1287/mnsc.2024.06633"
+    },
+    {
+      "id": "W7166570054",
+      "doi": "10.1002/smj.70105",
+      "title": "Unwind the clock? Temporal distance and user interactions on a digital platform",
+      "authors": [
+        "Wesley Wu-Yi Koo",
+        "Miaomiao Zhang",
+        "Prithwiraj Choudhury"
+      ],
+      "journal": "Strategic Management Journal",
+      "journal_short": "SMJ",
+      "publication_date": "2026-06-29",
+      "abstract": "Abstract Research Summary Digital platforms provide arenas for global knowledge diffusion, but their underlying architecture often relies on synchronous exchange, inadvertently siloing users into distinct “time pockets” based on time zones. Using proprietary data from StackOverflow, we implement a regression discontinuity design to causally estimate that a 1‐h increase (decrease) in the temporal distance between two regions leads to a 13.6% decrease (9.5% increase) in views and a 20.9% decrease (21.0% increase) in votes between those regions. These temporal frictions disproportionately penalize interactions in niche knowledge communities (e.g., sudo, slack‐api) over those in popular ones (e.g., Python, JavaScript). Importantly, we show that a platform can mitigate temporal barriers by shuffling content representation. This paper contributes to our understanding of platform strategy, temporal distance, and global knowledge diffusion. Managerial Summary While digital platforms deliver global connectivity, time zone differences create invisible barriers that stifle user interactions and knowledge exchange. Our research shows that temporal distance between regions on StackOverflow, a global knowledge community for computer programming, significantly reduces cross‐region views and votes. These temporal silos disproportionately harm niche communities, where valuable content is less likely to be shared among users who are not online simultaneously. Popular communities, however, remain largely unaffected. For platform designers, relying solely on chronological feeds inadvertently fragments their global user base. To unlock cross‐border exchange and support specialized communities, managers could adjust algorithms to “shuffle” content representation based on dynamic triggers rather than just the posting time. Doing so bridges temporal gaps and connects out‐of‐sync users.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Regression Discontinuity"
+      ],
+      "topics": [
+        "Digital Platforms"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1002/smj.70105",
+      "journal_url": "https://doi.org/10.1002/smj.70105",
+      "url": "https://doi.org/10.1002/smj.70105"
+    },
+    {
+      "id": "W7167721083",
+      "doi": "10.1093/pnasnexus/pgag236",
+      "title": "Six misconceptions about large language models: A minimal model and diagnostic taxonomy",
+      "authors": [
+        "Zhicheng Lin"
+      ],
+      "journal": "PNAS Nexus",
+      "journal_short": "PNAS Nexus",
+      "publication_date": "2026-06-29",
+      "abstract": "Large language models (LLMs) are now embedded in scientific, educational, and governance workflows, with debates centering on their capabilities, mechanisms, and impacts. Yet these debates remain structured by persistent folk theories-intuitive, informal explanatory models that guide attitudes and actions. Deflationary slogans (\"just autocomplete,\" \"stochastic parrots,\" and \"average of the internet\") and anthropomorphic framings (\"emergent agents\" and \"proto-minds\") each capture genuine features of current systems but mistake those features for the whole. This Perspective proposes a minimal working model of LLM-based systems centered on four distinctions: between pretraining and deployed systems; between the learned distribution and particular samples; among parametric, contextual, and external memory; and between task competence and agency. The model is used to diagnose six misconceptions about LLMs: next-token prediction, regression to the mean, training-data regurgitation, model memory, alignment, and understanding. For each, the analysis identifies what the misconception gets right, which distinctions it conflates, and what follows for capability evaluation, system design, and governance. Applied to publisher AI policies as governance case studies, the framework shows both how policy language can conflate these distinctions and how such errors can be corrected. The model thereby avoids the parrot-mind binary by treating LLMs as simulators of discourse and task performance, offering a diagnostic toolkit for locating and correcting the errors these folk theories perpetuate.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Generative AI"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1093/pnasnexus/pgag236",
+      "journal_url": "https://doi.org/10.1093/pnasnexus/pgag236",
+      "url": "https://doi.org/10.1093/pnasnexus/pgag236"
+    },
+    {
+      "id": "W7166161600",
+      "doi": "10.1287/isre.2023.0635",
+      "title": "Asymmetric Algorithm Aversion",
+      "authors": [
+        "Saunak Basu",
+        "Alan R. Dennis",
+        "Aravinda Garimella",
+        "Wencui Han"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-06-26",
+      "abstract": "Artificial intelligence (AI) is increasingly embedded in decision support systems, yet people do not treat all AI recommendations equally. Drawing on two randomized controlled experiments, a field study using data from a real-world Fintech investment platform, and interviews with industry experts, we identify a phenomenon we call asymmetric algorithm aversion: Although AI advice significantly influenced experts’ evaluations when it recommended against investing, it had no significant effect on experts’ evaluations when it recommended investing. This pattern arises because decision makers perceive AI as effective at analyzing explicit, codified information but less capable of evaluating tacit knowledge, such as leadership quality. As a result, negative AI recommendations are readily accepted, whereas positive recommendations often trigger additional human scrutiny and are frequently discounted. These findings have important implications for organizations deploying AI in finance, hiring, healthcare, and other high-stakes domains where both explicit and tacit knowledge matter. Policymakers and system designers should recognize that AI advice can create systematic biases in human decision making. Effective governance and design strategies should account for users’ differing responses to positive and negative AI recommendations, including the use of explainability features, confidence indicators, and decision processes that promote intentionality in the way in which users incorporate AI advice into their decisions.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Randomized Experiment"
+      ],
+      "topics": [
+        "Decision Making"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2023.0635",
+      "journal_url": "https://doi.org/10.1287/isre.2023.0635",
+      "url": "https://doi.org/10.1287/isre.2023.0635"
+    },
+    {
+      "id": "W7165365027",
+      "doi": "10.1287/mnsc.2024.08619",
+      "title": "Second-Tier Stock Exchanges and Growth of Entrepreneurship",
+      "authors": [
+        "Huasheng Gao",
+        "Po‐Hsuan Hsu",
+        "Yuxi Wang"
+      ],
+      "journal": "Management Science",
+      "journal_short": "MS",
+      "publication_date": "2026-06-19",
+      "abstract": "We examine the role of second-tier stock exchanges in an entrepreneurial context from a global perspective. We construct a country-industry-year panel of global venture capitalist (VC)-invested startups, and find a significant increase in entrepreneurial activity following the launch of such markets. A causal interpretation is supported by additional tests for staggered difference-in-differences regressions and interacted regressions based on industry-specific dependence on second-tier stock exchanges. We propose a VC exit mechanism that receives empirical support: the launch of second-tier stock exchanges positively predicts (i) VC investment in startups, (ii) VCs’ valuation of startups, (iii) startups’ patenting records, (iv) startups’ initial public offering (IPO) likelihood, and (v) startups’ IPO valuation. We find that more startups are created in countries with more VC investment after the launch of such markets. We also find that the effect of second-tier stock exchanges on entrepreneurial ventures increases with financial resources, human capital, and intellectual property protection. This paper was accepted by Matt Marx, entrepreneurship and innovation. Funding: H. Gao acknowledges financial support from the National Natural Science Foundation of China [Grant 72472028]. P.-H. Hsu acknowledges research support from the National Science and Technology Council in Taiwan [Grants NSTC 113-2410-H-007-008-MY3 and NSTC 114-2410-H-007-016-MY3], the Mack Institute for Innovation Management of the Wharton School at the University of Pennsylvania, and the E.SUN Academic Award for financial and research support. Y. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72402130]. This work was also supported by the Dalian Commodity Exchange. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08619 .",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/mnsc.2024.08619",
+      "journal_url": "https://doi.org/10.1287/mnsc.2024.08619",
+      "url": "https://doi.org/10.1287/mnsc.2024.08619"
+    },
+    {
+      "id": "W7164490378",
+      "doi": "10.1287/isre.2023.0581",
+      "title": "Navigating the Influencer Marketplace: Long-Tail Effects and Content Strategies",
+      "authors": [
+        "Lanfei Shi",
+        "Shu He",
+        "Sulin Ba"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-06-12",
+      "abstract": "This study examines how influencer marketplaces reshape sponsorship opportunities and content strategies on social media platforms. Using the launch of RedNote’s influencer marketplace as a natural experiment, we analyze more than 152,000 posts from 1,161 influencers before and after the platform introduced centralized search and matching tools. The findings show that reducing search costs and increasing transparency disproportionately benefit medium-tier influencers, who receive significantly more sponsorship opportunities than top-tier creators after the marketplace launch. The study also finds that influencers strategically adapt their content in response to increased sponsorships. Medium-tier influencers post more organic and diverse content to maintain audience trust and reduce the reputational risks of appearing overly commercialized, whereas top-tier influencers improve the quality of sponsored posts. The findings offer important policy and managerial implications. For platforms, transparent creator marketplaces can broaden economic opportunities for smaller creators and support a healthier, more competitive digital ecosystem. For policymakers, the results highlight how platform design and transparency policies influence competition, market access, and consumer trust in digital labor markets. The study also underscores the importance of governance mechanisms that balance monetization, disclosure, and authenticity in influencer marketing.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Digital Labor"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 1,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2023.0581",
+      "journal_url": "https://doi.org/10.1287/isre.2023.0581",
+      "url": "https://doi.org/10.1287/isre.2023.0581"
+    },
+    {
+      "id": "W7164044051",
+      "doi": "10.1002/sej.70033",
+      "title": "Why theory matters for causal inference? Rethinking endogeneity in entrepreneurship research",
+      "authors": [
+        "Daniel Tzabbar"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2026-06-09",
+      "abstract": "Abstract Endogeneity in entrepreneurship research is often treated as a statistical complication addressable through advanced econometric tools. This commentary argues that such an approach overlooks a deeper issue: endogeneity is conceptual before it is statistical. Because entrepreneurial phenomena involve reciprocal relationships, evolving mechanisms, and context‐dependent processes, biased estimates frequently stem from underspecified constructs and unclear causal logic. I contend that theory, sufficiently precise to specify constructs, articulate mechanisms, and establish temporal ordering and boundary conditions, is the primary tool for reducing endogeneity in empirical estimation. Integrating theory with structural causal modeling and rigorous empirical design strengthens identification while enhancing explanatory value. I conclude with practical recommendations for scholars, emphasizing theory's central role in producing credible, cumulative knowledge in entrepreneurship research. Managerial Summary Entrepreneurs and managers often rely on data to understand what drives venture success, but data alone can be misleading if the underlying assumptions about cause and effect are unclear. This article explains why strong theory—clear ideas about how and why things work—is essential for drawing reliable conclusions from evidence. Endogeneity, a common problem in business research, occurs when factors influence each other in ways that make results appear stronger or weaker than they are. By using theory to map out mechanisms and likely confounding factors, leaders can make better decisions about which actions truly create value. The article also shows how tools like causal modeling can combine conceptual clarity with rigorous analysis, helping organizations design strategies that are both evidence‐based and trustworthy.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1002/sej.70033",
+      "journal_url": "https://doi.org/10.1002/sej.70033",
+      "url": "https://doi.org/10.1002/sej.70033"
+    },
+    {
+      "id": "W7166855685",
+      "doi": "10.25300/misq/2026/19089",
+      "title": "Platform Governance Through Consumer Screening: A Theoretical and Empirical Analysis",
+      "authors": [
+        "Wanying Chen",
+        "Haiyang Feng",
+        "Nan Feng",
+        "Zhengrui Jiang",
+        "Yizhi Wu"
+      ],
+      "journal": "MIS Quarterly",
+      "journal_short": "MISQ",
+      "publication_date": "2026-05-20",
+      "abstract": "In the sharing economy, screening can mitigate information asymmetry between service providers and consumers, but excessive screening may cause market inefficiency. We adopt a multimethod approach to examine how forgoing screening affects competition in the sharing economy. We first develop a game-theoretic model to analyze how a focal service provider’s decision to forgo screening impacts its own and a rival provider’s prices, market demands, and profits. Using Airbnb as the investigation context, we then empirically validate our analytical results. We find that our key analytical and empirical findings are consistent. Specifically, due to aggressive responses from rival providers, a low-rating focal provider may lower its service price after forgoing screening despite its increased attractiveness to consumers. Intriguingly, forgoing screening cannot increase a provider’s demand if its rating is high, whereas the demand for rival providers will increase. Moreover, our analysis reveals that in markets with relatively high competition intensity, forgoing screening benefits all three parties—the focal provider, rival providers, and the sharing platform—thereby improving the total social welfare. Based on these findings, we suggest that sharing platforms should encourage high-rating providers to forgo screening as a strategic approach to enhance the overall market performance. Furthermore, special attention is needed to prevent a decline in social welfare when the provider forgoing screening has a low rating, while its rivals have high ratings. Our findings reveal that platform governance through feature-level design can directly enhance platform profits at the expense of social welfare, thereby creating misaligned incentives and calling for external regulation.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Platform Governance",
+        "Information Economics"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.25300/misq/2026/19089",
+      "journal_url": "https://doi.org/10.25300/misq/2026/19089",
+      "url": "https://doi.org/10.25300/misq/2026/19089"
+    },
+    {
+      "id": "W7155649209",
+      "doi": "10.1002/smj.70094",
+      "title": "Bias in, symbolic compliance out? <scp>GPT</scp> 's reliance on gender and race in strategic evaluations",
+      "authors": [
+        "Tristan L. Botelho",
+        "Qingyang (Iris) Wang"
+      ],
+      "journal": "Strategic Management Journal",
+      "journal_short": "SMJ",
+      "publication_date": "2026-04-24",
+      "abstract": "Abstract Research summary Organizations are increasingly using large language models (LLMs) to support strategic evaluations. We examine whether and how these systems rely on gender and race. We asked GPT to evaluate identical startup pitches varying only the founder's name, shaping gender and race perceptions. Across 26,000 evaluations, GPT did not systematically assign lower scores to underrepresented minorities but avoided ranking them last without increasing winning likelihoods. To explain these patterns, we conducted “Second Opinion” experiments where GPT evaluated pitches alongside inputs simulating human bias. GPT more readily corrected explicit, identity‐based bias than bias framed as neutral business critiques, with corrections limited in magnitude. We theorize these findings reflect symbolic compliance : LLMs suppress overt discrimination without substantively altering evaluative logic, allowing inequality to persist in AI‐supported strategic evaluations. Managerial summary Large language models (LLMs), like OpenAI's ChatGPT, are increasingly used in strategic evaluations (e.g., hiring, pitches). We examine whether and how these models exhibit gender and racial biases in their evaluations of startup pitches, where we only varied founder names (shaping gender and race perceptions). Across multiple experiments, we find that GPT evaluators did not systematically assign lower scores to underrepresented minorities, primarily by reducing their likelihood of being ranked last. However, this behavior reflects a symbolic effort to avoid overt discrimination rather than a deeper fairness commitment. While LLMs may not reproduce historical and societal biases in overt form, their ability to correct them remains limited. These results highlight the need for implementing bias mitigation measures before integrating LLMs into high‐stakes strategic evaluation processes.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences"
+      ],
+      "topics": [
+        "Generative AI",
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1002/smj.70094",
+      "journal_url": "https://doi.org/10.1002/smj.70094",
+      "url": "https://doi.org/10.1002/smj.70094"
+    },
+    {
+      "id": "W7161274451",
+      "doi": "10.1080/07421222.2026.2647466",
+      "title": "Fostering Information Disclosure in Telemental Healthcare Settings: How Telehealth Can Mitigate the Deleterious Effects of Stigma",
+      "authors": [
+        "Ryan Raimi",
+        "Lowry",
+        "Detmar W. Straub"
+      ],
+      "journal": "Journal of Management Information Systems",
+      "journal_short": "JMIS",
+      "publication_date": "2026-04-03",
+      "abstract": "Insufficient patient disclosure and persistent stigma undermine effective mental health care; a challenge magnified during the COVID-19 pandemic. Telehealth offers a promising avenue to reduce access barriers and improve equity, yet its effectiveness depends on patients’ willingness to disclose sensitive information online. This study develops a middle-range, contextually adapted version of the disclosure processes model (DPM) to explain and predict how stigma and technological features shape online self-disclosure in mental health settings. We conducted a randomized web-based experiment with 309 participants who viewed a video vignette depicting a consultation between a patient and a psychiatrist. The vignette manipulated diagnosis (attention-deficit/hyperactivity disorder [ADHD] vs. schizophrenia) and consultation mode (in-person vs. virtual). Results show that willingness to disclose increases with greater trust in technology, higher perceived social presence, and richer communication media. Initial disclosure goals align with differing levels of technological trust and self-disclosure. However, perceived stigma weakens these positive relationships, reducing patients’ readiness to share sensitive information. The research advances theory by extending the DPM into a context-specific, middle-range information systems framework that integrates stigma and media characteristics in online mental health care. Practically, the findings identify key communication features—such as social presence, richness, and trust in telehealth platforms—that can be calibrated to foster disclosure of stigmatized information. These insights inform the design and implementation of telehealth services that promote open communication and improve treatment engagement in mental health and other stigma-laden domains.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Information Economics"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1080/07421222.2026.2647466",
+      "journal_url": "https://doi.org/10.1080/07421222.2026.2647466",
+      "url": "https://doi.org/10.1080/07421222.2026.2647466"
+    },
+    {
+      "id": "W7147608947",
+      "doi": "10.1002/sej.70017",
+      "title": "The impact of workers' compensation laws on entrepreneurial activity",
+      "authors": [
+        "Indu Khurana",
+        "Daniel J. Lee",
+        "Julio O. De Castro"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2026-04-01",
+      "abstract": "Abstract Research Summary Government policy that aims to stimulate business activity often overlooks its indirect impacts on entrepreneurial entry. In particular, the role of free time, especially in concert with liquidity constraints, remains an underexplored factor. In this paper, we exploit two exogenous shocks to workers' free time to furnish plausibly causal effects on entrepreneurial activity: (random) injury and the 2011 amendments to the Illinois workers' compensation laws. Utilizing a two‐way fixed effects estimation, we find that as workers' compensation becomes less generous, that is, by limiting both financial resources and an employee's time away from work, entrepreneurial activity within a specific geographical region is significantly reduced. Thus, we provide evidence of an unintended and negative impact on entrepreneurial activity caused by an indirect policy change. Further, this result unduly affects the recently injured or otherwise disabled. Our results are robust to alternative specifications and data sources, suggesting an important incidence of compensatory insurance regulation on entrepreneurial activity and, as a result, important considerations for future policymaking. Managerial Summary Workers' compensation is a state‐level program that provides replacement wages to workers injured on the job. In 2011, amendments to Illinois' workers' compensation laws made this program less generous in terms of both financial benefits and time out of work. We study the impact of these amendments on entrepreneurial activity. We find that less generous workers' compensation has a large adverse effect on entrepreneurial activity because it constrains two important factors required for experimentation with entrepreneurship: financial resources and time. Our results hold up to several statistical models and controls, including local innovative and high‐tech firms, as well as alternative datasets. Our findings yield important insights for policymakers in other states drafting such regulations and for researchers studying the incidence of such policies.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Fixed Effects / Panel Data"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1002/sej.70017",
+      "journal_url": "https://doi.org/10.1002/sej.70017",
+      "url": "https://doi.org/10.1002/sej.70017"
+    },
+    {
+      "id": "W7154748512",
+      "doi": "10.25300/misq/2026/19113",
+      "title": "Digital Transformation Learning: The Value of Learning from the Digitalization of Traditional Industries Through Shared Digital Suppliers",
+      "authors": [
+        "Tianyu Hou",
+        "Yubo Chen",
+        "Juan Feng",
+        "Juan Li"
+      ],
+      "journal": "MIS Quarterly",
+      "journal_short": "MISQ",
+      "publication_date": "2026-03-05",
+      "abstract": "While extant studies have investigated how digital industries influence the digital transformation of traditional firms, the impact of learning from the digitalization of traditional industries has been largely overlooked. This study addresses this gap by introducing the concept of digital transformation centrality (DTC) – a novel measure of the informational advantages and associated costs a firm accrues based on its position within a network of traditional firms interconnected through their shared digital suppliers. DTC captures a new type of IT spillover: digital suppliers accumulate digital transformation knowledge by serving traditional firms, and such knowledge then spills over to other traditional firms they serve. Using extensive longitudinal data on global supply chain relationships and firm fundamentals, we find that DTC has an inverted U-shaped relationship with firm value. This shows a non-monotonic impact of digital transformation learning from traditional industries. Moreover, we develop a curvilinear mediation model to uncover the underlying mechanisms, finding that the effect of DTC is partially mediated by both innovation output and the real value of innovations. These results demonstrate the essential roles of digital suppliers in both offering digital technologies and enabling the dissemination of digital transformation knowledge among traditional firms, and provide new insights for understanding digital transformation and IT spillover across industries.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Digital Innovation"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.25300/misq/2026/19113",
+      "journal_url": "https://doi.org/10.25300/misq/2026/19113",
+      "url": "https://doi.org/10.25300/misq/2026/19113"
+    },
+    {
+      "id": "W7154743678",
+      "doi": "10.25300/misq/2026/19079",
+      "title": "Extending the Digital Divide: The Role of Unequal Analytical Abilities1",
+      "authors": [
+        "H Zhang",
+        "Zhiqiang Zheng",
+        "Amit Mehra"
+      ],
+      "journal": "MIS Quarterly",
+      "journal_short": "MISQ",
+      "publication_date": "2026-03-04",
+      "abstract": "The classic digital divide theory asserts that unequal access to and unequal experience with information technologies may lead to unequal user outcomes. This paper introduces a new perspective to extend this theory: outcome divides can persist despite equal access and equal experience if users differ in their analytical ability to analyze and interpret available data for decision-making. We term this new data-to-decision skill as analytical ability and integrate it into the classic digital divide framework. We develop a new approach to operationalize analytical ability by contrasting humans’ actual performance against that of a standard machine learning model that makes similar analytical decisions based on the same information available to humans, essentially emulating a quasi-random counterfactual setting. To minimize the confounding impact of other divides, we validate the role of analytical ability in information-transparent environments like the blockchain-based trading markets, where all historical trading data is equally available to all users on the blockchain. We leverage data from EnjinX, a blockchain-enabled non-fungible token (NFT) marketplace that records all historical NFT transactions. We measure user outcomes by their flip trading performance, a standard metric captured via the percentage of exploited flipping opportunities. Our empirical analysis reveals that disparities in analytical ability may become the new bottleneck for outcome equity: flip trading performance could decrease by 66.86% when traders are incapable of analyzing the available blockchain information effectively. Our study contributes to the literature by extending the digital divide theory with the notion of the analytical ability divide. Moreover, we are among the first to rigorously quantify analytical ability and empirically test its impact based on the extended digital divide framework. Our study also offers important practical implications for platforms and policymakers to bridge this new divide in order to foster outcome equity.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Decision Making"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 1,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.25300/misq/2026/19079",
+      "journal_url": "https://doi.org/10.25300/misq/2026/19079",
+      "url": "https://doi.org/10.25300/misq/2026/19079"
+    },
+    {
+      "id": "W7134197344",
+      "doi": "10.1002/smj.70073",
+      "title": "AI orchestrator: How recommendation algorithms shape complementor strategy and market equality",
+      "authors": [
+        "Xiaowei Zhang",
+        "Siliang Tong",
+        "Xueming Luo",
+        "Zhijie Lin",
+        "Jing Li"
+      ],
+      "journal": "Strategic Management Journal",
+      "journal_short": "SMJ",
+      "publication_date": "2026-03-04",
+      "abstract": "Abstract Research Summary This study investigates how AI recommendation algorithms shape complementor strategies and market equality on digital platforms. Using two quasi‐natural experiments from a food‐sharing platform, we examine impacts of sequential algorithmic upgrades: from a location‐based baseline to popularity‐based (PopRec) and then personalization‐based (PersRec). Analyses of over 1.7 million observations reveal that PopRec drives complementors to concentrate on a few offerings, while PersRec encourages new product introduction; yet these strategic shifts come at the expense of one another. Furthermore, PopRec reduces revenues of superstars but boosts revenues for long‐tail complementors, enhancing market equality. Conversely, PersRec exacerbates market inequality by asymmetrically benefiting superstars. By bridging platform orchestration and AI frontiers, this study demonstrates the strategic potential of AI in platform management while underscoring the importance of algorithmic accountability. Managerial Summary Digital platforms increasingly deploy AI recommendation algorithms to manage ecosystem performance. This study reveals that these algorithms also function as effective orchestration mechanisms, incentivizing and shaping complementor offering strategies at scale. We find that popularity‐based algorithms incentivize complementors to specialize and concentrate on a few core product offerings, while personalization‐based algorithms foster broader new product introduction. Our results demonstrate the vital strategic value of AI for managing platform ecosystems. Crucially, both algorithms present inherent trade‐offs for complementor strategies and trigger unforeseen market dynamics. Platform owners must meticulously design and implement algorithmic systems, balancing ecosystem generativity with operational control and considering far‐reaching market inequality implications.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Digital Platforms"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1002/smj.70073",
+      "journal_url": "https://doi.org/10.1002/smj.70073",
+      "url": "https://doi.org/10.1002/smj.70073"
+    },
+    {
+      "id": "W7127989281",
+      "doi": "10.1002/sej.70016",
+      "title": "The power of expressed humility: Early stage investors' reaction to humble entrepreneurs",
+      "authors": [
+        "Laurent Vilanova",
+        "Ivana Vitanova"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2026-02-05",
+      "abstract": "Abstract Research Summary We examine how entrepreneur‐expressed humility affects early stage investors' willingness to fund new ventures. In pitching contexts where investors rely on relational cues and implicit prototypes of entrepreneurs, we theorize three distinct pathways through which expressed humility shapes funding decisions. First, building on research regarding interpersonal signals in early stage valuation, we propose that humility fosters perceptions of interpersonal affect and trust and team‐building qualities, increasing investors' willingness to fund. Second, drawing on implicit leadership theories, we argue that humility may trigger negative perceptions regarding the entrepreneur's ability to make rapid and risky decisions. Across a videometric analysis of 140 real‐world pitches and a randomized experiment with French early stage investors, we show that expressed humility elicits both pathways, but investors prioritize positive attributions. Managerial Summary Although humility is often regarded as a positive leadership trait, it contradicts implicit prototypes of successful entrepreneurs, who are typically seen as dominant and assertive. We examine how early stage investors perceive and respond to displays of humility during pitches. We propose that entrepreneur‐expressed humility produces ambiguous effects: It enhances perceptions of interpersonal affect and trust and team‐building qualities, but raises doubts about the entrepreneur's ability to make rapid and risky decisions. Using a videometric analysis of 140 pitches from the French version of Shark Tank and a randomized experiment with venture capital investors, we find evidence for these competing pathways. Overall, investors prioritize the positive attributions of interpersonal skills, suggesting that entrepreneurs benefit from expressing humility when pitching.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Randomized Experiment"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1002/sej.70016",
+      "journal_url": "https://doi.org/10.1002/sej.70016",
+      "url": "https://doi.org/10.1002/sej.70016"
+    },
+    {
+      "id": "W7133795767",
+      "doi": "10.1080/07421222.2025.2602400",
+      "title": "Artificial Intelligence and Jobs: Has the Inflection Point Arrived? Evidence from an Online Labor Platform",
+      "authors": [
+        "Dandan Qiao",
+        "Huaxia Rui",
+        "Xiong Qian"
+      ],
+      "journal": "Journal of Management Information Systems",
+      "journal_short": "JMIS",
+      "publication_date": "2026-01-02",
+      "abstract": "This study investigates how artificial intelligence (AI) influences various online labor markets (OLMs) over time. Employing the Difference-in-Differences method, we discovered two distinct scenarios following ChatGPT’s launch: displacement effects featuring reduced work volume and earnings, exemplified by translation & localization OLM; productivity effects featuring increased work volume and earnings, exemplified by web development OLM. To understand these opposite effects in a unified framework, we developed a Cournot competition model to identify an inflection point for each market. Before this point, human workers benefit from AI enhancements; beyond this point, human workers would be replaced. Further analyzing the progression from ChatGPT 3.5 to 4.0, we found three effect scenarios, reinforcing our inflection point conjecture. Heterogeneous analyses reveal that U.S. web developers tend to benefit more from ChatGPT’s launch compared to their counterparts in other regions. Experienced translators seem more likely to exit the market than less experienced translators.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Difference-in-Differences"
+      ],
+      "topics": [
+        "Generative AI",
+        "Digital Labor"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 1,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1080/07421222.2025.2602400",
+      "journal_url": "https://doi.org/10.1080/07421222.2025.2602400",
+      "url": "https://doi.org/10.1080/07421222.2025.2602400"
+    },
+    {
+      "id": "W7133649211",
+      "doi": "10.1080/07421222.2025.2602399",
+      "title": "Digital Innovation as an Outcome and a Process: The Juxtaposed Effects on Firm Performance",
+      "authors": [
+        "Hui Peng",
+        "You Lü",
+        "Xin Luo"
+      ],
+      "journal": "Journal of Management Information Systems",
+      "journal_short": "JMIS",
+      "publication_date": "2026-01-02",
+      "abstract": "Extant research on how digital innovation impacts firm performance is equivocal. To address this critical lack of epistemological clarity, our study seeks to disentangle the juxtaposed roles of digital innovation as both an outcome and a process. When conceived as an outcome, digital innovation directly impacts firm performance, although previous studies report inconsistent results. When considered as a process, digital innovation either enables or inhibits the leveraging of research and development (R&D) investments, a distinctive recognition that has not been substantiated with empirical evidence. Our research ushers in the two constructs of juxtaposed roles in digital innovation, develops a scale for their measurement, and empirically confirms their separability at the firm level. The research model is tested through a comprehensive empirical analysis involving 332 Chinese firms. This is the first study to discover that, as an outcome, there is an inverted U-shaped relationship between digital innovation and firm performance, while as a process, digital innovation leverages R&D investments depending on environmental uncertainty. More important, the juxtaposed roles of digital innovation are complementary and substitutive in shaping firm performance. Furthermore, we find that digital innovation can function in terms of flexibility, agility, resilience, and risk under different technological and market uncertainties. These findings remain robust across various empirical validations.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Digital Innovation"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1080/07421222.2025.2602399",
+      "journal_url": "https://doi.org/10.1080/07421222.2025.2602399",
+      "url": "https://doi.org/10.1080/07421222.2025.2602399"
+    },
+    {
+      "id": "W7133830289",
+      "doi": "10.1080/07421222.2025.2602395",
+      "title": "Do Mildly Ill Patients Really Need an Offline Doctor? Deciphering Health Choices from Artificial Intelligence Diagnostic Design and Trust Dynamics",
+      "authors": [
+        "Aihui Chen",
+        "You Lü"
+      ],
+      "journal": "Journal of Management Information Systems",
+      "journal_short": "JMIS",
+      "publication_date": "2026-01-02",
+      "abstract": "Artificial intelligence (AI) technology offers huge potential for addressing the shortage of offline healthcare through providing accurate diagnostics and treatment recommendations for mildly ill patients. Based on the dual process theory, this paper theorizes the relative impacts of the three design attributes of AI diagnostics (i.e. intelligence level, explainability, and uniqueness consideration) on two types of trust (i.e. cognition-based trust and affect-based trust), the relative impacts of these two types of trust on people’s demand for offline healthcare, and the roles of medical fear in moderating the influence of two types of trust on demand for offline healthcare. In Study 1, we conduct a field experiment with 676 subjects who have mild illnesses. Using a variety of data analysis techniques, we draw several key conclusions: (1) the three attributes of AI diagnostics differentially influence cognition-based and affect-based trust; (2) cognition-based trust has a stronger negative effect on demand for offline healthcare than affect-based trust; and (3) medical fear weakens the relationship between cognition-based trust and demand for offline healthcare, while strengthening the relationship between affect-based trust and demand for offline healthcare. Robustness tests confirm these findings and rule out the influence of disease severity. In Study 2, using experimental data from 205 critically ill subjects, we find that critically ill patients can develop trust in AI diagnostic systems when these systems are well-designed in terms of intelligence, explainability, and uniqueness. However, this trust does not significantly reduce their reliance on offline medical resources, which means the substitutional relationship between AI diagnostics and offline healthcare cannot apply to critically ill patients. This study contributes to the design of AI diagnostics, trust-building mechanisms, and patients’ decision-making processes.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Field Experiment"
+      ],
+      "topics": [
+        "Decision Making"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 1,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1080/07421222.2025.2602395",
+      "journal_url": "https://doi.org/10.1080/07421222.2025.2602395",
+      "url": "https://doi.org/10.1080/07421222.2025.2602395"
+    },
+    {
+      "id": "W7117966348",
+      "doi": "10.1002/sej.70011",
+      "title": "New venture team stability and long‐run organizational growth",
+      "authors": [
+        "Jerry Guo",
+        "Anders Frederiksen",
+        "L. Frederiksen"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2026-01-01",
+      "abstract": "Abstract Research Summary We explore the impact of new venture team (NVT) stability on long‐run organizational growth. With an instrumental variable design, we leverage a matched employer‐employee dataset of all Danish new ventures from 1981 to 1997. We find strong evidence that NVT stability has a positive effect on organizational growth in employees and that the effect grows stronger over time. We also find that stability is especially impactful for larger teams and for teams with higher education levels. The gains from stability also appear to be driven entirely by mixed‐gender teams. We connect our findings to the literature on NVT dynamics and suggest avenues for future research. Managerial Summary Stability within founding teams is crucial for the longevity and expansion of new ventures. We examine a dataset of Danish startups and find that ventures with stable founding teams demonstrate a 16.1 percentage point higher likelihood of survival and a 20.4% increase in average size after 10 years. This effect is accentuated in larger, more educated, and gender‐diverse teams. For entrepreneurs, these insights underscore the importance of not only assembling a strong initial team but also maintaining its composition to leverage growth opportunities as the business evolves.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Instrumental Variables"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1002/sej.70011",
+      "journal_url": "https://doi.org/10.1002/sej.70011",
+      "url": "https://doi.org/10.1002/sej.70011"
+    },
+    {
+      "id": "W7128603871",
+      "doi": "10.25300/misq/2025/19559",
+      "title": "The Rise and Fall of Stars: The Swaying Effects of Displaying Online Rating Trends*",
+      "authors": [
+        "Hamed Qahri-Saremi"
+      ],
+      "journal": "MIS Quarterly",
+      "journal_short": "MISQ",
+      "publication_date": "2025-12-13",
+      "abstract": "Despite the prevalence of single average ratings on online rating platforms, they mask nuanced insights in online ratings. This paper contributes to the burgeoning literature on this topic by illustrating the importance of critical, yet overlooked, information obscured by single average ratings: trend information in online ratings. Online ratings are not static; they change over time as product/service quality changes and consumer expectations and preferences shift. The trend information embedded in online ratings enables consumers to go beyond past ratings to extrapolate expected ratings in the future. I focus on this aspect of online ratings and investigate (a) the effects of displaying trends in online ratings on consumer purchase decisions, (b) the mechanism mediating these trend effects, and (c) the situational contingency factors moderating these trend effects. Drawing on psychological momentum (PM) theory and four randomized controlled experiments (total n=2,015), this paper shows that the presence and explicit presentation of trends in online ratings create a PM experience that sways consumer decisions. It further demonstrates that the potency of these trend effects depends on the trend’s norm alignment, valence, surface forms of online ratings, and trend continuity. I will discuss the contributions of these findings to the research and practice of online ratings.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Randomized Experiment"
+      ],
+      "topics": [
+        "Decision Making"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.25300/misq/2025/19559",
+      "journal_url": "https://doi.org/10.25300/misq/2025/19559",
+      "url": "https://doi.org/10.25300/misq/2025/19559"
+    },
+    {
+      "id": "W4414905983",
+      "doi": "10.1002/sej.70006",
+      "title": "Anti‐labor environments and employee entrepreneurship: Evidence from right‐to‐work laws",
+      "authors": [
+        "Daehyun Kim",
+        "Namil Kim",
+        "Haemin Dennis Park"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2025-10-07",
+      "abstract": "Abstract Research Summary We explore how changes in labor unions and related labor environments affect employees' likelihood of starting a new business. We suggest that the enactment of stringent anti‐union laws reduces incentives for employees to stay with their respective workplaces and increases the attractiveness of becoming self‐employed. Using the adoption of right‐to‐work (RTW) laws in Michigan and Indiana as a quasi‐natural experiment, we find that the likelihood of employees becoming self‐employed increased by 53% compared with that of states without RTW laws. Moreover, this tendency is more pronounced for blue‐collar and low‐wage workers who start unincorporated businesses. These findings offer novel insights on the relationship between anti‐labor environments and necessity‐driven entrepreneurship by focusing on individual‐level incentives in non‐knowledge‐intensive sectors. Managerial Summary Changes in employment conditions influence employees to consider starting their own businesses, yet our understanding of how these changes drive individuals toward entrepreneurship remains limited. This study explores how weakened labor union power affects workers' engagement in entrepreneurial activities, with a focus on the types of employees impacted and the businesses that they start. By examining the adoption of RTW laws in Michigan and Indiana, we find that weakened labor union power disproportionately affects blue‐collar and low‐wage workers, increasing their likelihood of starting unincorporated businesses. These results suggest that managers and policymakers should consider the challenges faced by these workers and how changes in employment conditions may shape their career choices.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Other Quantitative Empirical"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 1,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1002/sej.70006",
+      "journal_url": "https://doi.org/10.1002/sej.70006",
+      "url": "https://doi.org/10.1002/sej.70006"
+    },
+    {
+      "id": "W4413318638",
+      "doi": "10.1002/sej.70002",
+      "title": "Broadening the entrepreneurship funnel for women in poverty contexts: Field‐experimental evidence from India",
+      "authors": [
+        "Leena Kinger Hans",
+        "Juan Ma"
+      ],
+      "journal": "Strategic Entrepreneurship Journal",
+      "journal_short": "SEJ",
+      "publication_date": "2025-08-19",
+      "abstract": "Abstract Research Abstract We study how providing knowledge about “how to do entrepreneurship” influences women's pre‐entry decision to enroll in micro‐entrepreneurship training in poverty settings. We carry out a field experiment study with unemployed women in rural India, randomly exposing them to “founding templates” that depict simple and replicable business set‐ups and practices. We find that exposure to founding templates, especially those that exemplify social support rather than self‐dependence, significantly increases women's sign‐ups to entrepreneurship training. We also find that increased sign‐ups are accompanied by enhanced perceived ease of starting a business. These results shed light on what motivates women in the pre‐entry stage and offer insights on how to increase enrolment, ultimately broadening women's participation in entrepreneurship in poverty contexts. Managerial Abstract Micro‐entrepreneurship training is a widely used intervention to support women's participation in entrepreneurship in poverty settings. While existing research predominantly focuses on assessing the impact of such interventions, we ask when women are motivated to sign up for training in the first place. Our study involved a full‐day information workshop, targeting unemployed women in rural India and providing them with frameworks and practical examples of replicable business setups and practices. Results indicate that access to templates, especially those that exemplify social support rather than self‐dependence, significantly boosts women's confidence and motivation to consider entrepreneurship as a viable option. We thus identify a key institutional lever for broadening the funnel of women's entry into training and entrepreneurship.",
+      "first_seen_at": "2026-08-03",
+      "methods": [
+        "Field Experiment"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1002/sej.70002",
+      "journal_url": "https://doi.org/10.1002/sej.70002",
+      "url": "https://doi.org/10.1002/sej.70002"
+    }
+  ]
+}
