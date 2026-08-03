@@ -79,10 +79,17 @@ function applyFilters() {
 }
 
 function switchView(view) {
-  state.view = view; $$(".nav-link").forEach(button => button.classList.toggle("active", button.dataset.view === view));
-  if (view === "saved") { $("#page-title").innerHTML = "저장한 논문을<br><span>다시 살펴보세요.</span>"; $("#page-intro").textContent = "책갈피로 보관한 연구를 한곳에서 검색하고 분류할 수 있습니다."; }
-  else { $("#page-title").innerHTML = "새로운 논문을<br><span>놓치지 마세요.</span>"; $("#page-intro").textContent = "관심 저널의 최신 정량연구를 모으고, 초록에서 연구주제와 방법론을 찾아냅니다."; }
-  history.replaceState(null, "", `#${view}`); applyFilters();
+  state.view = view;
+
+  $$(".nav-link").forEach(button => {
+    button.classList.toggle(
+      "active",
+      button.dataset.view === view
+    );
+  });
+
+  history.replaceState(null, "", `#${view}`);
+  applyFilters();
 }
 
 function updateDialogBookmark() {
