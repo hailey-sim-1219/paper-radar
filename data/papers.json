@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-03T13:17:12.826059+00:00",
-  "last_checked_at": "2026-08-03T13:17:12.826059+00:00",
+  "updated_at": "2026-08-04T06:40:25.627773+00:00",
+  "last_checked_at": "2026-08-04T06:40:25.627773+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2025-08-03",
+  "query_start_date": "2025-08-04",
   "journal_count": 10,
   "successful_journal_count": 10,
   "examined_work_count": 1538,
-  "fetched_matching_count": 79,
+  "fetched_matching_count": 78,
   "new_paper_count": 0,
-  "refreshed_paper_count": 79,
+  "refreshed_paper_count": 78,
   "paper_count": 79,
   "errors": [],
   "papers": [
@@ -42,7 +42,7 @@
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "url": "https://doi.org/10.1093/pnasnexus/pgag256",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7170483989",
@@ -72,7 +72,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.1235",
       "journal_url": "https://doi.org/10.1287/isre.2024.1235",
       "url": "https://doi.org/10.1287/isre.2024.1235",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7169761878",
@@ -100,7 +100,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.0902",
       "journal_url": "https://doi.org/10.1287/isre.2024.0902",
       "url": "https://doi.org/10.1287/isre.2024.0902",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7168378078",
@@ -129,7 +129,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0549",
       "journal_url": "https://doi.org/10.1287/isre.2023.0549",
       "url": "https://doi.org/10.1287/isre.2023.0549",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7168134258",
@@ -159,7 +159,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.1248",
       "journal_url": "https://doi.org/10.1287/isre.2024.1248",
       "url": "https://doi.org/10.1287/isre.2024.1248",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7167915571",
@@ -192,7 +192,7 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06909",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06909",
       "url": "https://doi.org/10.1287/mnsc.2024.06909",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7167481291",
@@ -221,7 +221,7 @@
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114723",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114723",
       "url": "https://doi.org/10.1016/j.dss.2026.114723",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7166834835",
@@ -251,7 +251,7 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06633",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06633",
       "url": "https://doi.org/10.1287/mnsc.2024.06633",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7166570054",
@@ -279,7 +279,7 @@
       "doi_url": "https://doi.org/10.1002/smj.70105",
       "journal_url": "https://doi.org/10.1002/smj.70105",
       "url": "https://doi.org/10.1002/smj.70105",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7167721083",
@@ -305,7 +305,7 @@
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag236",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag236",
       "url": "https://doi.org/10.1093/pnasnexus/pgag236",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7166161600",
@@ -334,7 +334,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0635",
       "journal_url": "https://doi.org/10.1287/isre.2023.0635",
       "url": "https://doi.org/10.1287/isre.2023.0635",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7165365027",
@@ -362,7 +362,7 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.08619",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.08619",
       "url": "https://doi.org/10.1287/mnsc.2024.08619",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7164490378",
@@ -390,7 +390,7 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0581",
       "journal_url": "https://doi.org/10.1287/isre.2023.0581",
       "url": "https://doi.org/10.1287/isre.2023.0581",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7164044051",
@@ -416,7 +416,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70033",
       "journal_url": "https://doi.org/10.1002/sej.70033",
       "url": "https://doi.org/10.1002/sej.70033",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7163991885",
@@ -430,7 +430,7 @@
       "publication_date": "2026-06-09",
       "abstract": "Using online lending microdata, I show that sleep has important consequences for household financial outcomes. Insufficient sleep raises default risk, particularly for loan applications made in the morning when the effects of a lack of sleep are strongest. For identification, I apply a spatial regression discontinuity design leveraging exogenous discontinuities in sunset time across time zone boundaries, supplemented by analyses utilizing daylight savings time shifts. The results suggest that a behavioral mechanism behind this effect is increased levels of heuristic thinking in the application process, signaling a lack of deliberation in acquiring additional credit under the conditions of poor sleep. These findings are consistent with laboratory studies demonstrating that sleep loss is associated with lower risk aversion and impulsivity. Overall, this study provides the first evidence of the impact of insufficient sleep on household behavior and welfare in credit markets. This paper was accepted by Camelia Kuhnen, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04031 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Regression Discontinuity"
       ],
@@ -459,7 +459,7 @@
       "publication_date": "2026-05-30",
       "abstract": "As organizations increasingly rely on algorithmic decision aids, human oversight is vital to prevent automated errors from spreading. But what makes experts correct an algorithm or let it stand? In a preregistered randomized experiment, education experts reviewed identical student work paired with an intentionally inaccurate score labeled as either human- or AI-generated. We independently varied whether the score was too harsh or too lenient. The outcome-the grading fairness gap-measures the distance between the expert's revised mark and the objective rating. Under a harsh recommendation, the gap was 22% larger when the score was labeled as AI-generated; in the lenient case, the fairness gap under AI and human labels was statistically indistinguishable. Mediation analysis reveals that higher perceived ability and responsibility of the algorithm in the harsh scenario explain over half of the effect, while weaker attributions in the lenient case lead to stricter corrections. Thus, deference to AI depends not on automation itself but on the direction of its errors and the credibility it signals-offering design insights for accountable human-AI collaboration.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Randomized Experiment"
       ],
@@ -488,7 +488,7 @@
       "publication_date": "2026-05-27",
       "abstract": "Organizations increasingly use machine learning (ML) and artificial intelligence (AI), including large language models, to generate variables for regression models that inform business and policy decisions. For example, practitioners may use AI to predict review sentiment, ad aesthetics, or emotional expressions, and then estimate their causal effects on outcomes such as sales or engagement. However, because AI predictions are imperfect, directly using these AI-generated variables as regressors introduces measurement error that can systematically bias causal estimates, potentially leading to over- or underinvestment in business strategies. We develop new estimators that correct this bias in partially linear regression models, which are widely deployed in experimental systems at major platforms, including Tencent, Amazon AWS, and Microsoft. Our approach requires only a small human-annotated subsample alongside the large AI-labeled data set to achieve unbiased and efficient estimation. We demonstrate that our methods work with both traditional ML algorithms and LLM-based predictions. Our framework can be directly integrated into existing analytics and experimental systems, enabling practitioners to leverage the scalability of AI-generated data while maintaining reliable causal conclusions. This work also has implications for AI fairness, as our approach can help correct biases from any source in AI predictions.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -515,7 +515,7 @@
       "publication_date": "2026-05-25",
       "abstract": "Strategic product placement can have a strong influence on customer purchase behavior in physical stores as well as online platforms. Motivated by this, we consider the problem of optimizing the placement of substitutable products in designated display locations to maximize the expected revenue of the seller. We model the customer behavior as a two-stage process: first, the customer visits a subset of display locations according to a browsing distribution; and second, the customer chooses at most one product from the displayed products at those locations according to a choice model. Our goal is to design a general algorithm that can select and place the products optimally for any browsing distribution and choice model, and we call this the Placement problem. We give a randomized algorithm that utilizes an [Formula: see text]-approximate algorithm for cardinality-constrained assortment optimization and outputs a [Formula: see text]-approximate solution (in expectation) for Placement with m display locations—that is, our algorithm outputs a solution with value at least [Formula: see text] factor of the optimal—and this is tight in the worst case. We also give algorithms with stronger guarantees in some special cases. In particular, we give an efficient deterministic [Formula: see text]-approximation algorithm for the Markov choice model and a tight [Formula: see text]-approximation algorithm for the problem when products have identical prices. This paper was accepted by Omar Besbes, revenue management and market analytics. Funding: O. El Housni received financial support from the National Science Foundation (NSF) Division of Civil, Mechanical, and Manufacturing Innovation [Grant 2226900]. R. Udwani received financial support from the NSF Division of Civil, Mechanical, and Manufacturing Innovation [Grant 2340306]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03826 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -544,7 +544,7 @@
       "publication_date": "2026-05-22",
       "abstract": "Choice inconsistency is ubiquitous in economic decision making. Standard random utility models as well as sequential sampling models account for it and predict a relation between inconsistency rates and utility differences (strength-of-preference effects). The latter phenomenon is well-established empirically. However, recent literature argues that inconsistency might be the outcome of a deliberate attempt to implement an explicit preference for randomization. We collected new data in three preregistered experiments and also reanalyzed the previous evidence for this explanation. Our evidence is generally well-explained by strength-of-preference effects. That is, people are less consistent for choices that are closer to indifference. When an option to randomize is made explicit and salient, this option is sometimes chosen. However, in a within-subject design, we statistically reject the hypothesis that explicit mixing in one-shot decisions (revealed preference for randomization) equals choice proportions in repeated decisions (choice inconsistency). The deliberate choice of randomization devices is influenced both by explicit costs (if any) and whether decision makers are close to indifference between the nonrandomized alternatives. The latter effect might create a correlation with choice inconsistency at the aggregate level. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: Financial support from the Spanish Ministry of Science and Innovation [Grant PID2022-136977NB-I00] is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05415 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -587,7 +587,7 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19089",
       "journal_url": "https://doi.org/10.25300/misq/2026/19089",
       "url": "https://doi.org/10.25300/misq/2026/19089",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7160599834",
@@ -604,7 +604,7 @@
       "publication_date": "2026-05-08",
       "abstract": "As social media platforms deploy large language model (LLM)-powered agents to help influencers manage social relationships with users, it remains unclear how this delegation impacts user engagement. Automating interactions provides scalability and efficiency for influencers, but it may weaken the influencer-user relationship if the agents fail to serve as effective social delegates. To explore this question, we empirically investigate the impact on user engagement when influencers delegate social interaction tasks, such as replying to comments, to a social artificial intelligence (AI) agent, an LLM-powered proxy that responds on behalf of an influencer. Leveraging the rollout of a social AI agent feature on a major social media platform, we use a staggered difference-in-differences design to compare engagement behaviors between users who received an AI reply (i.e., a reply from an influencer’s social AI agent) and those who did not. Our results show that receiving an AI reply significantly increases user commenting on subsequent influencer posts, particularly when AI replies amplify an influencer’s social presence, as reflected in content relevance, stylistic alignment, and reply timeliness. We also find heterogeneous effects based on influencer-user relationships: engagement gains are stronger among loyal followers but weaker for commercialized influencers and those in the technology domain. Additionally, reply scarcity amplifies the effect: engagement increases more when influencers rarely replied previously or when fewer AI replies appear under the focal post. The engagement boost extends to both sponsored and nonsponsored posts, as well as user reposting behavior, whereas influencers themselves also post more frequently after adopting AI agents. This study contributes to the literature on AI delegation and influencer engagement by highlighting when and how delegating social relationship management to social AI agents can enhance user engagement. History: Jeffrey Parsons, Senior Editor; Pallab Sanyal, Associate Editor. Supplemental Material: The online appendices are available at https://doi.org/10.1287/isre.2025.2270 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -636,7 +636,7 @@
       "publication_date": "2026-04-30",
       "abstract": "Mobile commerce platforms face persistent search frictions because of limited screen space and input constraints, making it difficult for consumers to initiate effective searches. This study evaluates a scalable, low-cost design intervention—the popular ranking search aid (PRSA)—that presents aggregated popular search categories at the entry point of the search interface. Using a large-scale randomized field experiment on a major mobile platform, we show that PRSA significantly reshapes consumer behavior and platform outcomes. From a practice perspective, PRSA reduces cognitive barriers in query formation by guiding users toward broader, category-level searches, leading to increased product views and higher purchase rates. However, this benefit comes with a trade-off; broader queries expand the choice set, increasing downstream decision complexity. For platform managers, this highlights the importance of balancing upstream guidance with downstream decision support. From a policy perspective, PRSA offers a privacy-compliant alternative to personalized recommendation systems as it relies on aggregated, nonpersonalized data. This makes it particularly relevant in regulatory environments with growing data protection constraints (e.g., General Data Protection Regulation-like regimes). Overall, the findings demonstrate that simple, nonpersonalized interface designs can meaningfully improve consumer engagement and market efficiency while aligning with emerging privacy standards.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -676,7 +676,7 @@
       "doi_url": "https://doi.org/10.1002/smj.70094",
       "journal_url": "https://doi.org/10.1002/smj.70094",
       "url": "https://doi.org/10.1002/smj.70094",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7161274451",
@@ -704,7 +704,7 @@
       "doi_url": "https://doi.org/10.1080/07421222.2026.2647466",
       "journal_url": "https://doi.org/10.1080/07421222.2026.2647466",
       "url": "https://doi.org/10.1080/07421222.2026.2647466",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7147608947",
@@ -732,7 +732,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70017",
       "journal_url": "https://doi.org/10.1002/sej.70017",
       "url": "https://doi.org/10.1002/sej.70017",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7138221743",
@@ -749,7 +749,7 @@
       "publication_date": "2026-03-17",
       "abstract": "Despite the promise of mobile health (mHealth) systems, about half of interventions fail to show significant effects. We examine how users’ information environments—the sources from which they obtain health information—shape mHealth effectiveness. Using information integration theory, we ran a 25-month field experiment with 4,629 expectant mothers in rural China, testing an SMS intervention to reduce unnecessary C-sections. The intervention produced a 25.9% overall reduction, but effects depended on how mHealth information integrated with public and private sources. Public information, consistent with theory, overlaps with mHealth content and can complement it for unplanned pregnancies. In contrast, integrating mHealth with private information entails dynamics beyond simple information addition, including physician behavior. Results show that mHealth coupled with private information—especially care-seeking content—prompted more visits and inadvertently enabled provider-driven overtreatment rather than informed patient choice. For practice, mHealth efficacy is inseparable from social context. Providers should recognize that visits and decisions reflect family and peer influence and app design, not just clinical need, to avoid overtreatment. Developers should design with users’ existing information ecosystems rather than treat apps as isolated tools. Clinical guidelines should be updated to reflect mHealth-environment interactions, and patients should build media literacy to synthesize information from multiple sources.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -776,7 +776,7 @@
       "publication_date": "2026-03-12",
       "abstract": "Multisided platforms crucially rely on indirect network effects. When trying to strengthen these effects, platform owners face a fundamental challenge, namely, designing incentives to enhance developer effort and simultaneously ensuring the release of high-quality products on the platform. This paper highlights the costs associated with lowering royalty rates to boost developer effort, as such reductions increase the relative supply of lower-quality offerings, worsening information congestion problems and amplifying the importance of visibility-enhancing investments. We leverage the quasi random announcements made by Apple and Google, declaring their intention to reduce the royalty rate applied to small app developers from 30% to 15%. We analyze the implications of these reforms using a difference-in-differences approach, finding a substantial increase in small developers’ likelihood of releasing lower-quality and less original apps on iOS and Android after the announcements. These effects are neither paralleled by a comparable increase in high-quality app releases nor by an increase in small developers’ likelihood of launching venture-backed apps. Consistent with worsening information congestion problems because of an influx of low-quality apps, our findings show an increase in the marginal value of experienced user certifications and developers’ app store optimization efforts post announcement. Additionally, we observe that venture capitalists are increasingly concentrating their investments in ventures with higher (observable) quality. This paper was accepted by Anita McGahan, business strategy. Funding: This work was supported by the Spanish Ministry of Education [Project PID2022-138710NB-I00 funded by MCIU/AEI/10.13039/501100011033/FEDER, UE]. A. Conti acknowledges financial support from the Swiss National Science Foundation [Grant 100013_197807]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.0586 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -817,7 +817,7 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19113",
       "journal_url": "https://doi.org/10.25300/misq/2026/19113",
       "url": "https://doi.org/10.25300/misq/2026/19113",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7154743678",
@@ -845,7 +845,7 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19079",
       "journal_url": "https://doi.org/10.25300/misq/2026/19079",
       "url": "https://doi.org/10.25300/misq/2026/19079",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7134197344",
@@ -875,7 +875,7 @@
       "doi_url": "https://doi.org/10.1002/smj.70073",
       "journal_url": "https://doi.org/10.1002/smj.70073",
       "url": "https://doi.org/10.1002/smj.70073",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7131867455",
@@ -894,7 +894,7 @@
       "publication_date": "2026-02-27",
       "abstract": "This study evaluates the effect of generative artificial intelligence (AI) on software developer productivity via randomized controlled trials at Microsoft, Accenture, and an anonymous Fortune 100 company. These field experiments, run by the companies as part of their ordinary course of business, provided a random subset of developers with access to an AI-based coding assistant suggesting intelligent code completions. Although each experiment is noisy and results vary across experiments, when data are combined across three experiments and 4,867 developers, our analysis reveals a 26.08% increase (standard error: 10.3%) in completed tasks among developers using the AI tool. Notably, less experienced developers had higher adoption rates and greater productivity gains. This paper was accepted by Jean-Pierre Dube, marketing. Funding: M. Demirer and T. Salz thank the MIT GenAI Initiative for funding. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.00535 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Randomized Experiment",
         "Field Experiment"
@@ -923,7 +923,7 @@
       "publication_date": "2026-02-26",
       "abstract": "Social referral programs, in which individuals recommend products or services within their networks in return for rewards, have been widely adopted across digital platforms. This study explores the impact of incorporating uncertainty into the rewards of such programs, focusing on how senders and recipients perceive and react to uncertain rewards. We run a randomized experiment involving more than 160,000 users of a telecommunications operator in China and examine the effectiveness of different referral reward schemes. We find that referral programs are most successful when senders are incentivized with uncertain rewards and recipients are guaranteed certain rewards. Specifically, introducing uncertainty in the sender’s reward leads to a 20.9% increase in total referrals with recipients of these invitations more likely to engage in subsequent referrals and profitable in-app activities. In contrast, uncertainty in the recipient’s reward results in a 12.3% decrease in total referrals with invited recipients showing a lower propensity to make further referrals and reduced postreferral engagement. Additional online experiments identify distinct mechanisms driving these asymmetric effects: For senders, the uncertainty alleviates feelings of guilt, enhancing referral sharing and, thus, increasing the total number of referrals. For recipients, the adverse effects of uncertainty stem primarily from diminished perceptions of fairness and social pressure, and these deter engagement in the referral process. Our study sheds light on the complex dynamics of reward uncertainty in referral programs, offering novel insights into how it can be optimized to foster more engaged referral networks. This paper was accepted by Anindya Ghose, information systems. Funding: A.T. Li acknowledges support from the National Natural Science Foundation of China [Grants 72301269 and 72332007] and the Fundamental Research Funds for the Central Universities [Grant WK2040000085]. R. Belo acknowledges funding by Fundação para a Ciência e a Tecnologia (UID/00124/2025, UID/PRR/124/2025, Nova School of Business and Economics, DOI: https://doi.org/10.54499/UID/00124/2025 ) and LISBOA2030 (DataLab2030 - LISBOA2030-FEDER-01314200). T. Li acknowledges support from the Erasmus Research Institute of Management (ERIM) Convergence AI, Data &amp; Digitalisation (Convergence AI Lab – Immersive Tech) Gravitation Program Public Values in the Algorithmic Society (AlgoSoc). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05685 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Randomized Experiment",
         "Field Experiment"
@@ -952,7 +952,7 @@
       "publication_date": "2026-02-13",
       "abstract": "A call for an organization transparency framework from practitioners and academics serves as the research foundation for this study. Given scant findings in academic literature, a rigorous research method in Study 1 reveals a reciprocal phenomenon: business practice promotes academic learning and vice versa. In Study 2, through interviews with managers from different functional areas, we found that central IT transparency (CITT) is important across nine transparency characteristics (i.e., accuracy, comparability, relevance, timeliness, accessibility, clarity, completeness, reliability, and responsiveness). However, not all nine characteristics were equally important to each of the five functional departments investigated, nor did they have the same level of influence. Common factors across practitioner principles and guidelines in professional business organizations provide a theoretical rationale for a study of organization transparency. Specifically, these patterns can lead to more accurate descriptions of future phenomena in organization transparency. Moreover, in practice, the developed CITT framework may provide a means to mitigate the recurring need to introduce laws and regulations governing business transparency. In addition, defined in the framework, IT may enable direct information processes to support stakeholder decision-making. It also offers a lens for future academic research on its impact.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -980,7 +980,7 @@
       "publication_date": "2026-02-09",
       "abstract": "In this paper, we contribute to recent studies on human-algorithm collaboration by examining how experience, skill level, workload, and task complexity shape the impact of an algorithm-enabled decision-support tool for gig workers. We leverage a large-scale randomized field experiment on the Instacart platform from June 2022 to September 2022. The algorithm-enabled technology aims to revolutionize item picking by helping shoppers locate and collect items more efficiently, reducing picking time while maintaining service quality, as reflected by refund rates. We find that the technology complements experience: rather than diminishing the value of experience, it yields larger improvements for more experienced shoppers. We also find that it substitutes for skill levels by helping lower-skilled workers bridge the performance gap with higher-skilled peers, but lower-skilled workers need experience to fully benefit from the tool. Finally, treatment effects vary with workload and task complexity, clarifying when algorithmic guidance is most valuable. For policymakers, our findings suggest a simple rule: give workers some baseline experience before introducing AI tools, using a staggered rollout with basic training. We also show that these tools can make service more consistent by closing the gap between high performers and lower performers, reducing performance dispersion, and helping standardize quality.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1019,7 +1019,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70016",
       "journal_url": "https://doi.org/10.1002/sej.70016",
       "url": "https://doi.org/10.1002/sej.70016",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7124206083",
@@ -1036,7 +1036,7 @@
       "publication_date": "2026-01-14",
       "abstract": "A common challenge faced by two-sided marketplaces is to expand the market while ensuring satisfactory matching of the two sides. We study a new platform growth strategy that increases market thickness with free entry while allowing suppliers to discretionarily signal product quality to buyers, thus forming a tiered market structure that maintains matching performance. We consider such an example with nonfungible token (NFT) markets where suppliers could choose to delay the entry cost of the NFT creation fee until an NFT is sold (lazy minting) or pay the fee up front at the time of NFT creation (gas minting). We use the difference-in-differences strategy to identify the impact of this lazy-minting policy on market matching performance. We find that the impacts of this policy are multifaceted: Although the introduction of lazy minting reduces the average matching likelihood of an NFT by 98.2%, it increases the gas-minting segment’s matching likelihood by 112.3% and first-sale price by 126.5%. Overall, this new growth strategy benefits the platform because of increased total sales and higher revenues. We unravel two mechanisms: the market thickness effect and the quality signaling effect. For the latter, we introduce a systematic framework to empirically establish the quality signaling mechanism with a separating equilibrium, where suppliers prefer gas minting for their high-quality creations. This effectively sends a quality signal that buyers could rely on to recognize high-quality NFTs. This new platform growth strategy provides generic implications for platforms endeavoring to balance market thickness and matching performance. This paper was accepted by Anindya Ghose, information systems. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.03573 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1066,7 +1066,7 @@
       "publication_date": "2026-01-13",
       "abstract": "Abstract Research Summary Organizations often struggle to identify promising innovations that balance novelty and feasibility in multidisciplinary domains, yet how does evaluator expertise heterogeneity shape these assessments? This study examines how evaluator expertise influences innovation evaluation through a field experiment with National Aeronautics and Space Administration's (NASA) Astrobee Robotic Arm Challenge, involving 354 evaluators assessing 101 solutions. Domain‐spanning evaluators assign higher novelty ratings while maintaining similar feasibility ratings compared to domain‐specific evaluators. Domain‐adjacent evaluators show higher ratings on both dimensions. Human‐LLM analysis of 3007 evaluator comments reveals a two‐stage process: feasibility filtering (evaluating minimum viability) followed by integrative assessment (evaluating enhancement potential). Different expertise types serve complementary functions: domain‐spanning evaluators recognize enhancement potential while maintaining rigorous standards; domain‐adjacent evaluators show openness to novel approaches; domain‐specific evaluators ensure technical rigor. These findings suggest effective innovation evaluation depends on strategically combining complementary expertise types rather than identifying optimal individual evaluators. Managerial Summary Organizations often struggle to identify innovations that are both novel and feasible, risking missed breakthroughs or wasted resources. We study how evaluator expertise shapes innovation assessments in a field experiment with NASA, in which 354 evaluators reviewed 101 robotic arm designs. Evaluators with expertise spanning multiple domains recognize more novel yet feasible ideas. Those with single‐domain expertise provide essential technical gatekeeping but overlook cross‐domain improvements, while adjacent‐field experts are more open but less rigorous. Organizations can strengthen innovation selection by strategically combining these complementary expertise types—using domain‐specific experts for initial feasibility screening and domain‐spanning experts to identify integrative opportunities—rather than seeking one “ideal” evaluator.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1094,7 +1094,7 @@
       "publication_date": "2026-01-12",
       "abstract": "This study develops a conceptual framework distinguishing two mechanisms of workflow automation: mechanization and orchestration. Mechanization automates discrete, self-contained, repeatable tasks through standardized execution to enhance consistency, reliability, and efficiency, while orchestration automates the communication between tasks, workers, and stages, which facilitates information flow and coordination. We theorize that these mechanisms differentially affect incremental versus substantive innovation. Using a multimethod approach integrating machine learning and econometrics, we analyze the effects of workflow automation in open-source software development, demonstrating that mechanization accelerates maintenance-oriented exploitative innovation, whereas orchestration accelerates development-oriented explorative innovation. This mechanization-orchestration distinction extends beyond software contexts. For practitioners, aligning automation strategies with innovation goals is essential: deploy mechanization to enhance operational efficiency and support incremental improvements in stable environments; and implement orchestration to enable adaptive coordination in exploratory, high-velocity development requiring creativity and flexibility. For policymakers, understanding this distinction informs workforce development and technology adoption policies, as automation reshapes work by shifting human contribution from routine execution toward coordinated problem solving and strategic decision making.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1134,7 +1134,7 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602395",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602395",
       "url": "https://doi.org/10.1080/07421222.2025.2602395",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7133649211",
@@ -1162,7 +1162,7 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602399",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602399",
       "url": "https://doi.org/10.1080/07421222.2025.2602399",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7133795767",
@@ -1191,7 +1191,7 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602400",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602400",
       "url": "https://doi.org/10.1080/07421222.2025.2602400",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7117966348",
@@ -1219,7 +1219,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70011",
       "journal_url": "https://doi.org/10.1002/sej.70011",
       "url": "https://doi.org/10.1002/sej.70011",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W7117578187",
@@ -1236,7 +1236,7 @@
       "publication_date": "2025-12-30",
       "abstract": "Prior research and lay intuition suggest that amplifying image concerns promotes generosity. We test the impact of image-based interventions in consumer elective pricing (CEP), where individuals choose how much to pay for products or services. Across 10 studies (nine field experiments and one laboratory study, n = 3,182), we examine the effects of these interventions on payments and elicit forecasts from independent participants (n = 1,636). Forecasters predict large positive effects, yet behavioral data reveal small and inconsistent impacts. What drives the inconsistency between predictions and actual outcomes? Studies with more than 4,000 forecasters show that neither simulating the decision-making experience nor prior experience with CEP improve prediction accuracy. However, avoiding direct comparisons between experimental conditions—which can artificially amplify perceived differences—reduces overestimation. These findings highlight challenges associated with transferring behavioral insights across contexts and show how forecast elicitation methods shape expectations of intervention effectiveness. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00149 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1265,7 +1265,7 @@
       "publication_date": "2025-12-19",
       "abstract": "Providing inclusive environments has become a primary tenet of modern societies and organizations. The use of gender-inclusive language (GIL) is often considered an instrument that can promote inclusion, yet little is known about its effects on relevant economic behaviors and on gender gaps in the labor market. GIL avoids the masculine “default” (common to many languages) by either explicitly mentioning both masculine and feminine (pro)nouns, or replacing them with nongendered (pro)nouns. Here we study the causal short-run impact of GIL on competitiveness and leadership in the laboratory, with two different language samples—English and German—which differ, among other things, in the extent to which gender is embedded linguistically. We vary GIL in experimental instructions across three treatments ([Formula: see text]): a masculine baseline condition, a condition with feminine and masculine (pro)nouns, and a condition with nongendered (pro)nouns. We find that participants who identify as female and participants who identify as male compete, stand for leadership, and vote on leader candidates similarly across all treatments, in either language. Furthermore, we find no treatment differences in participants’ feelings of inclusion and perceived entitlement. In sum, there is a lack of support for GIL having short-term causal effects on competitive and leadership behavior and inclusion perceptions. This paper was accepted by Marie-Claire Villeval, behavioral economics and decision analysis. Funding: This work was supported by the Austrian Science Fund [Grant SFB F63], UK Research and Innovation [Grant MR/T020253/1], the University of Exeter, and Regensburger Universitätsstiftung Lucia and Dr. Otfried Eberz. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04342 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1303,7 +1303,7 @@
       "doi_url": "https://doi.org/10.25300/misq/2025/19559",
       "journal_url": "https://doi.org/10.25300/misq/2025/19559",
       "url": "https://doi.org/10.25300/misq/2025/19559",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W4417199286",
@@ -1320,7 +1320,7 @@
       "publication_date": "2025-12-10",
       "abstract": "Many e-commerce platforms have established their warehouses to facilitate the storage and delivery of packages. This paper studies a novel business practice—cross-sampling through e-commerce warehouses—that allows physical free samples provided by one (sampling) brand to be distributed with the packages of another unrelated (distributing) brand. In close collaboration with Alibaba, we implement cross-sampling through a large-scale field experiment, in which more than 55,000 free samples are distributed, to empirically examine its effectiveness in driving online sales of the sampling brand. First, we find significant increases in store visits and sales of the sampling brand both in the short term and long term up to 14 months afterward. The long-term effect is driven mainly by acquiring customers who did not purchase from the sampling brand to visit the online stores and eventually make a purchase. Second, contrary to the previous literature on within-category free sampling, we find a significant sales increase in both the sampled item and other items, which further spills over to indirect channels. Therefore, cross-sampling can also help promote the sampling brand as a whole. Finally, we illustrate the potential for personalization for cross-sampling. Cross-sampling is more effective for customers who recently viewed related products or just purchased nonessential products from the distributing brand. By taking into account the interaction among brands, items, and customers, we can further improve the profitability of cross-sampling by targeting the “right” packages. Overall, because cross-sampling is scalable, effective, and flexible, we demonstrate the high potential of a new business practice that combines offline logistics control and online information to generate additional business value for customers, brands, and the platform. This paper was accepted by Victor Martínez-de-Albéniz, operations management. Funding: T. Sun acknowledges research support from CKGSB Research Institute, Center for Digital Transformation, and ABRI Grant. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2020.00902 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences",
         "Field Experiment"
@@ -1350,7 +1350,7 @@
       "publication_date": "2025-11-27",
       "abstract": "Abstract Research Summary Using administrative data from the US Census Bureau, we introduce a new public‐use dataset (“Business Dynamics Statistics—High Growth” [BDS‐HG]) that captures the full distribution of firm growth in the United States between 1978 and 2021. BDS‐HG enables researchers to analyze not only high‐growth firms but also stagnant and shrinking firms, disaggregated by firm maturity, size, industry, region, and year. We begin by documenting two key trends: (1) a significant decline in the share of high‐growth firms—especially among young and small firms and (2) a marked rise in stagnant firms. To help illustrate the dataset's usefulness, we provide three empirical applications and highlight research opportunities across major areas of strategic management. In addition to supporting new analyses, BDS‐HG can be used to benchmark research samples and assess their generalizability. Managerial Summary The US economy has seen two major shifts in firm growth dynamics: a steady decline in the share of high‐growth firms—especially among startups—and a notable rise in firms that exhibit no growth. We document these patterns using BDS‐HG, a new public‐use dataset from the US Census Bureau that tracks employment growth across all US employer businesses from 1978 to 2021. The data are disaggregated by firm age, size, industry, geography, and year, enabling users to examine growth trends across sectors and regions. BDS‐HG offers a valuable resource for researchers, policymakers, and analysts seeking to understand long‐term business dynamism. It can also be used to benchmark research samples against national patterns, helping users assess how representative their data or findings are.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1379,7 +1379,7 @@
       "publication_date": "2025-11-26",
       "abstract": "In collaboration with VolunteerMatch (VM)—the world’s largest online platform for connecting volunteers with volunteering opportunities—we designed and implemented a new display ranking algorithm. VM’s original ranking algorithm was intended to maximize efficiency (i.e., the total number of connections), but as a consequence, it repeatedly displayed the same few opportunities at the top of its ranking, effectively limiting access to volunteers for the other opportunities. To incorporate VM’s desire for equity (defined as the weekly number of opportunities with at least one connection) along with efficiency, we propose a modeling framework for online display ranking in settings where it is important to manage the trade-off between the total number of connections and the equitable allocation of these connections. We take an adversarial approach in evaluating the performance of online algorithms and show that a class of algorithms that applies a penalty to opportunities after each connection provides a strong (and, in certain regimes, optimal) performance guarantee. Inspired by our theoretical results yet mindful of practical considerations on VM’s platform, we propose SmartSort, a simple score-based ranking algorithm that enjoys comparable guarantees in many regimes. We implemented SmartSort in two experiments, covering Dallas–Fort Worth and all of Southern California. Using a difference-in-differences analysis, we find that the implementation of SmartSort led to an estimated 8% increase in the weekly average number of opportunities with at least one connection (consistent across both experiments) without any significant decrease in the total number of connections. If SmartSort has a similar distributional effect on a national scale, an additional 30,000 connections every year will go to opportunities that would have otherwise lacked access to volunteers. This paper was accepted by Omar Besbes, revenue management and market analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03838 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1407,7 +1407,7 @@
       "publication_date": "2025-11-14",
       "abstract": "Many digital platforms encourage small business owners to “claim” their pages to improve visibility and connect with customers. Yet, despite its apparent benefits and zero financial cost, many pages remain unclaimed. Using a unique data set from Yelp and a staggered difference-in-differences design, this study reveals a hidden downside of business page claiming; average customer ratings drop by 10.3%, driven by more one-star reviews and fewer five-star reviews. Customers also write longer, more negative reviews and address owners more directly about service issues. These findings indicate that claiming a business page signals owner presence and raises customer expectations for responsiveness, which many small businesses may not be equipped to meet. For practitioners, the results highlight that business page claiming, although free, is not costless; it creates reputational risk if service quality or responsiveness falls short of heightened expectations. Owners should claim their pages only when ready to actively monitor feedback or engage in managerial responses. Platforms should also communicate these potential consequences to businesses and design tools that help owners manage customer interactions more effectively.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1436,7 +1436,7 @@
       "publication_date": "2025-11-07",
       "abstract": "Many jurisdictions have launched antitrust enforcement and brought in regulation of large tech platforms. The swift and strict implementation of China’s Anti-Monopoly Guidelines for the Platform Economy (Platform Guidelines) provides a quasi-natural experiment to evaluate the impact of antitrust regulation on platform competition. We adopt a difference-in-differences approach to empirically explore the impact of China’s Platform Guidelines on the number of investments and the entry of startups in platform markets. The results show that the Platform Guidelines did not increase entrepreneurship in these affected markets. Rather, entrepreneurship weakened in these markets, with less venture capital investment flowing into them and fewer startups entering these markets. Our study suggests that governments should consider more carefully the potential unintended consequences of antitrust platform regulation. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04397 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1465,7 +1465,7 @@
       "publication_date": "2025-10-31",
       "abstract": "Consideration sets play a crucial role in discrete choice modeling, where customers often form consideration sets in the first stage and then use a second-stage choice mechanism to select the product with the highest utility. Although many recent studies aim to improve choice models by incorporating more sophisticated second-stage choice mechanisms, this paper takes a step back and goes into the opposite extreme. We simplify the second-stage choice mechanism to its most basic form and focus on modeling customer choice by emphasizing the role and power of the first-stage consideration set formation. To this end, we study a model that is parameterized solely by a distribution over consideration sets with a bounded rationality interpretation. Intriguingly, we show that this model is characterized by the axiom of symmetric demand cannibalization, enabling complete statistical identification. The latter finding highlights the critical role of consideration sets in the identifiability of two-stage choice models. We also examine the model’s implications for assortment planning, proving that the optimal assortment is revenue-ordered within each partition block created by consideration sets. Despite this compelling structure, we establish that the assortment problem under this model is NP-hard even to approximate, highlighting how consideration sets contribute to nontractability, even under the simplest uniform second-stage choice mechanism. Finally, using real-world data, we show that the model achieves prediction performance comparable to other advanced choice models. Given the simplicity of the model’s second-stage phase, this result showcases the enormous power of first-stage consideration set formation in capturing customers’ decision-making processes. This paper was accepted by Vivek Farias, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00442 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Discrete Choice Model"
       ],
@@ -1496,7 +1496,7 @@
       "publication_date": "2025-10-31",
       "abstract": "In the digital age, hate speech poses a threat to the functioning of social media platforms as spaces for public discourse. Top-down approaches to moderate hate speech encounter difficulties due to conflicts with freedom of expression and issues of scalability. Counter speech, a form of collective moderation by citizens, has emerged as a potential remedy. Here, we aim to investigate which counter speech strategies are most effective in reducing the prevalence of hate, toxicity, and extremity on online platforms. We analyze more than 130,000 discussions on German Twitter starting at the peak of the migrant crisis in 2015 and extending over 4 years. We use human annotation and machine learning classifiers to identify argumentation strategies, ingroup and outgroup references, emotional tone, and different measures of discourse quality. Using matching and time-series analyses we discern the effectiveness of naturally observed counter speech strategies on the microlevel (individual tweet pairs), mesolevel (entire discussions) and macrolevel (over days). We find that expressing straightforward opinions, even if not factual but devoid of insults, results in the least subsequent hate, toxicity, and extremity over all levels of analyses. This strategy complements currently recommended counter speech strategies and is easy for citizens to engage in. Sarcasm can also be effective in improving discourse quality, especially in the presence of organized extreme groups. Going beyond one-shot analyses on smaller samples prevalent in most prior studies, our findings have implications for the successful management of public online spaces through collective civic moderation.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Time-Series Analysis"
       ],
@@ -1541,7 +1541,7 @@
       "publication_date": "2025-10-31",
       "abstract": "Persuasive communication in marketing, political, and health domains influences sales, elections, and public health. We present a mega-analysis (a pooled analysis of raw data) of 16 functional MRI datasets (572 participants, 739 messages, and 21,688 experimental trials) assessing the neural correlates of the effectiveness of messages in individual message receivers and at scale (in large groups of message receivers who did not undergo neuroimaging). Existing theories suggest that decision-making is driven by expected rewards and perceived social relevance associated with the expected outcomes of a given choice. Consistent with these theories, we find that (i) brain activity implicated in reward and social processing is associated with message effectiveness in individuals and at scale across diverse domains (e.g. marketing and health campaigns); (ii) exploratory analysis further suggests language, emotion, and sensorimotor processes as pertinent to message effectiveness; and (iii) brain activity provides complementary information on message effectiveness at scale beyond self-reports provided by the same neuroimaging participants. This study offers novel insights into the neurocognitive mechanisms underlying effective messaging, highlights a path toward greater unity and efficiency in persuasion research, and suggests practical intervention targets for message design.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1570,7 +1570,7 @@
       "publication_date": "2025-10-28",
       "abstract": "Health sensing for chronic disease management creates immense benefits for social welfare. Existing health sensing studies primarily focus on the prediction of physical chronic diseases. Depression, a widespread complication of chronic diseases is, however, understudied. We draw on the medical literature to support depression detection using motion sensor data. To connect humans in this decision making, safeguard trust, and ensure algorithm transparency, we develop an interpretable deep learning model: temporal prototype network (TempPNet). TempPNet is built on the emergent prototype learning models. To accommodate the temporal characteristic of sensor data and the progressive property of depression, TempPNet differs from existing prototype learning models in its capability of capturing temporal progressions of prototypes. Extensive empirical analyses using real-world motion sensor data show that TempPNet outperforms state-of-the-art benchmarks in depression detection. Moreover, TempPNet interprets its decision by visualizing the temporal progression of depression and its corresponding symptoms detected from sensor data. We further employ a user study and a medical expert panel to demonstrate its superiority over the benchmarks in interpretability. This study offers an algorithmic solution for impactful social good—collaborative care of chronic diseases and depression in health sensing. Methodologically, it contributes to extant literature with a novel interpretable deep learning model for depression detection from sensor data. Patients, doctors, and caregivers can deploy our model on mobile devices to monitor patients’ depression risks in real time. Our model’s interpretability also allows human experts to participate in the decision making by reviewing the interpretation and making informed interventions. This paper was accepted by D. J. Wu, information systems. Funding: J. Xie and X. Fang are supported by the University of Delaware Research Foundation Strategic Initiatives Grant and Alfred Lerner College of Business and Economics Research Grant, X. Zhao acknowledges financial support from the National Natural Science Foundation of China [Grant 72401172] and the Fundamental Research Funds for the Central Universities [Grant 2023110139, 2023110318]. J. Xie and X. Fang did not receive any form of support from, nor do they have any affiliation with, X. Zhao’s funding sources. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.04183 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1599,7 +1599,7 @@
       "publication_date": "2025-10-15",
       "abstract": "The rapid growth of the gig economy has intensified debates over how to classify workers. California’s Assembly Bill 5 (AB5) reclassifies many independent contractors as employees, yet its practical effects on gig workers remain unclear. Using data from a major online labor platform and a difference-in-differences design, we provide one of the first empirical assessments of AB5’s impact on workers’ earnings. We find that California gig workers’ monthly earnings rose relative to workers in other states, but this increase was driven by longer working hours, offsetting a drop in hourly pay. These results highlight the complex trade-offs of reclassification: although workers may gain access to employee benefits, they may also experience reduced hourly rates and increased workloads. For policymakers, our findings offer evidence to guide similar initiatives under consideration in other states and underscore the need for nuanced, context-sensitive regulation. For platform managers, the results suggest opportunities to align platform design and worker education with evolving labor laws to support compliance and sustainable growth. Together, these insights inform future policy and platform strategies aimed at balancing worker protection with flexibility in the gig economy.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1629,7 +1629,7 @@
       "publication_date": "2025-10-15",
       "abstract": "Large-scale online platforms launch hundreds of randomized experiments (also known as A/B tests) every day to iterate their operations and marketing strategies. The combinations of these treatments are typically not exhaustively tested, which triggers an important question of both academic and practical interest. Without observing the outcomes of all treatment combinations, how does one estimate the causal effect of any treatment combination and identify the optimal treatment combination? We develop a novel framework combining deep learning and doubly robust estimation to estimate the causal effect of any treatment combination for each user on the platform when observing only a small subset of treatment combinations. Our proposed framework (called debiased deep learning ( DeDL )) exploits Neyman orthogonality and combines interpretable and flexible structural layers in deep learning. We show theoretically that this framework yields efficient, consistent, and asymptotically normal estimators under mild assumptions, thus allowing for identifying the best treatment combination when observing only a few combinations. To empirically validate our method, we collaborated with a large-scale video-sharing platform and implemented our framework for three experiments involving three treatments, where each combination of treatments is tested. When observing only a subset of treatment combinations, our DeDL approach significantly outperforms other benchmarks to accurately estimate and infer the average treatment effect of any treatment combination and to identify the optimal treatment combination. This paper was accepted by Vivek Farias, data science. Funding: R. Zhang is grateful for financial support from the Hong Kong Research Grants Council General Research Fund [Grants 14502722, 14503224, and 14504123]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04625 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Randomized Experiment",
         "A/B Test"
@@ -1659,7 +1659,7 @@
       "publication_date": "2025-10-14",
       "abstract": "We introduce a general approach for analyzing large-scale text-based data, combining the strengths of neural network language processing and generative statistical modeling to create a factor structure of unstructured data for downstream regressions typically used in social sciences. We generate textual factors by (i) representing texts using vector word embedding, (ii) clustering the vectors using locality-sensitive hashing to generate supports of topics, and (iii) identifying relatively interpretable spanning clusters (i.e., textual factors) through topic modeling. Our data-driven approach captures complex linguistic structures while ensuring computational scalability and economic interpretability, plausibly attaining certain advantages over and complementing other unstructured data analytics used by researchers, including emergent large language models. We conduct initial validation tests of the framework and discuss three types of its applications: (i) enhancing prediction and inference with texts, (ii) interpreting (non–text-based) models, and (iii) constructing new text-based metrics and explanatory variables. We illustrate each of these applications using examples in finance and economics such as macroeconomic forecasting from news articles, interpreting multifactor asset pricing models from corporate filings, and measuring theme-based technology breakthroughs from patents. Finally, we provide a flexible statistical package of textual factors for online distribution to facilitate future research and applications. This paper was accepted by David Simchi-Levi, finance. Funding: The authors gratefully acknowledge the financial support from the Ewing Marion Kauffman Foundation, the Becker Friedman Institute of Economics, the Fama-Miller Center for Research in Finance, INQUIRE Europe, the Kenan Institute of Private Enterprise, and the Risk Institute at OSU Fisher College of Business (while L. W. Cong was a fellow at the institute). W. Zhu acknowledges financial support from the Tsinghua University Initiative Scientific Research Program [Grant 2022Z04W02016], the Tsinghua University School of Economics and Management [Research Grant 2022051002], and the National Natural Science Foundation of China [Grant 72442014]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2020.01180 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1689,7 +1689,7 @@
       "publication_date": "2025-10-14",
       "abstract": "Abstract Although conspiracy beliefs are often viewed as resistant to correction, recent evidence shows that personalized, fact-based dialogues with a large language model (LLM) can reduce them. Is this effect driven by the debunking facts and evidence, or does it rely on the messenger being an AI? In other words, would the same message be equally effective if delivered by a human? To answer this question, we conducted a preregistered experiment (N = 955) in which participants reported either a conspiracy belief or a nonconspiratorial but epistemically unwarranted belief and interacted with a LLM that argued against that belief using facts and evidence. We randomized whether the debunking LLM was characterized as an AI tool or a human expert and whether the model used human-like conversational tone. The conversations significantly reduced participants' confidence in both conspiracies and epistemically unwarranted beliefs, with no significant differences across conditions. Thus, AI persuasion is not reliant on the messenger being an AI model: it succeeds by generating compelling messages.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1729,7 +1729,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70006",
       "journal_url": "https://doi.org/10.1002/sej.70006",
       "url": "https://doi.org/10.1002/sej.70006",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W4414472860",
@@ -1744,7 +1744,7 @@
       "publication_date": "2025-09-24",
       "abstract": "Practice and policy abstract Generative artificial intelligence (AI) is reshaping online knowledge-sharing, but its effects on voluntary user contributions remain uncertain. This study examines how the usage of ChatGPT influences users’ answering behavior on Stack Overflow, one of the world’s largest question-and-answer platforms. Using a natural experiment, we find that access to generative AI increases the number of answers users provide, whereas those answers are typically shorter and easier to read. These patterns suggest that users are learning from AI outputs, enabling them to share knowledge more efficiently. However, intensive reliance on AI introduces cognitive strain, which can reduce contribution levels. For practice, our findings underscore the importance for platform owners and managers to strike a balance between AI integration and user support. Encouraging AI-assisted learning can expand participation and improve the accessibility of content, but safeguards are necessary to prevent cognitive overload and ensure the quality of answers. From a policy perspective, our study highlights the importance of establishing clear guidelines for the responsible use of AI in community-driven platforms. By designing thoughtful integration strategies, organizations can harness the benefits of AI—enhancing efficiency and readability—while sustaining authentic, high-quality knowledge contributions.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1772,7 +1772,7 @@
       "publication_date": "2025-09-22",
       "abstract": "Characterizing behavior in sequential problems is often complicated by the presence of multiple decision rules with overlapping predictions. To address this issue, we introduce a new experimental and econometric approach for identifying decision strategies in sequential contexts. This approach consists of eliciting conditional strategies (as opposed to direct choices) and measuring policy adherence via maximum-likelihood estimation (as opposed to counting coincidences). Applying this approach to several common types of sequential problems increases the proportion of uniquely identifiable subjects by up to a third relative to standard methods and yields the following findings. First, in search and stopping problems, decision makers respond less strongly to state and time of the dynamic problem than in problems that do not have a stopping structure. Second, decision rules are often biased toward being more accepting (less demanding) than the optimal policy would predict. Third, the format used to elicit decisions (menu-based choice versus numeric threshold entry) has a significant effect on policy adoption. In addition to identifying decision rules that better fit observed behavior in dynamic choice problems, these results have implications for firms serving customers who face sequential decisions. We use a revenue management example (optimal subscription service pricing) to show that failing to account for the relevant decision rules can reduce firm profits by up to 54%. This paper was accepted by Elena Katok, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02381 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1799,7 +1799,7 @@
       "publication_date": "2025-09-22",
       "abstract": "We examine how initial public offerings (IPOs) influence employees’ satisfaction with their employers. Using millions of company reviews and a generalized difference-in-differences method, we document that employees become less satisfied after their employers go public. The effect is driven by employees who joined the company before the IPO rather than those who joined after it and is stronger for employees whose tasks relate to regulatory compliance, for smaller firms, and firms with Big 4 auditors at the IPO. The effect is weaker for IPO firms in industries with low environmental, social, and governance (especially social) reputation risk. Using the 2012 Jumpstart Our Business Startups Act to explore changes in regulatory burdens associated with an IPO, we find that the adverse effect of an IPO on employee satisfaction is weaker for IPO firms that benefit from reduced regulatory burden. Overall, our findings provide novel insights into how going public can affect employee welfare and one potential mechanism behind this effect. This paper was accepted by Suraj Srinivasan, accounting. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.04285 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -1828,7 +1828,7 @@
       "publication_date": "2025-09-18",
       "abstract": "Live stream selling has surged as an innovative form of e-commerce, supporting high social interactivity and fast-paced sales for large-scale audiences. However, live streamers must manage complex, concurrent tasks— such as presenting products, engaging with viewers, and employing various sales tactics to facilitate consumer purchases, while dealing with uncertainty in foreseeing viewers’ reactions and time pressure for selling products. This study examines the role of real-time sales data in influencing streamers’ impromptu decision-making and sales outcomes in live stream selling. On the one hand, real-time sales data might exacerbate the already complex decision-making, overwhelming and distracting streamers. On the other hand, it may help streamers improvise their tactics and utilize time more efficiently and effectively to improve sales performance. In partnership with a leading global live stream selling platform, we analyzed data from a randomized field experiment to unravel whether, how, and under which conditions the provision of real-time sales data affects live stream sales performance. The streamers in the experiment were randomly assigned to either the treatment group, which had access to real-time sales data for presale products, or the control group, which had no such access. Our results reveal that product sales of presale products in the treatment group increased by approximately 40.21% compared to those in the control group. Further, the observed main effect can be explained by streamers’ data-driven improvisation in promotional, linguistic, and presentational pace tactics. Moreover, heterogeneity analyses reveal that the positive effect of real-time data on sales performance is more salient for streamers with likely better improvisational skills and for products with higher uncertainty, thereby providing suggestive evidence of streamer improvisation as the underlying mechanism. This study contributes to the literature on data-driven decision-making, evidencing the importance of real-time data for enhancing decision-making processes and outcomes. Our findings also offer guidance for implementing real-time data infrastructure in live stream selling platforms.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1855,7 +1855,7 @@
       "publication_date": "2025-09-18",
       "abstract": "When chatbots are deployed to automate customer service, it is nearly inevitable that situations will arise in which they struggle to understand customer requests. Unfortunately, the onus of resolving such conversational breakdowns tends to fall on either the customer or the chatbot alone, turning customer-chatbot interaction into a frustrating and often unsuccessful guessing game. Despite indications that customers would be open to collaboration, we know little about repair strategies that involve the customer and chatbot working together to resolve breakdowns. Our research addresses this gap by investigating the design and impact of collaborative repair strategies in customer-chatbot interaction. Drawing upon an integration of the theory of least collaborative effort with research on human-machine communication and customer service chatbots, we propose a novel repair strategy design; we instantiated it in the chatbot of a large insurance company and conducted a naturalistic summative evaluation through a randomized field experiment. Overall, our results suggest that a collaborative repair strategy can lead to more breakdowns being resolved and mitigate the negative impacts of breakdowns on key customer outcomes. Our research offers a new way of thinking about customer-AI service interactions by shifting the narrative from confrontation to collaboration, extends the theory of least collaborative effort by integrating the perspective of customer-chatbot interaction, and provides in-depth insights into breakdown and repair in real-world conversations between customers and chatbots.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1882,7 +1882,7 @@
       "publication_date": "2025-09-18",
       "abstract": "As digital platforms evolve, app developers do more than passively participate; they actively reshape the competitive landscape through boundary-shifting moves (BSMs). By modularizing boundary resources at different levels of the technology stack, developers can provoke, delay, or neutralize competitive responses in hypercompetitive app markets. Drawing on an empirical analysis of mobile apps launched by leading Chinese internet firms, we uncover a striking asymmetry in how rival developers react to these moves. Specifically, higher-level app modules—those tailored to particular application domains—tend to delay rival responses, while lower-level technical modules—broadly applicable across domains—trigger faster competitive reactions. This effect is heightened among firms with a history of direct competition, as they respond more aggressively to changes at the lower levels of modularization. By foregrounding the strategic role of technology stack levels in shaping competitive interactions, our study advances a differential resourcing perspective and offers new insights into the dynamics of competition within digital platforms. These findings challenge the dominant host platform-centric and cooperative views on boundary resources, illuminating how app developers actively reshape platform ecosystems to gain temporary advantage.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1911,7 +1911,7 @@
       "publication_date": "2025-09-10",
       "abstract": "Empowered by large-scale consumer data, artificial intelligence (AI) systems act as shopping gurus, serving up highly personalized and expertly curated product recommendations for consumers. Despite their proficiency at inferring what could be the commonly “optimal” choices for the average consumer, AI systems have a limited ability to account for the idiosyncratic factors that uniquely shape each consumer’s purchase decisions, such as one’s hidden motives or complex situations. This inherent limitation, termed AI’s uniqueness neglect, poses a key challenge to the value of AI-advised decisions. Our research identifies a heightened sense of autonomy as a crucial means to improve the quality of AI-advised decisions through compensating for AI’s uniqueness neglect. Across five laboratory experiments and one field experiment in the context of apparel purchases, we show that fostering the sense of autonomy enhances purchase intention and the quality of purchase decisions. We also delineate the underlying mechanism and demonstrate a managerially actionable solution to effectively promote the sense of autonomy. Our work contributes to the literature by uncovering a distinct mechanism by which the sense of autonomy improves the quality of AI-advised decisions and by offering a feasible design strategy that leverages personal smartphones to address the uniqueness neglect of AI recommendation systems. Field data on actual product purchases and returns confirm the efficacy of our AI design in a real-world setting. Our findings offer both theoretical and managerial implications for a wide range of AI-aided decision-making contexts where idiosyncratic factors are important to individual human decision makers yet are commonly overlooked by today’s AI systems.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -1940,7 +1940,7 @@
       "publication_date": "2025-09-09",
       "abstract": "Prior work on human-algorithmic bias has seen difficulty in empirically identifying the underlying mechanisms of bias because in a typical “one-time” decision-making scenario, different mechanisms generate the same patterns of observable decisions. In this study, leveraging a unique repeat decision-making setting in a high-stakes microlending context, we aim to uncover the underlying source, evolution dynamics, and associated impacts of bias. We first develop a structural econometric model of the decision dynamics to understand the source and evolution of bias in human evaluators in microloan granting. We find that both preference-based and belief-based biases exist in human decisions and are in favor of female applicants. Our counterfactual simulations show that the elimination of either of the two biases improves the fairness in financial resource allocation as well as the platform profits. The profit improvement mainly stems from the increased approval probability for male borrowers, especially those who would eventually pay back loans. Furthermore, to examine how human biases evolve when being inherited by machine learning (ML) algorithms, we train state-of-the-art ML algorithms for default risk prediction on both real-world data sets with human biases encoded within and counterfactual data sets with human biases partially or fully removed. We find that even fairness-unaware ML algorithms can reduce bias in human decisions. Interestingly, although removing both types of human bias from the training data can further improve ML fairness, the fairness-enhancing effects vary significantly between new and repeat applicants. Based on our findings, we discuss how to reduce decision bias most effectively in a human-ML pipeline. This paper was accepted by D. J. Wu, Special Issue on the Human-Algorithm Connection. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03862 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -1967,7 +1967,7 @@
       "publication_date": "2025-08-26",
       "abstract": "Although artificial intelligence (AI) has the potential to drive significant business innovation, many firms struggle to realize its benefits. We investigate why some firms succeed in using AI for innovation, whereas others fail, focusing on the organizational support necessary for leveraging AI in both novel and incremental innovation. Specifically, we examine how the lean startup method (LSM) influences the impact of AI on product innovation in startups. Analyzing data from 1,800 Chinese startups between 2011 and 2020, alongside policy shifts by the Chinese government in encouraging AI adoption, we find that companies with strong AI capabilities produce more innovative products. Moreover, our study reveals that AI investments complement LSM in innovation, with effectiveness varying by the type of innovation and AI capability. We differentiate between discovery-oriented AI, which reduces uncertainty in novel areas of innovation, and optimization-oriented AI, which refines and optimizes existing processes. Within the framework of LSM, we further distinguish between prototyping—focused on developing minimum viable products—and controlled experimentation—focused on rigorous testing such as A/B testing. We find that LSM complements discovery-oriented AI by utilizing AI to expand the search for market opportunities and employing prototyping to validate these opportunities, thereby reducing uncertainties and facilitating the development of the first release of products. Conversely, LSM complements optimization-oriented AI by using A/B testing to experiment with the universe of input features and using AI to streamline iterative refinement processes, thereby accelerating the improvement of iterative releases of products. As a result, when firms use AI and LSM for product development, they are able to generate more high-quality products in less time. These findings, applicable to both software and hardware development, underscore the importance of treating AI as a heterogeneous construct because different AI capabilities require distinct organizational processes to achieve optimal outcomes. This paper was accepted by D. J. Wu, Special Issue on the Human-Algorithm Connection. Funding: Financial support from the Mack Institute for Innovation Management is gratefully acknowledged. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2022.03905 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "A/B Test"
       ],
@@ -1996,7 +1996,7 @@
       "publication_date": "2025-08-25",
       "abstract": "Amid ongoing policy and managerial debates on keeping humans in the loop of artificial intelligence (AI) decision-making processes, we investigate whether human involvement in AI-based service production benefits downstream consumers. Partnering with a large savings bank in Europe, we produced pure AI and human–AI collaborative investment advice, which we passed to the bank customers and investigated the degree of their advice taking in a field experiment. On the production side, contrary to concerns that humans might inefficiently override AI output, our findings show that having a human banker in the loop of AI-based financial advisory by giving her the final say over the advice provided does not compromise the quality of the advice. More importantly, on the consumption side, we find that the bank customers are more likely to align their final investment decisions with advice from the human–AI collaboration, compared with pure AI, especially when facing more risky investments. In our setting, this increased reliance on human–AI collaborative advice leads to higher material welfare for consumers. Additional analyses from the field experiment along with an online controlled experiment indicate that the persuasive efficacy of human–AI collaborative advice cannot be attributed to consumers’ belief in increased advice quality resulting from complementarities between human and AI capabilities. Instead, the consumption-side benefits of human involvement in the AI-based service largely stem from human involvement serving as a peripheral cue that enhances the affective appeal of the advice. Our findings indicate that regulations and guidelines should adopt a consumer-centric approach by fostering environments where human capabilities and AI systems can synergize effectively to benefit consumers while safeguarding consumer welfare. These nuanced insights are crucial for managers who face decisions about offering pure AI versus human–AI collaborative services and also for regulators advocating for having humans in the loop. This paper was accepted by D. J. Wu, Special Issue on the Human-Algorithm Connection. Funding: This work was supported by a Hi!PARIS fellowship. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03918 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Field Experiment"
       ],
@@ -2025,7 +2025,7 @@
       "publication_date": "2025-08-25",
       "abstract": "Women remain underrepresented not only as startup founders but also as nonfounding employees (“joiners”). Yet there is limited understanding of how to address this disparity. Whereas traditional explanations have emphasized individual employment preferences, we shift the focus to employers’ decision making. We propose that weaker employment protection—which reduces termination costs—increases women’s likelihood relative to men of being hired by startups rather than incumbent firms, as it enhances employers’ flexibility to experiment with traditionally overlooked candidates. We further hypothesize that this effect is less pronounced when information cues counteract stereotypical beliefs about women hires, such as when (a) women have experience as founders, or (b) the focal startup operates in an industry with a higher representation of female employees or female startup employees. Using Portuguese registry data on new hires from 2009 to 2013 and a regression discontinuity in time (RDiT) design, we provide empirical support for these predictions. Our study highlights gender disparities in hiring between startups and incumbent firms and shows that weaker employment protection can help reduce this gender gap. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Funding: R. Conti gratefully acknowledges financial support from the CY Initiative. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01491 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Regression Discontinuity"
       ],
@@ -2054,7 +2054,7 @@
       "publication_date": "2025-08-19",
       "abstract": "How do venture capital investors react to social movements, including those that relate to historical underrepresentation in funding? We use image and name algorithms combined with clerical review to classify race for 150,000 founders and 30,000 investors. These data allow us to assess the impact of George Floyd’s murder on VC funding of Black entrepreneurs and identify which VCs were most responsive. Although VCs responded swiftly, investment in Black-founded startups reverted to prior levels within two years. This temporary reaction was concentrated among those who had never previously invested in any Black entrepreneur. Moreover, the investors who responded were less likely to invest in more than one Black-founded startup and were less inclined to engage deeply by taking a board seat. Finally, it appears that the best Black entrepreneurs may have anticipated this “token” response because they did not match with investors who had no experience funding Black startups. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06410 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -2093,7 +2093,7 @@
       "doi_url": "https://doi.org/10.1002/sej.70002",
       "journal_url": "https://doi.org/10.1002/sej.70002",
       "url": "https://doi.org/10.1002/sej.70002",
-      "last_seen_at": "2026-08-03"
+      "last_seen_at": "2026-08-04"
     },
     {
       "id": "W4413149957",
@@ -2107,7 +2107,7 @@
       "publication_date": "2025-08-13",
       "abstract": "Information evolves as it is disseminated on social media. However, studies have largely overlooked a major aspect of the diffusion process: how information is modified, the various dimensions of these modifications, and their roles in the diffusion process. To fill these research gaps, we utilize the Information Manipulation Theory (IMT) as a theoretical lens and a unique panel dataset of 71 falsehoods, propagated during five disasters, to investigate how modifying information affects its diffusion. Our exploratory analysis suggests that at least 65 % of the messages shared are half-truths. Although falsehoods had a higher modification rate for the first 700 h, corrections were modified more aggressively and for 100 h longer after that period, owing to competition. Our empirical analysis suggests that modified information, i.e., information that includes unrelated responses such as deflections, self-referents, additional details, and more information, is generally shared more frequently than unmodified information. Furthermore, for falsehoods, a one-unit increase in these modifications increases diffusion; however, when manner and quantity modifications increase by one unit for corrections, sharing increases by 115.1 % and 102.2 %, respectively. Although relation modifications from corrections cause an over 149 % increase in sharing at the information diffusion introduction stages, they do not occur in the maturity and decline stages, and are counterproductive in the growth stages. We also find that negatively charged corrections stimulate virality more than positive ones. These findings have important implications for researchers and decision-makers. • Modified information is shared more than those that are not. • At least 65 % of messages shared are half-truths. • Quantity, relation, and manner modifications positively affect resharing behavior for falsehoods. • Corrections are modified 100 h longer but less aggressively than falsehoods within the first 700 h. • Negatively charged corrections, as well as those with more detail and information, stimulate sharing.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Fixed Effects / Panel Data"
       ],
@@ -2135,7 +2135,7 @@
       "publication_date": "2025-08-11",
       "abstract": "Firms increasingly leverage external entities’ data capabilities to unlock improvements in their offerings, but measuring the impact of such capabilities is challenging. Collaborating with the search team at a technology company, we analyzed a large-scale field experiment in which we randomized access to an external, leading search engine’s autocomplete application programming interface (API) for more than two million users over 108 days. We measure the causal effects of removing API access on two performance metrics of the focal company’s search product: (a) clickthrough rate (CTR) on search suggestions and (b) CTR on the search engine results page. We find that, on average, compared with the baseline with API access, removing API access reduces the search suggestion CTR by 4.6%. Further, exploiting the experimental variation, we use an instrumental variables approach to establish that a 10% increase (decrease) in CTR on search suggestions leads to a 1.85% increase (decrease) in CTR on top-slot search results. However, the negative effect of removing API access becomes less negative over time with the effect magnitude in the longer term being half what we would have obtained with a short-term experiment. We provide suggestive mechanism evidence of the longer term effect: the focal company’s reliance on the leading search engine’s data capability tapers off the accumulation of internal data and then limits the improvement of its autocomplete predictions. This research informs managers of a critical trade-off in leveraging external data capabilities and sheds light on regulations, such as the Digital Markets Act, that mandate data sharing by large digital platforms. This paper was accepted by DJ Wu, information systems. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72442015, 72171132, and 72171146] and the China Scholarship Council [Grant 202206230110]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01834 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Instrumental Variables",
         "Field Experiment"
@@ -2166,7 +2166,7 @@
       "publication_date": "2025-08-07",
       "abstract": "Abstract Noncarceral conviction is a common outcome of criminal court cases: for every person incarcerated, there are approximately three who were recently convicted but not sentenced to prison or jail. We extend the binary-treatment judge IV framework to settings with multiple treatments and use it to study the consequences of noncarceral conviction. We outline assumptions under which widely used 2SLS regressions recover margin-specific treatment effects, relate these assumptions to models of judge decision-making, and derive an expression that provides intuition about the direction and magnitude of asymptotic bias when a key assumption on judge decision-making is not met. We find that noncarceral conviction (relative to dismissal) leads to a large and long-lasting increase in recidivism for felony defendants in Virginia. In contrast, incarceration (relative to noncarceral conviction) leads to a short-run reduction in recidivism, consistent with incapacitation. Our empirical results suggest that noncarceral felony conviction is an important and overlooked driver of recidivism.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Instrumental Variables"
       ],
@@ -2196,7 +2196,7 @@
       "publication_date": "2025-08-06",
       "abstract": "Motivated by the human-machine interaction such as recommending videos for improving customer engagement, we study human-guided human-machine interaction for decision making with private information. We model this interaction as a two-player turn-based game, where one player (Bob, a human) guides the other player (Alice, a machine) toward a common goal. Specifically, we focus on offline reinforcement learning (RL) in this game, where the goal is to find a policy pair for Alice and Bob that maximizes their expected total rewards based on an offline data set collected a priori. The offline setting presents two challenges: (i) We cannot collect Bob’s private information, leading to a confounding bias when using standard RL methods, and (ii) there is a distributional mismatch between the behavior policy used to collect data and the desired optimal policy we aim to learn. To tackle the confounding bias, we treat Bob’s previous action as an instrumental variable for Alice’s current decision making to adjust for the unmeasured confounding. We establish a novel identification result and propose a new off-policy evaluation (OPE) method for evaluating policy pairs in this two-player turn-based game. To tackle the distributional mismatch, we leverage the idea of pessimism and use our OPE method to develop an off-policy policy learning algorithm for finding a desirable policy pair for both Alice and Bob. Moreover, we prove that under some technical assumptions, the policy pair obtained through our method converges to the optimal one at a satisfactory rate. Finally, we conduct a simulation study to demonstrate the performance of the proposed method. This paper was accepted by Nicolas Stier, Special Issue on the Human-Algorithm Connection. Funding: L. Wang’s research is partially supported by the National Science Foundation [Grant FRGMS-1952373]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2022.04112 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Instrumental Variables"
       ],
@@ -2226,7 +2226,7 @@
       "publication_date": "2025-08-06",
       "abstract": "The positive role of transformational leadership for productivity and mental well-being has long been established. Transformational leadership behavior may be particularly suited to navigate times of crisis that are characterized by high levels of complexity and uncertainty. We exploit quasi-random assignment of employees to managers and study the role of frontline managers’ leadership styles on employees’ performance, work style, and mental well-being in times of crisis. Using longitudinal administrative data and panel survey data from before and during the COVID-19 pandemic, we find that the benefits of different leadership styles depend on the environment: Employees of more transactional managers outperform those of more transformational leaders before the onset of the pandemic. During the pandemic, however, more transformational managers lead employees to better performance and mental well-being. We discuss potential explanations and implications. This paper was accepted by Marie Claire Villeval, Behavioral Economics and Decision Analysis. Funding: K. Czura and F. Englmaier acknowledge funding from Collaborative Research Center Transregio 190 [Project 280092119]. H. Ho acknowledges funding through the International Doctoral Program “Evidence-Based Economics” of the Elite Network of Bavaria and from Transregio 266 [Project 403041268]. L. Spantig acknowledges funding from Global Challenges Research Fund@Essex. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03285 .",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Randomized Experiment"
       ],
@@ -2255,7 +2255,7 @@
       "publication_date": "2025-08-04",
       "abstract": "Which emotions make a post go viral, and which hold it back? Analyzing 387, 000 news articles and the sharing paths of more than six million users on WeChat—China’s super-app for social media—we map how eight discrete emotions drive information diffusion. Econometric models show that content expressing anxiety, love, or surprise reliably travels farther; reaches more unique people; and forms deeper, broader, more viral cascades, whereas anger, sadness, and even joy dampen propagation. Diffusion also varies with who shares the content and how strongly sharers are connected, underscoring the importance of audience- and tie-specific strategies. For practitioners, framing messages around constructive uncertainty (anxiety), prosocial appreciation (love), or unexpected insight (surprise) can amplify reach, whereas caution is warranted when leveraging anger. For policymakers and platforms, monitoring anxiety- and surprise-laden posts enables early intervention, and transparency audits must weigh the unequal amplification power of specific emotions when evaluating recommender algorithms and influence operations.",
       "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-03",
+      "last_seen_at": "2026-08-04",
       "methods": [
         "Other Quantitative Empirical"
       ],
