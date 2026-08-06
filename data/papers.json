@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T08:54:19.278879+00:00",
-  "last_checked_at": "2026-08-06T08:54:19.278879+00:00",
+  "updated_at": "2026-08-06T09:21:29.209887+00:00",
+  "last_checked_at": "2026-08-06T09:21:29.209887+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
   "query_start_date": "2025-08-06",
@@ -10,7 +10,7 @@
   "fetched_matching_count": 77,
   "new_paper_count": 0,
   "refreshed_paper_count": 77,
-  "paper_count": 80,
+  "paper_count": 79,
   "errors": [],
   "papers": [
     {
