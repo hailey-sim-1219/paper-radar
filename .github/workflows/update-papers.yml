@@ -36,6 +36,8 @@ jobs:
           python-version: "3.12"
 
       - name: Update papers
+        env:
+          ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
         run: python scripts/update_papers.py
 
       - name: Save updated data
