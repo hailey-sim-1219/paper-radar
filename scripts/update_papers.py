@@ -34,6 +34,13 @@ MAX_PAGES_PER_JOURNAL = max(
     1,
 )
 
+ELSEVIER_API_KEY = os.getenv("ELSEVIER_API_KEY", "")
+
+ELSEVIER_ISSNS = {
+    "0378-7206",  # Information & Management
+    "0167-9236",  # Decision Support Systems
+}
+
 MAILTO = os.getenv("OPENALEX_MAILTO", "")
 OPENALEX_API_KEY = os.getenv("OPENALEX_API_KEY", "")
 
@@ -446,6 +453,42 @@ def build_openalex_url(
         + urllib.parse.urlencode(params)
     )
 
+def fetch_elsevier_abstract(doi: str) -> str:
+    """Fetch an abstract from Elsevier when OpenAlex has none."""
+    if not doi or not ELSEVIER_API_KEY:
+        return ""
+
+    encoded_doi = urllib.parse.quote(doi, safe="")
+    url = (
+        f"https://api.elsevier.com/content/abstract/doi/{encoded_doi}"
+        "?view=META_ABS"
+    )
+
+    request = urllib.request.Request(
+        url,
+        headers={
+            "X-ELS-APIKey": ELSEVIER_API_KEY,
+            "Accept": "application/json",
+            "User-Agent": "PaperRadar/1.0",
+        },
+    )
+
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            payload = json.load(response)
+
+        return (
+            payload
+            .get("abstracts-retrieval-response", {})
+            .get("coredata", {})
+            .get("dc:description", "")
+            or ""
+        )
+
+    except Exception as exc:
+        print(f"Elsevier abstract fallback failed for {doi}: {exc}")
+        return ""
+
 
 def convert_work_to_paper(
     work: dict,
@@ -458,12 +501,18 @@ def convert_work_to_paper(
     Papers without a selected topic or quantitative signal are excluded.
     """
     abstract = reconstruct_abstract(
-        work.get("abstract_inverted_index")
-    )
+    work.get("abstract_inverted_index")
+)
 
+    # OpenAlex에 abstract가 없으면 Elsevier에서 보완
+    if not abstract and journal["issn"] in ELSEVIER_ISSNS:
+        doi = normalize_doi(work.get("doi"))
+    
+        if doi:
+            abstract = fetch_elsevier_abstract(doi)
+    
     title = work.get("title") or "Untitled"
     combined = f"{title}. {abstract}"
-
     methods = classify(combined, METHODS)
     topics = classify(combined, TOPICS)
     quantitative = is_quantitative(combined, methods)
