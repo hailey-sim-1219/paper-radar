@@ -2179,36 +2179,6 @@
       "url": "https://doi.org/10.1287/mnsc.2023.01834"
     },
     {
-      "id": "W4413105493",
-      "doi": "10.1093/qje/qjaf040",
-      "title": "Conviction, Incarceration, and Recidivism: Understanding the Revolving Door",
-      "authors": [
-        "John Eric Humphries",
-        "Aurélie Ouss",
-        "Kamelia Stavreva",
-        "Megan T. Stevenson",
-        "Winnie van Dijk"
-      ],
-      "journal": "Quarterly Journal of Economics",
-      "journal_short": "QJE",
-      "publication_date": "2025-08-07",
-      "abstract": "Abstract Noncarceral conviction is a common outcome of criminal court cases: for every person incarcerated, there are approximately three who were recently convicted but not sentenced to prison or jail. We extend the binary-treatment judge IV framework to settings with multiple treatments and use it to study the consequences of noncarceral conviction. We outline assumptions under which widely used 2SLS regressions recover margin-specific treatment effects, relate these assumptions to models of judge decision-making, and derive an expression that provides intuition about the direction and magnitude of asymptotic bias when a key assumption on judge decision-making is not met. We find that noncarceral conviction (relative to dismissal) leads to a large and long-lasting increase in recidivism for felony defendants in Virginia. In contrast, incarceration (relative to noncarceral conviction) leads to a short-run reduction in recidivism, consistent with incapacitation. Our empirical results suggest that noncarceral felony conviction is an important and overlooked driver of recidivism.",
-      "first_seen_at": "2026-08-03",
-      "last_seen_at": "2026-08-06",
-      "methods": [
-        "Instrumental Variables"
-      ],
-      "topics": [
-        "Decision Making"
-      ],
-      "is_quantitative": true,
-      "cited_by_count": 6,
-      "open_access": false,
-      "doi_url": "https://doi.org/10.1093/qje/qjaf040",
-      "journal_url": "https://doi.org/10.1093/qje/qjaf040",
-      "url": "https://doi.org/10.1093/qje/qjaf040"
-    },
-    {
       "id": "W4413020753",
       "doi": "10.1287/mnsc.2022.04112",
       "title": "Offline Reinforcement Learning for Human-Guided Human-Machine Interaction with Private Information",
