@@ -293,6 +293,106 @@ TOPICS = {
         r"agentic information systems?",
         r"information systems?.{0,60}(?:ai|autonomous) agents?",
     ],
+    "Crowdsourcing": [
+        r"crowdsourcing",
+        r"crowdsourcing contests?",
+        r"crowd[- ]based",
+        r"crowdwork",
+        r"crowd workers?",
+    ],
+
+    "Online Communities": [
+        r"online communit",
+        r"virtual communit",
+        r"online knowledge communit",
+        r"online innovation communit",
+        r"question[- ]and[- ]answer communit",
+        r"\bq&a communit",
+        r"knowledge[- ]sharing communit",
+    ],
+
+    "Social Networks": [
+        r"social networks?",
+        r"online social networks?",
+        r"social networking",
+        r"social media",
+        r"network centrality",
+        r"social ties?",
+    ],
+
+    "Open Source Software": [
+        r"open[- ]source software",
+        r"open source software",
+        r"open[- ]source communit",
+        r"open source communit",
+        r"open[- ]source development",
+        r"\boss\b",
+        r"\boss projects?",
+        r"github",
+        r"software developers?",
+        r"software contributors?",
+    ],
+
+    "Digital Healthcare": [
+        r"digital health",
+        r"digital healthcare",
+        r"online health",
+        r"online healthcare",
+        r"online health communit",
+        r"\bohc\b",
+        r"telemedicine",
+        r"telehealth",
+        r"mobile health",
+        r"\bmhealth\b",
+        r"electronic health records?",
+        r"\behr\b",
+    ],
+
+    "Online Platforms": [
+        r"online platforms?",
+        r"digital platforms?",
+        r"platform[- ]based",
+        r"platform[- ]mediated",
+        r"platform users?",
+        r"platform participants?",
+    ],
+
+    "Online Markets / E-Commerce": [
+        r"online market",
+        r"online marketplace",
+        r"digital marketplace",
+        r"e[- ]commerce",
+        r"electronic commerce",
+        r"online sellers?",
+        r"online retailers?",
+    ],
+
+    "Crowdfunding": [
+        r"crowdfunding",
+        r"equity crowdfunding",
+        r"charitable crowdfunding",
+        r"online crowdfunding",
+    ],
+
+    "Sharing / Gig Economy": [
+        r"sharing econom",
+        r"gig econom",
+        r"gig workers?",
+        r"platform workers?",
+        r"home[- ]sharing",
+        r"ride[- ]sharing",
+        r"ride[- ]hailing",
+    ],
+
+    "Online Knowledge Sharing": [
+        r"knowledge sharing",
+        r"knowledge contribution",
+        r"knowledge co[- ]production",
+        r"knowledge collaboration",
+        r"knowledge[- ]sharing platform",
+        r"online knowledge",
+    ],
+    
 }
 
 
