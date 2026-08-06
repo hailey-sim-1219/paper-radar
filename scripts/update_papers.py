@@ -52,63 +52,141 @@ METHODS = {
         r"difference[- ]in[- ]differences?",
         r"difference[- ]in[- ]difference",
         r"\bdid\b",
+        r"staggered[- ]did",
+        r"staggered difference[- ]in[- ]differences?",
+        r"staggered adoption",
+        r"triple difference",
+        r"difference[- ]in[- ]difference[- ]in[- ]differences?",
+        r"\bddd\b",
     ],
+
     "Event Study": [
         r"event[- ]study",
         r"event[- ]time",
+        r"dynamic treatment effects?",
     ],
+
+    "Natural / Quasi Experiment": [
+        r"natural[- ]experiment",
+        r"natural experimental",
+        r"quasi[- ]experiment",
+        r"quasi[- ]experimental",
+        r"quasi experimental design",
+    ],
+
     "Instrumental Variables": [
         r"instrumental variables?",
+        r"instrumental variable approach",
+        r"\biv estimation",
         r"\b2sls\b",
         r"two[- ]stage least squares",
     ],
+
     "Regression Discontinuity": [
         r"regression discontinuity",
+        r"regression discontinuity design",
         r"\brdd\b",
+        r"sharp rdd",
+        r"fuzzy rdd",
     ],
+
     "Synthetic Control": [
         r"synthetic control",
+        r"synthetic control method",
+        r"synthetic difference[- ]in[- ]differences?",
     ],
+
     "Randomized Experiment": [
         r"randomi[sz]ed (?:controlled )?(?:trial|experiment)",
         r"random assignment",
+        r"randomi[sz]ed intervention",
     ],
+
     "Field Experiment": [
         r"field experiment",
+        r"field experimental",
     ],
+
     "A/B Test": [
         r"\ba/b test",
         r"split test",
+        r"online experiment",
     ],
-    "Fixed Effects / Panel Data": [
+
+    "Fixed Effects / Panel Econometrics": [
         r"fixed[- ]effects?",
+        r"two[- ]way fixed effects?",
+        r"\btwfe\b",
         r"panel data",
+        r"panel regression",
+        r"panel econometric",
+        r"longitudinal data",
     ],
+
     "Matching": [
         r"propensity score",
+        r"propensity score matching",
         r"coarsened exact matching",
         r"matching estimator",
+        r"nearest[- ]neighbor matching",
     ],
+
     "GMM / Dynamic Panel": [
         r"generalized method of moments",
         r"\bgmm\b",
         r"dynamic panel",
+        r"system gmm",
+        r"difference gmm",
+        r"arellano[- ]bond",
     ],
+
     "Time-Series Analysis": [
         r"time[- ]series",
         r"vector autoregression",
+        r"\bvar model",
         r"autoregressive",
+        r"cointegration",
+        r"error correction model",
+        r"interrupted time[- ]series",
     ],
+
     "Survival / Hazard Model": [
         r"survival analys",
         r"hazard model",
+        r"hazard regression",
         r"cox proportional",
+        r"duration model",
     ],
+
     "Discrete Choice Model": [
         r"discrete choice",
         r"multinomial logit",
         r"conditional logit",
+        r"mixed logit",
+        r"random utility model",
     ],
+        "Causal Inference": [
+        r"causal inference",
+        r"causal effect",
+        r"causal impact",
+        r"causal identification",
+        r"identification strategy",
+    ],
+
+    "Econometric Analysis": [
+        r"econometric analys",
+        r"econometric model",
+        r"econometric estimation",
+        r"empirical econometric",
+    ],
+
+    "Selection / Endogeneity": [
+        r"heckman selection",
+        r"heckman correction",
+        r"control function approach",
+        r"endogeneity correction",
+    ],
+
 }
 
 
