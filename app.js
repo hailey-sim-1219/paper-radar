@@ -1,4 +1,29 @@
-const TOPIC_ORDER = ["Generative AI", "Human–AI Interaction", "Digital Platforms", "Platform Governance", "Open Source Software", "Digital Labor", "Digital Innovation", "Entrepreneurship", "Information Economics", "Human–AI Collaboration", "AI Agent", "Decision Making", "Information Ecosystems", "Platform Economy", "AI Agent Collaboration", "AI Agent Information Systems"];
+const TOPIC_ORDER = [
+  "Generative AI",
+  "Human–AI Interaction",
+  "Digital Platforms",
+  "Platform Governance",
+  "Open Source Software",
+  "Digital Labor",
+  "Digital Innovation",
+  "Entrepreneurship",
+  "Information Economics",
+  "Human–AI Collaboration",
+  "AI Agent",
+  "Decision Making",
+  "Information Ecosystems",
+  "Platform Economy",
+  "AI Agent Collaboration",
+  "AI Agent Information Systems",
+  "Crowdsourcing",
+  "Online Communities",
+  "Social Networks",
+  "Digital Healthcare",
+  "Online Platforms",
+  "Online Markets / E-Commerce",
+  "Crowdfunding",
+  "Sharing / Gig Economy",
+  "Online Knowledge Sharing"];
 const state = { papers: [], filtered: [], view: "main", saved: new Map(), selectedTopics: new Set(), selectedMethods: new Set(), activePaper: null };
 const $ = selector => document.querySelector(selector);
 const $$ = selector => [...document.querySelectorAll(selector)];
@@ -6,7 +31,7 @@ const $$ = selector => [...document.querySelectorAll(selector)];
 function escapeHtml(value = "") { const node = document.createElement("div"); node.textContent = value; return node.innerHTML; }
 function stableId(paper) { return paper.doi || paper.id; }
 function formatDate(value) { return value ? new Date(`${value}T00:00:00`).toLocaleDateString("ko-KR", { year: "numeric", month: "short", day: "numeric" }) : "날짜 미상"; }
-function isNew(paper) { if (!paper.first_seen_at) return false; return (Date.now() - new Date(`${paper.first_seen_at}T00:00:00`).getTime()) / 86400000 <= 7; }
+function isNew(paper) {return paper.is_new === true;}
 function bookmarkSvg() { return `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 4.5A1.5 1.5 0 0 1 8 3h8a1.5 1.5 0 0 1 1.5 1.5V21L12 17.6 6.5 21V4.5Z"/></svg>`; }
 function tags(paper) {
   const topics = (paper.topics || []).map(tag => `<span class="tag topic" title="Research Topic">#${escapeHtml(tag.replaceAll(" ", "-"))}</span>`).join("");
