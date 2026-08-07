@@ -22,6 +22,15 @@ OUTPUT = ROOT / "data" / "papers.json"
 
 LOOKBACK_DAYS = int(os.getenv("LOOKBACK_DAYS", "365"))
 
+DAILY_LOOKBACK_DAYS = int(
+    os.getenv("DAILY_LOOKBACK_DAYS", "30")
+)
+
+FULL_REFRESH = (
+    os.getenv("FULL_REFRESH", "false").lower()
+    in {"1", "true", "yes"}
+)
+
 # OpenAlex는 한 페이지당 최대 200개까지 반환할 수 있다.
 PAGE_SIZE = min(
     max(int(os.getenv("OPENALEX_PAGE_SIZE", "200")), 1),
@@ -892,6 +901,10 @@ def merge_papers(
         previous_papers
     )
 
+    # 이전 실행에서 NEW였던 논문은 이번 실행에서는 기존 논문으로 처리한다.
+    for paper in store.values():
+        paper["is_new"] = False
+
     new_paper_count = 0
     refreshed_paper_count = 0
 
@@ -925,6 +938,8 @@ def merge_papers(
                 **existing,
                 **fetched,
             }
+            
+            merged["is_new"] = False
 
             # 논문이 Paper Radar에 최초 등록된 날짜는 변경하지 않는다.
             merged["first_seen_at"] = (
@@ -947,9 +962,10 @@ def merge_papers(
             if doi:
                 doi_index[doi] = existing_key
 
-        else:
-            store[fetched_key] = fetched
-            new_paper_count += 1
+            else:
+                fetched["is_new"] = True
+                store[fetched_key] = fetched
+                new_paper_count += 1
 
             if doi:
                 doi_index[doi] = fetched_key
@@ -975,12 +991,20 @@ def merge_papers(
 def main() -> None:
     run_date = today_kst()
 
+    previous_papers = load_previous_papers()
+
+    # 최초 구축 또는 Full Refresh일 때만 최근 365일 전체 검색.
+    # 평소 자동 업데이트는 최근 30일만 확인한다.
+    scan_days = (
+        LOOKBACK_DAYS
+        if FULL_REFRESH or not previous_papers
+        else DAILY_LOOKBACK_DAYS
+    )
+
     start_date = (
         datetime.now(KST).date()
-        - timedelta(days=LOOKBACK_DAYS)
+        - timedelta(days=scan_days)
     ).isoformat()
-
-    previous_papers = load_previous_papers()
 
     fetched_papers: list[dict] = []
     errors: list[dict] = []
