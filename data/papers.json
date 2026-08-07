@@ -1,18 +1,81 @@
 {
-  "updated_at": "2026-08-06T15:17:47.435537+00:00",
-  "last_checked_at": "2026-08-06T15:17:47.435537+00:00",
+  "updated_at": "2026-08-07T04:38:32.396889+00:00",
+  "last_checked_at": "2026-08-07T04:38:32.396889+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
   "query_start_date": "2025-08-07",
   "journal_count": 9,
   "successful_journal_count": 9,
-  "examined_work_count": 1479,
-  "fetched_matching_count": 105,
-  "new_paper_count": 30,
-  "refreshed_paper_count": 75,
-  "paper_count": 109,
+  "examined_work_count": 1484,
+  "fetched_matching_count": 107,
+  "new_paper_count": 2,
+  "refreshed_paper_count": 105,
+  "paper_count": 111,
   "errors": [],
   "papers": [
+    {
+      "id": "W7172525254",
+      "doi": "10.1287/isre.2024.1200",
+      "title": "Seeing Less, Engaging More: Rethinking Early User Experience on GenAI Co-Creation Platforms–Findings from a Field Experiment",
+      "authors": [
+        "Shenyang Jiang",
+        "Akshat Lakhiwal",
+        "Che‐Wei Liu",
+        "Jiang Duan"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-08-05",
+      "abstract": "Generative AI content-generation (GCG) platforms enable users to co-create personalized content with remarkable speed. Yet recent research suggests that such immediacy may undermine early engagement: when content appears instantly, users may not realize sufficient value to register on the platform. We address this challenge by introducing fulfillment, i.e., the extent to which co-created content is revealed prior to registration on GCG platforms, as an experiential design lever that shapes value realization in initial interactions. Drawing on value co-creation literature, we suggest that fulfillment operates through two motivational pathways: value-in-use, reflecting users’ recognition that their input meaningfully shaped the output, and curiosity, reflecting anticipatory motivation when the experience remains perceptually open. Using a randomized field experiment on a GCG platform, complemented by a follow-up online experiment, we show that partial fulfillment, which reveals some but not all generated output, outperforms both full and no fulfillment in driving registration. This effect is also conditioned by the framing of the registration message. While loss-framed messages that emphasize the cost of inaction increase registration on average, this effect attenuates under full fulfillment, suggesting a substitution relationship. Formal mediation analyses indicate that although both full and partial fulfillment enhance value-in-use, only partial fulfillment sustains curiosity, and this dual activation explains its effectiveness. Additional analyses delineate the scope of these effects, which persist beyond registration to shape subsequent engagement and return behavior, but arise only when users meaningfully co-produce content and are enhanced by better quality outputs. Together, these findings suggest that registration on GCG platforms depends not on maximizing disclosure or curiosity alone, but on structuring interactions to preserve users’ involvement in shaping generated outputs. In doing so, they highlight how effective design on GCG platforms supports engagement that emerges from complementary human and GenAI contributions, rather than from automation alone.",
+      "first_seen_at": "2026-08-07",
+      "last_seen_at": "2026-08-07",
+      "methods": [
+        "Field Experiment",
+        "A/B Test"
+      ],
+      "topics": [
+        "Generative AI"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2024.1200",
+      "journal_url": "https://doi.org/10.1287/isre.2024.1200",
+      "url": "https://doi.org/10.1287/isre.2024.1200"
+    },
+    {
+      "id": "W7172521450",
+      "doi": "10.1287/isre.2025.1821",
+      "title": "Profitability of Open-Source Software Product Development",
+      "authors": [
+        "Shivendu Pratap Singh",
+        "Narayan Ramasubbu",
+        "Chris Kemerer",
+        "Muhammad Zia Hydari"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-08-05",
+      "abstract": "For-profit firms increasingly adopt open-source product development by engaging external community members alongside internal employees on social coding platforms such as GitHub. Yet whether and through what mechanisms this engagement affects firm profitability remains an open question. Drawing on the knowledge-based view of the firm, we conceptualize open-source product development as a form of distributed knowledge integration that enhances labor productivity by expanding the specialized expertise available for product development beyond the firm’s internal boundaries. We posit that improvements in labor productivity translate into higher profitability, as labor constitutes a primary input in software product development. However, the labor productivity effect depends on the extent of participation by external contributors, and the resulting profitability gains are shaped by equifinal configurations of firm resource allocation. We examine our theoretical framework using a longitudinal dataset of 977 U.S. high-tech firms from 2001 to 2025 and find that firms adopting open-source product development via GitHub realized, on average, a 4%–5% increase in gross margin. These results are robust across staggered difference-in-differences, generalized synthetic control, instrumental variable, and dynamic panel specifications. A moderated mediation analysis decomposing over 323,000 project-level contributions across more than 44,000 repositories into internal employee and external volunteer sources reveals that labor productivity partially mediates the profitability effect and that this mediation is amplified by external contributor engagement. The indirect effect of open-source development intensity on profitability through labor productivity becomes discernibly positive only beyond a threshold of external volunteer contributions (approximately 35% in our sample). Configurational analysis further reveals that research and development intensity is present across all high-profitability configurations, consistent with the absorptive capacity required to integrate externally sourced knowledge. These findings extend the knowledge-based view to the open-source context and provide managerial guidance for aligning open-source strategies with firms’ resource configurations.",
+      "first_seen_at": "2026-08-07",
+      "last_seen_at": "2026-08-07",
+      "methods": [
+        "Difference-in-Differences",
+        "Instrumental Variables",
+        "Synthetic Control",
+        "Fixed Effects / Panel Econometrics",
+        "GMM / Dynamic Panel"
+      ],
+      "topics": [
+        "Open Source Software"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2025.1821",
+      "journal_url": "https://doi.org/10.1287/isre.2025.1821",
+      "url": "https://doi.org/10.1287/isre.2025.1821"
+    },
     {
       "id": "W7172430330",
       "doi": "10.1287/mnsc.2024.04544",
@@ -2897,7 +2960,7 @@
         "Decision Making"
       ],
       "is_quantitative": true,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.03918",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.03918",
