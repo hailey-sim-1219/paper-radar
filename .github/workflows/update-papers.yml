@@ -5,6 +5,12 @@ on:
     # 매일 오전 6시 17분 KST
     - cron: "17 21 * * *"
   workflow_dispatch:
+    inputs:
+      full_refresh:
+        description: "최근 1년 전체를 다시 검사"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -35,6 +41,8 @@ jobs:
       - name: Update papers
         env:
           ELSEVIER_API_KEY: ${{ secrets.ELSEVIER_API_KEY }}
+          FULL_REFRESH: ${{ github.event.inputs.full_refresh || 'false' }}
+          DAILY_LOOKBACK_DAYS: "30"
         run: python scripts/update_papers.py
 
       - name: Save updated data
