@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-07T04:38:32.396889+00:00",
-  "last_checked_at": "2026-08-07T04:38:32.396889+00:00",
+  "updated_at": "2026-08-07T06:02:23.964520+00:00",
+  "last_checked_at": "2026-08-07T06:02:23.964520+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2025-08-07",
+  "query_start_date": "2026-07-08",
   "journal_count": 9,
   "successful_journal_count": 9,
-  "examined_work_count": 1484,
-  "fetched_matching_count": 107,
-  "new_paper_count": 2,
-  "refreshed_paper_count": 105,
+  "examined_work_count": 86,
+  "fetched_matching_count": 13,
+  "new_paper_count": 0,
+  "refreshed_paper_count": 13,
   "paper_count": 111,
   "errors": [],
   "papers": [
@@ -41,7 +41,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1200",
       "journal_url": "https://doi.org/10.1287/isre.2024.1200",
-      "url": "https://doi.org/10.1287/isre.2024.1200"
+      "url": "https://doi.org/10.1287/isre.2024.1200",
+      "is_new": false
     },
     {
       "id": "W7172521450",
@@ -74,7 +75,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2025.1821",
       "journal_url": "https://doi.org/10.1287/isre.2025.1821",
-      "url": "https://doi.org/10.1287/isre.2025.1821"
+      "url": "https://doi.org/10.1287/isre.2025.1821",
+      "is_new": false
     },
     {
       "id": "W7172430330",
@@ -103,7 +105,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04544",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04544",
-      "url": "https://doi.org/10.1287/mnsc.2024.04544"
+      "url": "https://doi.org/10.1287/mnsc.2024.04544",
+      "is_new": false
     },
     {
       "id": "W7172398223",
@@ -131,7 +134,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1002/smj.70117",
       "journal_url": "https://doi.org/10.1002/smj.70117",
-      "url": "https://doi.org/10.1002/smj.70117"
+      "url": "https://doi.org/10.1002/smj.70117",
+      "is_new": false
     },
     {
       "id": "W4412619374",
@@ -162,7 +166,8 @@
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "url": "https://doi.org/10.1093/pnasnexus/pgag256",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7170483989",
@@ -193,7 +198,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.1235",
       "journal_url": "https://doi.org/10.1287/isre.2024.1235",
       "url": "https://doi.org/10.1287/isre.2024.1235",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7170058762",
@@ -221,7 +227,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.01432",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.01432",
-      "url": "https://doi.org/10.1287/mnsc.2023.01432"
+      "url": "https://doi.org/10.1287/mnsc.2023.01432",
+      "is_new": false
     },
     {
       "id": "W7169761878",
@@ -249,7 +256,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.0902",
       "journal_url": "https://doi.org/10.1287/isre.2024.0902",
       "url": "https://doi.org/10.1287/isre.2024.0902",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7168378078",
@@ -279,7 +287,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0549",
       "journal_url": "https://doi.org/10.1287/isre.2023.0549",
       "url": "https://doi.org/10.1287/isre.2023.0549",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7168254426",
@@ -308,7 +317,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.01572",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.01572",
-      "url": "https://doi.org/10.1287/mnsc.2023.01572"
+      "url": "https://doi.org/10.1287/mnsc.2023.01572",
+      "is_new": false
     },
     {
       "id": "W7168134258",
@@ -340,7 +350,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2024.1248",
       "journal_url": "https://doi.org/10.1287/isre.2024.1248",
       "url": "https://doi.org/10.1287/isre.2024.1248",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7167915571",
@@ -373,7 +384,8 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06909",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06909",
       "url": "https://doi.org/10.1287/mnsc.2024.06909",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7167811797",
@@ -399,7 +411,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.02462",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.02462",
-      "url": "https://doi.org/10.1287/mnsc.2022.02462"
+      "url": "https://doi.org/10.1287/mnsc.2022.02462",
+      "is_new": false
     },
     {
       "id": "W7167481291",
@@ -428,7 +441,8 @@
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114723",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114723",
       "url": "https://doi.org/10.1016/j.dss.2026.114723",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7166834835",
@@ -459,7 +473,8 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06633",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06633",
       "url": "https://doi.org/10.1287/mnsc.2024.06633",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7166690752",
@@ -488,7 +503,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114721",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114721",
-      "url": "https://doi.org/10.1016/j.dss.2026.114721"
+      "url": "https://doi.org/10.1016/j.dss.2026.114721",
+      "is_new": false
     },
     {
       "id": "W7166570054",
@@ -517,7 +533,8 @@
       "doi_url": "https://doi.org/10.1002/smj.70105",
       "journal_url": "https://doi.org/10.1002/smj.70105",
       "url": "https://doi.org/10.1002/smj.70105",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7167721083",
@@ -543,7 +560,8 @@
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag236",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag236",
       "url": "https://doi.org/10.1093/pnasnexus/pgag236",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7166161600",
@@ -572,7 +590,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0635",
       "journal_url": "https://doi.org/10.1287/isre.2023.0635",
       "url": "https://doi.org/10.1287/isre.2023.0635",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7165183876",
@@ -602,7 +621,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.0952",
       "journal_url": "https://doi.org/10.1287/isre.2024.0952",
-      "url": "https://doi.org/10.1287/isre.2024.0952"
+      "url": "https://doi.org/10.1287/isre.2024.0952",
+      "is_new": false
     },
     {
       "id": "W7165365027",
@@ -630,7 +650,8 @@
       "doi_url": "https://doi.org/10.1287/mnsc.2024.08619",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.08619",
       "url": "https://doi.org/10.1287/mnsc.2024.08619",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7164490378",
@@ -659,7 +680,8 @@
       "doi_url": "https://doi.org/10.1287/isre.2023.0581",
       "journal_url": "https://doi.org/10.1287/isre.2023.0581",
       "url": "https://doi.org/10.1287/isre.2023.0581",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7164044051",
@@ -685,7 +707,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70033",
       "journal_url": "https://doi.org/10.1002/sej.70033",
       "url": "https://doi.org/10.1002/sej.70033",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7163991885",
@@ -712,7 +735,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.04031",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.04031",
-      "url": "https://doi.org/10.1287/mnsc.2023.04031"
+      "url": "https://doi.org/10.1287/mnsc.2023.04031",
+      "is_new": false
     },
     {
       "id": "W7163988679",
@@ -740,7 +764,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag146",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag146",
-      "url": "https://doi.org/10.1093/pnasnexus/pgag146"
+      "url": "https://doi.org/10.1093/pnasnexus/pgag146",
+      "is_new": false
     },
     {
       "id": "W7162578843",
@@ -769,7 +794,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1370",
       "journal_url": "https://doi.org/10.1287/isre.2024.1370",
-      "url": "https://doi.org/10.1287/isre.2024.1370"
+      "url": "https://doi.org/10.1287/isre.2024.1370",
+      "is_new": false
     },
     {
       "id": "W7162305935",
@@ -797,7 +823,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114698",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114698",
-      "url": "https://doi.org/10.1016/j.dss.2026.114698"
+      "url": "https://doi.org/10.1016/j.dss.2026.114698",
+      "is_new": false
     },
     {
       "id": "W7162321204",
@@ -825,7 +852,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.03826",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.03826",
-      "url": "https://doi.org/10.1287/mnsc.2023.03826"
+      "url": "https://doi.org/10.1287/mnsc.2023.03826",
+      "is_new": false
     },
     {
       "id": "W7162137366",
@@ -854,7 +882,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.05415",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.05415",
-      "url": "https://doi.org/10.1287/mnsc.2024.05415"
+      "url": "https://doi.org/10.1287/mnsc.2024.05415",
+      "is_new": false
     },
     {
       "id": "W7166855685",
@@ -886,7 +915,8 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19089",
       "journal_url": "https://doi.org/10.25300/misq/2026/19089",
       "url": "https://doi.org/10.25300/misq/2026/19089",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7160661257",
@@ -915,7 +945,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1190",
       "journal_url": "https://doi.org/10.1287/isre.2024.1190",
-      "url": "https://doi.org/10.1287/isre.2024.1190"
+      "url": "https://doi.org/10.1287/isre.2024.1190",
+      "is_new": false
     },
     {
       "id": "W7160612092",
@@ -943,7 +974,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2023.0487",
       "journal_url": "https://doi.org/10.1287/isre.2023.0487",
-      "url": "https://doi.org/10.1287/isre.2023.0487"
+      "url": "https://doi.org/10.1287/isre.2023.0487",
+      "is_new": false
     },
     {
       "id": "W7160599834",
@@ -974,7 +1006,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2025.2270",
       "journal_url": "https://doi.org/10.1287/isre.2025.2270",
-      "url": "https://doi.org/10.1287/isre.2025.2270"
+      "url": "https://doi.org/10.1287/isre.2025.2270",
+      "is_new": false
     },
     {
       "id": "W4409576887",
@@ -1007,7 +1040,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/isre.2025.2029",
       "journal_url": "https://doi.org/10.1287/isre.2025.2029",
-      "url": "https://doi.org/10.1287/isre.2025.2029"
+      "url": "https://doi.org/10.1287/isre.2025.2029",
+      "is_new": false
     },
     {
       "id": "W7160040783",
@@ -1039,7 +1073,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1041",
       "journal_url": "https://doi.org/10.1287/isre.2024.1041",
-      "url": "https://doi.org/10.1287/isre.2024.1041"
+      "url": "https://doi.org/10.1287/isre.2024.1041",
+      "is_new": false
     },
     {
       "id": "W7155649209",
@@ -1067,7 +1102,8 @@
       "doi_url": "https://doi.org/10.1002/smj.70094",
       "journal_url": "https://doi.org/10.1002/smj.70094",
       "url": "https://doi.org/10.1002/smj.70094",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7154483089",
@@ -1096,7 +1132,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114678",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114678",
-      "url": "https://doi.org/10.1016/j.dss.2026.114678"
+      "url": "https://doi.org/10.1016/j.dss.2026.114678",
+      "is_new": false
     },
     {
       "id": "W7166846367",
@@ -1126,7 +1163,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2026/18885",
       "journal_url": "https://doi.org/10.25300/misq/2026/18885",
-      "url": "https://doi.org/10.25300/misq/2026/18885"
+      "url": "https://doi.org/10.25300/misq/2026/18885",
+      "is_new": false
     },
     {
       "id": "W7151774866",
@@ -1153,7 +1191,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2023.0493",
       "journal_url": "https://doi.org/10.1287/isre.2023.0493",
-      "url": "https://doi.org/10.1287/isre.2023.0493"
+      "url": "https://doi.org/10.1287/isre.2023.0493",
+      "is_new": false
     },
     {
       "id": "W7161274451",
@@ -1182,7 +1221,8 @@
       "doi_url": "https://doi.org/10.1080/07421222.2026.2647466",
       "journal_url": "https://doi.org/10.1080/07421222.2026.2647466",
       "url": "https://doi.org/10.1080/07421222.2026.2647466",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7166829767",
@@ -1211,7 +1251,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2026/17910",
       "journal_url": "https://doi.org/10.25300/misq/2026/17910",
-      "url": "https://doi.org/10.25300/misq/2026/17910"
+      "url": "https://doi.org/10.25300/misq/2026/17910",
+      "is_new": false
     },
     {
       "id": "W7147608947",
@@ -1240,7 +1281,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70017",
       "journal_url": "https://doi.org/10.1002/sej.70017",
       "url": "https://doi.org/10.1002/sej.70017",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7138221743",
@@ -1270,7 +1312,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2022.0414",
       "journal_url": "https://doi.org/10.1287/isre.2022.0414",
-      "url": "https://doi.org/10.1287/isre.2022.0414"
+      "url": "https://doi.org/10.1287/isre.2022.0414",
+      "is_new": false
     },
     {
       "id": "W7135220388",
@@ -1297,7 +1340,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2023.0750",
       "journal_url": "https://doi.org/10.1287/isre.2023.0750",
-      "url": "https://doi.org/10.1287/isre.2023.0750"
+      "url": "https://doi.org/10.1287/isre.2023.0750",
+      "is_new": false
     },
     {
       "id": "W7135048385",
@@ -1324,7 +1368,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.05861",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.05861",
-      "url": "https://doi.org/10.1287/mnsc.2024.05861"
+      "url": "https://doi.org/10.1287/mnsc.2024.05861",
+      "is_new": false
     },
     {
       "id": "W7154748512",
@@ -1353,7 +1398,8 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19113",
       "journal_url": "https://doi.org/10.25300/misq/2026/19113",
       "url": "https://doi.org/10.25300/misq/2026/19113",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7154695693",
@@ -1381,7 +1427,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.25300/misq/2026/19171",
       "journal_url": "https://doi.org/10.25300/misq/2026/19171",
-      "url": "https://doi.org/10.25300/misq/2026/19171"
+      "url": "https://doi.org/10.25300/misq/2026/19171",
+      "is_new": false
     },
     {
       "id": "W7154743678",
@@ -1409,7 +1456,8 @@
       "doi_url": "https://doi.org/10.25300/misq/2026/19079",
       "journal_url": "https://doi.org/10.25300/misq/2026/19079",
       "url": "https://doi.org/10.25300/misq/2026/19079",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7134197344",
@@ -1440,7 +1488,8 @@
       "doi_url": "https://doi.org/10.1002/smj.70073",
       "journal_url": "https://doi.org/10.1002/smj.70073",
       "url": "https://doi.org/10.1002/smj.70073",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7131867455",
@@ -1473,7 +1522,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2025.00535",
       "journal_url": "https://doi.org/10.1287/mnsc.2025.00535",
-      "url": "https://doi.org/10.1287/mnsc.2025.00535"
+      "url": "https://doi.org/10.1287/mnsc.2025.00535",
+      "is_new": false
     },
     {
       "id": "W7131643171",
@@ -1504,7 +1554,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.05685",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.05685",
-      "url": "https://doi.org/10.1287/mnsc.2024.05685"
+      "url": "https://doi.org/10.1287/mnsc.2024.05685",
+      "is_new": false
     },
     {
       "id": "W7128811761",
@@ -1532,7 +1583,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.dss.2026.114647",
       "journal_url": "https://doi.org/10.1016/j.dss.2026.114647",
-      "url": "https://doi.org/10.1016/j.dss.2026.114647"
+      "url": "https://doi.org/10.1016/j.dss.2026.114647",
+      "is_new": false
     },
     {
       "id": "W7154706673",
@@ -1561,7 +1613,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2026/18998",
       "journal_url": "https://doi.org/10.25300/misq/2026/18998",
-      "url": "https://doi.org/10.25300/misq/2026/18998"
+      "url": "https://doi.org/10.25300/misq/2026/18998",
+      "is_new": false
     },
     {
       "id": "W7128440967",
@@ -1590,7 +1643,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1664",
       "journal_url": "https://doi.org/10.1287/isre.2024.1664",
-      "url": "https://doi.org/10.1287/isre.2024.1664"
+      "url": "https://doi.org/10.1287/isre.2024.1664",
+      "is_new": false
     },
     {
       "id": "W7127989281",
@@ -1617,7 +1671,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70016",
       "journal_url": "https://doi.org/10.1002/sej.70016",
       "url": "https://doi.org/10.1002/sej.70016",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7124148844",
@@ -1645,7 +1700,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2021.02699",
       "journal_url": "https://doi.org/10.1287/mnsc.2021.02699",
-      "url": "https://doi.org/10.1287/mnsc.2021.02699"
+      "url": "https://doi.org/10.1287/mnsc.2021.02699",
+      "is_new": false
     },
     {
       "id": "W7124206083",
@@ -1675,7 +1731,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.03573",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.03573",
-      "url": "https://doi.org/10.1287/mnsc.2022.03573"
+      "url": "https://doi.org/10.1287/mnsc.2022.03573",
+      "is_new": false
     },
     {
       "id": "W7123804011",
@@ -1704,7 +1761,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1002/smj.70060",
       "journal_url": "https://doi.org/10.1002/smj.70060",
-      "url": "https://doi.org/10.1002/smj.70060"
+      "url": "https://doi.org/10.1002/smj.70060",
+      "is_new": false
     },
     {
       "id": "W7122787564",
@@ -1733,7 +1791,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1551",
       "journal_url": "https://doi.org/10.1287/isre.2024.1551",
-      "url": "https://doi.org/10.1287/isre.2024.1551"
+      "url": "https://doi.org/10.1287/isre.2024.1551",
+      "is_new": false
     },
     {
       "id": "W7133830289",
@@ -1760,7 +1819,8 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602395",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602395",
       "url": "https://doi.org/10.1080/07421222.2025.2602395",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7133649211",
@@ -1788,7 +1848,8 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602399",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602399",
       "url": "https://doi.org/10.1080/07421222.2025.2602399",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7133795767",
@@ -1817,7 +1878,8 @@
       "doi_url": "https://doi.org/10.1080/07421222.2025.2602400",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2602400",
       "url": "https://doi.org/10.1080/07421222.2025.2602400",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7117966348",
@@ -1845,7 +1907,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70011",
       "journal_url": "https://doi.org/10.1002/sej.70011",
       "url": "https://doi.org/10.1002/sej.70011",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W7117759518",
@@ -1874,7 +1937,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.im.2025.104300",
       "journal_url": "https://doi.org/10.1016/j.im.2025.104300",
-      "url": "https://doi.org/10.1016/j.im.2025.104300"
+      "url": "https://doi.org/10.1016/j.im.2025.104300",
+      "is_new": false
     },
     {
       "id": "W7117578187",
@@ -1903,7 +1967,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.00149",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.00149",
-      "url": "https://doi.org/10.1287/mnsc.2023.00149"
+      "url": "https://doi.org/10.1287/mnsc.2023.00149",
+      "is_new": false
     },
     {
       "id": "W7128600907",
@@ -1931,7 +1996,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2025/18897",
       "journal_url": "https://doi.org/10.25300/misq/2025/18897",
-      "url": "https://doi.org/10.25300/misq/2025/18897"
+      "url": "https://doi.org/10.25300/misq/2025/18897",
+      "is_new": false
     },
     {
       "id": "W4417506409",
@@ -1960,7 +2026,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04342",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04342",
-      "url": "https://doi.org/10.1287/mnsc.2024.04342"
+      "url": "https://doi.org/10.1287/mnsc.2024.04342",
+      "is_new": false
     },
     {
       "id": "W4417466013",
@@ -1989,7 +2056,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.00857",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.00857",
-      "url": "https://doi.org/10.1287/mnsc.2022.00857"
+      "url": "https://doi.org/10.1287/mnsc.2022.00857",
+      "is_new": false
     },
     {
       "id": "W7128603871",
@@ -2015,7 +2083,8 @@
       "doi_url": "https://doi.org/10.25300/misq/2025/19559",
       "journal_url": "https://doi.org/10.25300/misq/2025/19559",
       "url": "https://doi.org/10.25300/misq/2025/19559",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W4417199286",
@@ -2046,7 +2115,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2020.00902",
       "journal_url": "https://doi.org/10.1287/mnsc.2020.00902",
-      "url": "https://doi.org/10.1287/mnsc.2020.00902"
+      "url": "https://doi.org/10.1287/mnsc.2020.00902",
+      "is_new": false
     },
     {
       "id": "W4416773212",
@@ -2075,7 +2145,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1002/smj.70035",
       "journal_url": "https://doi.org/10.1002/smj.70035",
-      "url": "https://doi.org/10.1002/smj.70035"
+      "url": "https://doi.org/10.1002/smj.70035",
+      "is_new": false
     },
     {
       "id": "W4416719024",
@@ -2105,7 +2176,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.03838",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.03838",
-      "url": "https://doi.org/10.1287/mnsc.2023.03838"
+      "url": "https://doi.org/10.1287/mnsc.2023.03838",
+      "is_new": false
     },
     {
       "id": "W4416419617",
@@ -2133,7 +2205,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.02636",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.02636",
-      "url": "https://doi.org/10.1287/mnsc.2023.02636"
+      "url": "https://doi.org/10.1287/mnsc.2023.02636",
+      "is_new": false
     },
     {
       "id": "W4416282865",
@@ -2162,7 +2235,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1609",
       "journal_url": "https://doi.org/10.1287/isre.2024.1609",
-      "url": "https://doi.org/10.1287/isre.2024.1609"
+      "url": "https://doi.org/10.1287/isre.2024.1609",
+      "is_new": false
     },
     {
       "id": "W4416210768",
@@ -2191,7 +2265,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2024.1305",
       "journal_url": "https://doi.org/10.1287/isre.2024.1305",
-      "url": "https://doi.org/10.1287/isre.2024.1305"
+      "url": "https://doi.org/10.1287/isre.2024.1305",
+      "is_new": false
     },
     {
       "id": "W4416009645",
@@ -2223,7 +2298,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04397",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04397",
-      "url": "https://doi.org/10.1287/mnsc.2024.04397"
+      "url": "https://doi.org/10.1287/mnsc.2024.04397",
+      "is_new": false
     },
     {
       "id": "W4415738717",
@@ -2250,7 +2326,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.00442",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.00442",
-      "url": "https://doi.org/10.1287/mnsc.2023.00442"
+      "url": "https://doi.org/10.1287/mnsc.2023.00442",
+      "is_new": false
     },
     {
       "id": "W4416756906",
@@ -2283,7 +2360,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgaf369",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgaf369",
-      "url": "https://doi.org/10.1093/pnasnexus/pgaf369"
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf369",
+      "is_new": false
     },
     {
       "id": "W4415902978",
@@ -2328,7 +2406,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgaf287",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgaf287",
-      "url": "https://doi.org/10.1093/pnasnexus/pgaf287"
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf287",
+      "is_new": false
     },
     {
       "id": "W4415626297",
@@ -2357,7 +2436,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.04183",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.04183",
-      "url": "https://doi.org/10.1287/mnsc.2023.04183"
+      "url": "https://doi.org/10.1287/mnsc.2023.04183",
+      "is_new": false
     },
     {
       "id": "W4415313186",
@@ -2386,7 +2466,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.dss.2025.114557",
       "journal_url": "https://doi.org/10.1016/j.dss.2025.114557",
-      "url": "https://doi.org/10.1016/j.dss.2025.114557"
+      "url": "https://doi.org/10.1016/j.dss.2025.114557",
+      "is_new": false
     },
     {
       "id": "W4415233620",
@@ -2416,7 +2497,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2023.0007",
       "journal_url": "https://doi.org/10.1287/isre.2023.0007",
-      "url": "https://doi.org/10.1287/isre.2023.0007"
+      "url": "https://doi.org/10.1287/isre.2023.0007",
+      "is_new": false
     },
     {
       "id": "W4415223242",
@@ -2449,7 +2531,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04625",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04625",
-      "url": "https://doi.org/10.1287/mnsc.2024.04625"
+      "url": "https://doi.org/10.1287/mnsc.2024.04625",
+      "is_new": false
     },
     {
       "id": "W4415158555",
@@ -2478,7 +2561,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2020.01180",
       "journal_url": "https://doi.org/10.1287/mnsc.2020.01180",
-      "url": "https://doi.org/10.1287/mnsc.2020.01180"
+      "url": "https://doi.org/10.1287/mnsc.2020.01180",
+      "is_new": false
     },
     {
       "id": "W4415222261",
@@ -2508,7 +2592,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgaf325",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgaf325",
-      "url": "https://doi.org/10.1093/pnasnexus/pgaf325"
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf325",
+      "is_new": false
     },
     {
       "id": "W4414905983",
@@ -2536,7 +2621,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70006",
       "journal_url": "https://doi.org/10.1002/sej.70006",
       "url": "https://doi.org/10.1002/sej.70006",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W4414855457",
@@ -2563,7 +2649,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06312",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06312",
-      "url": "https://doi.org/10.1287/mnsc.2024.06312"
+      "url": "https://doi.org/10.1287/mnsc.2024.06312",
+      "is_new": false
     },
     {
       "id": "W4416364845",
@@ -2591,7 +2678,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1080/07421222.2025.2561388",
       "journal_url": "https://doi.org/10.1080/07421222.2025.2561388",
-      "url": "https://doi.org/10.1080/07421222.2025.2561388"
+      "url": "https://doi.org/10.1080/07421222.2025.2561388",
+      "is_new": false
     },
     {
       "id": "W4414472860",
@@ -2619,7 +2707,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2023.0332",
       "journal_url": "https://doi.org/10.1287/isre.2023.0332",
-      "url": "https://doi.org/10.1287/isre.2023.0332"
+      "url": "https://doi.org/10.1287/isre.2023.0332",
+      "is_new": false
     },
     {
       "id": "W4414414978",
@@ -2647,7 +2736,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.02381",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.02381",
-      "url": "https://doi.org/10.1287/mnsc.2023.02381"
+      "url": "https://doi.org/10.1287/mnsc.2023.02381",
+      "is_new": false
     },
     {
       "id": "W4414406979",
@@ -2674,7 +2764,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.04285",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.04285",
-      "url": "https://doi.org/10.1287/mnsc.2023.04285"
+      "url": "https://doi.org/10.1287/mnsc.2023.04285",
+      "is_new": false
     },
     {
       "id": "W4414325297",
@@ -2704,7 +2795,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2025/18627",
       "journal_url": "https://doi.org/10.25300/misq/2025/18627",
-      "url": "https://doi.org/10.25300/misq/2025/18627"
+      "url": "https://doi.org/10.25300/misq/2025/18627",
+      "is_new": false
     },
     {
       "id": "W4414325780",
@@ -2731,7 +2823,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.25300/misq/2025/18742",
       "journal_url": "https://doi.org/10.25300/misq/2025/18742",
-      "url": "https://doi.org/10.25300/misq/2025/18742"
+      "url": "https://doi.org/10.25300/misq/2025/18742",
+      "is_new": false
     },
     {
       "id": "W4414313214",
@@ -2759,7 +2852,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2025/18060",
       "journal_url": "https://doi.org/10.25300/misq/2025/18060",
-      "url": "https://doi.org/10.25300/misq/2025/18060"
+      "url": "https://doi.org/10.25300/misq/2025/18060",
+      "is_new": false
     },
     {
       "id": "W4414595748",
@@ -2788,7 +2882,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04649",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04649",
-      "url": "https://doi.org/10.1287/mnsc.2024.04649"
+      "url": "https://doi.org/10.1287/mnsc.2024.04649",
+      "is_new": false
     },
     {
       "id": "W4414150428",
@@ -2817,7 +2912,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2025/17607",
       "journal_url": "https://doi.org/10.25300/misq/2025/17607",
-      "url": "https://doi.org/10.25300/misq/2025/17607"
+      "url": "https://doi.org/10.25300/misq/2025/17607",
+      "is_new": false
     },
     {
       "id": "W4414087098",
@@ -2845,7 +2941,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1002/smj.70018",
       "journal_url": "https://doi.org/10.1002/smj.70018",
-      "url": "https://doi.org/10.1002/smj.70018"
+      "url": "https://doi.org/10.1002/smj.70018",
+      "is_new": false
     },
     {
       "id": "W4414199338",
@@ -2874,7 +2971,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.03862",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.03862",
-      "url": "https://doi.org/10.1287/mnsc.2022.03862"
+      "url": "https://doi.org/10.1287/mnsc.2022.03862",
+      "is_new": false
     },
     {
       "id": "W4413776853",
@@ -2907,7 +3005,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.04405",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.04405",
-      "url": "https://doi.org/10.1287/mnsc.2024.04405"
+      "url": "https://doi.org/10.1287/mnsc.2024.04405",
+      "is_new": false
     },
     {
       "id": "W4413682489",
@@ -2934,7 +3033,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.03905",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.03905",
-      "url": "https://doi.org/10.1287/mnsc.2022.03905"
+      "url": "https://doi.org/10.1287/mnsc.2022.03905",
+      "is_new": false
     },
     {
       "id": "W4413508380",
@@ -2964,7 +3064,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.03918",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.03918",
-      "url": "https://doi.org/10.1287/mnsc.2022.03918"
+      "url": "https://doi.org/10.1287/mnsc.2022.03918",
+      "is_new": false
     },
     {
       "id": "W4413584536",
@@ -2993,7 +3094,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.01491",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.01491",
-      "url": "https://doi.org/10.1287/mnsc.2023.01491"
+      "url": "https://doi.org/10.1287/mnsc.2023.01491",
+      "is_new": false
     },
     {
       "id": "W4413333476",
@@ -3021,7 +3123,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2024.06410",
       "journal_url": "https://doi.org/10.1287/mnsc.2024.06410",
-      "url": "https://doi.org/10.1287/mnsc.2024.06410"
+      "url": "https://doi.org/10.1287/mnsc.2024.06410",
+      "is_new": false
     },
     {
       "id": "W4413318638",
@@ -3048,7 +3151,8 @@
       "doi_url": "https://doi.org/10.1002/sej.70002",
       "journal_url": "https://doi.org/10.1002/sej.70002",
       "url": "https://doi.org/10.1002/sej.70002",
-      "last_seen_at": "2026-08-07"
+      "last_seen_at": "2026-08-07",
+      "is_new": false
     },
     {
       "id": "W4413149957",
@@ -3075,7 +3179,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1016/j.dss.2025.114523",
       "journal_url": "https://doi.org/10.1016/j.dss.2025.114523",
-      "url": "https://doi.org/10.1016/j.dss.2025.114523"
+      "url": "https://doi.org/10.1016/j.dss.2025.114523",
+      "is_new": false
     },
     {
       "id": "W4413129860",
@@ -3106,7 +3211,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.01834",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.01834",
-      "url": "https://doi.org/10.1287/mnsc.2023.01834"
+      "url": "https://doi.org/10.1287/mnsc.2023.01834",
+      "is_new": false
     },
     {
       "id": "W4413187774",
@@ -3138,7 +3244,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgaf255",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgaf255",
-      "url": "https://doi.org/10.1093/pnasnexus/pgaf255"
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf255",
+      "is_new": false
     },
     {
       "id": "W4413020753",
@@ -3169,7 +3276,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/mnsc.2022.04112",
       "journal_url": "https://doi.org/10.1287/mnsc.2022.04112",
-      "url": "https://doi.org/10.1287/mnsc.2022.04112"
+      "url": "https://doi.org/10.1287/mnsc.2022.04112",
+      "is_new": false
     },
     {
       "id": "W4413020060",
@@ -3198,7 +3306,8 @@
       "open_access": true,
       "doi_url": "https://doi.org/10.1287/mnsc.2023.03285",
       "journal_url": "https://doi.org/10.1287/mnsc.2023.03285",
-      "url": "https://doi.org/10.1287/mnsc.2023.03285"
+      "url": "https://doi.org/10.1287/mnsc.2023.03285",
+      "is_new": false
     },
     {
       "id": "W4412929309",
@@ -3227,7 +3336,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.1287/isre.2022.0611",
       "journal_url": "https://doi.org/10.1287/isre.2022.0611",
-      "url": "https://doi.org/10.1287/isre.2022.0611"
+      "url": "https://doi.org/10.1287/isre.2022.0611",
+      "is_new": false
     },
     {
       "id": "W4414325279",
@@ -3259,7 +3369,8 @@
       "open_access": false,
       "doi_url": "https://doi.org/10.25300/misq/2025/18603",
       "journal_url": "https://doi.org/10.25300/misq/2025/18603",
-      "url": "https://doi.org/10.25300/misq/2025/18603"
+      "url": "https://doi.org/10.25300/misq/2025/18603",
+      "is_new": false
     }
   ]
 }
