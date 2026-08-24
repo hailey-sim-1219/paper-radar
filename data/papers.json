@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-23T21:54:19.928704+00:00",
-  "last_checked_at": "2026-08-23T21:54:19.928704+00:00",
+  "updated_at": "2026-08-24T22:01:25.946457+00:00",
+  "last_checked_at": "2026-08-24T22:01:25.946457+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2026-07-25",
+  "query_start_date": "2026-07-26",
   "journal_count": 9,
   "successful_journal_count": 9,
-  "examined_work_count": 112,
-  "fetched_matching_count": 11,
+  "examined_work_count": 113,
+  "fetched_matching_count": 12,
   "new_paper_count": 0,
   "refreshed_paper_count": 4,
   "paper_count": 111,
@@ -28,7 +28,7 @@
       "publication_date": "2026-08-05",
       "abstract": "Generative AI content-generation (GCG) platforms enable users to co-create personalized content with remarkable speed. Yet recent research suggests that such immediacy may undermine early engagement: when content appears instantly, users may not realize sufficient value to register on the platform. We address this challenge by introducing fulfillment, i.e., the extent to which co-created content is revealed prior to registration on GCG platforms, as an experiential design lever that shapes value realization in initial interactions. Drawing on value co-creation literature, we suggest that fulfillment operates through two motivational pathways: value-in-use, reflecting users’ recognition that their input meaningfully shaped the output, and curiosity, reflecting anticipatory motivation when the experience remains perceptually open. Using a randomized field experiment on a GCG platform, complemented by a follow-up online experiment, we show that partial fulfillment, which reveals some but not all generated output, outperforms both full and no fulfillment in driving registration. This effect is also conditioned by the framing of the registration message. While loss-framed messages that emphasize the cost of inaction increase registration on average, this effect attenuates under full fulfillment, suggesting a substitution relationship. Formal mediation analyses indicate that although both full and partial fulfillment enhance value-in-use, only partial fulfillment sustains curiosity, and this dual activation explains its effectiveness. Additional analyses delineate the scope of these effects, which persist beyond registration to shape subsequent engagement and return behavior, but arise only when users meaningfully co-produce content and are enhanced by better quality outputs. Together, these findings suggest that registration on GCG platforms depends not on maximizing disclosure or curiosity alone, but on structuring interactions to preserve users’ involvement in shaping generated outputs. In doing so, they highlight how effective design on GCG platforms supports engagement that emerges from complementary human and GenAI contributions, rather than from automation alone.",
       "first_seen_at": "2026-08-07",
-      "last_seen_at": "2026-08-24",
+      "last_seen_at": "2026-08-25",
       "methods": [
         "Field Experiment",
         "A/B Test"
@@ -92,7 +92,7 @@
       "publication_date": "2026-08-04",
       "abstract": "Online communities can create complex knowledge products, such as software, by leveraging collaboration and division of labor between their core members and the crowd across tasks. Recent literature has focused on how incentives stimulate crowd contributions. Limited attention has been paid to potential intergroup spillovers, that is, how incentivizing crowd contributions affects nonincentivized core members’ contributions. In this paper, we examine how core members of the Python developer community responded to the Internet Bug Bounty program, an initiative that offers monetary incentives for bug reporting by the crowd. Using a difference-in-differences strategy and the Java community as the control group, we find that the Python core members reduced their contributions to the incentivized task of bug reporting after the program’s implementation. Importantly, they also reduced their contributions to the nonincentivized task of enhancement reporting, a critical knowledge creation task for improving Python. Such reduction has led to a decline in the overall contributions of enhancement reports and related code commits to Python. Further analysis suggests that the negative intergroup spillover of the incentive on core members’ nonincentivized task contributions can plausibly be explained by reduced intertask learning. Our study offers implications for crowdsourcing, the design of incentives for digital public goods, and task delegation. This paper was accepted by Anindya Ghose, information systems. Funding: This research is supported in part by the HKSAR General Research Fund Project 16503620. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04544 .",
       "first_seen_at": "2026-08-07",
-      "last_seen_at": "2026-08-24",
+      "last_seen_at": "2026-08-25",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -122,7 +122,7 @@
       "publication_date": "2026-08-04",
       "abstract": "Abstract Research Summary This study examines whether training entrepreneurs to apply systematic approaches to strategic decision‐making influences their self‐perception of ability. Using a field experiment in which 151 entrepreneurs in Tanzania were randomly assigned to two different versions of entrepreneurial training (an evidence‐based vs. a theory‐and‐evidence‐based approach), we find entrepreneurs in the theory‐and‐evidence‐based condition experience a larger and more persistent increase in their self‐perception of ability to deal with challenges compared to the evidence‐based condition. Additionally, entrepreneurs across the two conditions respond differently to the training depending on their initial levels of perceived ability. By integrating insights from social cognitive psychology, this study contributes to research on entrepreneurial experimentation by uncovering the effect of strategic decision‐making training on individuals themselves, not just their ventures' outcomes. Managerial Summary Entrepreneurs' self‐perceptions of ability are critical for how they engage with learning opportunities and respond to challenges that arise as they develop their businesses. To explore how different versions of training on strategic decision‐making impact entrepreneurs' self‐perceived abilities to deal with such challenges, we conducted a field experiment with Tanzanian agribusiness entrepreneurs. Results show that entrepreneurs who learn to develop a theory‐of‐value before engaging in experimentation experience a larger increase in self‐perceived ability compared to those who experiment without such a theory‐of‐value, and this effect persists for longer. Our results have practical value for entrepreneurs and support organizations offering training programs and point to self‐perception of ability as an important factor to help entrepreneurs follow the behavioral advice they receive during those trainings.",
       "first_seen_at": "2026-08-06",
-      "last_seen_at": "2026-08-24",
+      "last_seen_at": "2026-08-25",
       "methods": [
         "Field Experiment"
       ],
@@ -166,7 +166,7 @@
       "doi_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "journal_url": "https://doi.org/10.1093/pnasnexus/pgag256",
       "url": "https://doi.org/10.1093/pnasnexus/pgag256",
-      "last_seen_at": "2026-08-24",
+      "last_seen_at": "2026-08-25",
       "is_new": false
     },
     {
