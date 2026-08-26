@@ -1,11 +1,14 @@
 [
   {"name":"Management Science","short":"MS","issn":"0025-1909"},
-  {"name":"Information Systems Research","short":"ISR","issn":"1047-7047"},
-  {"name":"Journal of Management Information Systems","short":"JMIS","issn":"0742-1222"},
   {"name":"Decision Support Systems","short":"DSS","issn":"0167-9236"},
+  {"name":"European Journal of Information Systems","short":"EJIS","issn":"0960-085X"},
   {"name":"Information & Management","short":"I&M","issn":"0378-7206"},
-  {"name":"MIS Quarterly","short":"MISQ","issn":"0276-7783"},
-  {"name":"Strategic Management Journal","short":"SMJ","issn":"0143-2095"},
-  {"name":"Strategic Entrepreneurship Journal","short":"SEJ","issn":"1932-4391"},
-  {"name":"PNAS Nexus","short":"PNAS Nexus","issn":"2752-6542"}
+  {"name":"Information and Organization","short":"I&O","issn":"1471-7727"},
+  {"name":"Information Systems Journal","short":"ISJ","issn":"1350-1917"},
+  {"name":"Information Systems Research","short":"ISR","issn":"1047-7047"},
+  {"name":"Journal of the Association for Information Systems","short":"JAIS","issn":"1536-9323"},
+  {"name":"Journal of Information Technology","short":"JIT","issn":"0268-3962"},
+  {"name":"Journal of Management Information Systems","short":"JMIS","issn":"0742-1222"},
+  {"name":"Journal of Strategic Information Systems","short":"JSIS","issn":"0963-8687"},
+  {"name":"MIS Quarterly","short":"MISQ","issn":"0276-7783"}
 ]
