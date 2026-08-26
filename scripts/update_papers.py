@@ -27,7 +27,7 @@ DAILY_LOOKBACK_DAYS = int(
 )
 
 FULL_REFRESH = (
-    os.getenv("FULL_REFRESH", "false").lower()
+    os.getenv("FULL_REFRESH", "true").lower()
     in {"1", "true", "yes"}
 )
 
