@@ -48,6 +48,8 @@ ELSEVIER_API_KEY = os.getenv("ELSEVIER_API_KEY", "")
 ELSEVIER_ISSNS = {
     "0378-7206",  # Information & Management
     "0167-9236",  # Decision Support Systems
+    "1471-7727",  # Information and Organization
+    "0963-8687",  # Journal of Strategic Information Systems
 }
 
 MAILTO = os.getenv("OPENALEX_MAILTO", "")
@@ -938,7 +940,7 @@ def merge_papers(
                 **existing,
                 **fetched,
             }
-            
+
             merged["is_new"] = False
 
             # 논문이 Paper Radar에 최초 등록된 날짜는 변경하지 않는다.
@@ -962,10 +964,10 @@ def merge_papers(
             if doi:
                 doi_index[doi] = existing_key
 
-            else:
-                fetched["is_new"] = True
-                store[fetched_key] = fetched
-                new_paper_count += 1
+        else:
+            fetched["is_new"] = True
+            store[fetched_key] = fetched
+            new_paper_count += 1
 
             if doi:
                 doi_index[doi] = fetched_key
@@ -991,7 +993,17 @@ def merge_papers(
 def main() -> None:
     run_date = today_kst()
 
-    previous_papers = load_previous_papers()
+    configured_journal_names = {
+        journal["name"]
+        for journal in JOURNALS
+    }
+
+    # 현재 설정에서 제외된 저널의 누적 논문은 배포 데이터에서도 제거한다.
+    previous_papers = [
+        paper
+        for paper in load_previous_papers()
+        if paper.get("journal") in configured_journal_names
+    ]
 
     # 최초 구축 또는 Full Refresh일 때만 최근 365일 전체 검색.
     # 평소 자동 업데이트는 최근 30일만 확인한다.
@@ -1109,3 +1121,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
