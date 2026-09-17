@@ -1,18 +1,48 @@
 {
-  "updated_at": "2026-09-16T23:38:57.063706+00:00",
-  "last_checked_at": "2026-09-16T23:38:57.063706+00:00",
+  "updated_at": "2026-09-17T23:33:10.447012+00:00",
+  "last_checked_at": "2026-09-17T23:33:10.447012+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2026-08-18",
+  "query_start_date": "2026-08-19",
   "journal_count": 12,
   "successful_journal_count": 12,
-  "examined_work_count": 114,
-  "fetched_matching_count": 10,
-  "new_paper_count": 0,
+  "examined_work_count": 111,
+  "fetched_matching_count": 11,
+  "new_paper_count": 1,
   "refreshed_paper_count": 10,
-  "paper_count": 272,
+  "paper_count": 273,
   "errors": [],
   "papers": [
+    {
+      "id": "W7213407280",
+      "doi": "10.1287/mnsc.2024.04540",
+      "title": "Sequential Search Transformer: A Deep Structural Econometric Model",
+      "authors": [
+        "Yicheng Song",
+        "Tianshu Sun"
+      ],
+      "journal": "Management Science",
+      "journal_short": "MS",
+      "publication_date": "2026-09-16",
+      "abstract": "Modeling and leveraging consumers’ dynamic search behaviors presents significant business opportunities. Although deep learning methods excel at processing vast consumer data for predictive tasks, their opaque nature limits interpretability and fails to explicitly model consumer decision making. In contrast, economic theory suggests that consumers follow a sequential search strategy, evaluating alternatives until they find the best match for their preferences. To bridge this gap, we propose the sequential search transformer (SST), a deep structural econometric model that integrates deep learning with sequential search theory to model search and purchase decisions. SST unifies these two approaches into an end-to-end trainable model, improving both predictive accuracy and policy evaluation capabilities. Unlike conventional deep learning models, SST explicitly models consumer decision making, and unlike existing sequential search models, it enables consumer behavior modeling across sessions and sequentially resolves utility uncertainty for searched items. We provide a theoretical analysis of the identification strategy for the SST model and show that all parameters can be identified under the proposed framework. Then, we apply SST to a data set with detailed clickstream data collected from a U.S. e-commerce website. Empirical evaluations show that SST outperforms state-of-the-art deep learning and structural models in predicting consumer searches and purchases. Moreover, policy experiments demonstrate SST’s effectiveness in optimizing product recommendations and new product promotion strategies, ultimately enhancing consumers experience and driving revenue growth. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.04540 .",
+      "first_seen_at": "2026-09-18",
+      "last_seen_at": "2026-09-18",
+      "methods": [
+        "Causal Inference",
+        "Econometric Analysis"
+      ],
+      "topics": [
+        "Decision Making",
+        "Online Markets / E-Commerce"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/mnsc.2024.04540",
+      "journal_url": "https://doi.org/10.1287/mnsc.2024.04540",
+      "url": "https://doi.org/10.1287/mnsc.2024.04540",
+      "is_new": true
+    },
     {
       "id": "W7208757700",
       "doi": "10.1016/j.im.2026.104432",
@@ -28,7 +58,7 @@
       "publication_date": "2026-09-04",
       "abstract": "Given the potential effects of social media use on health and productivity, it is important to evaluate the effectiveness of interventions that encourage healthier usage patterns. Drawing on dual-system theory, this study examines whether reducing external cues, specifically through notification deactivation, can shift users from impulsive to more reflective patterns of social media engagement. In addition, we investigate how individual differences in social media impulsivity influence usage behavior in the absence of external triggers. Through a 21-day field experiment, the findings indicate that notification deactivation temporarily reduced social media usage during the treatment period but failed to sustain these effects after the intervention ended. Furthermore, individuals with higher levels of social media impulsivity, particularly those exhibiting strong positive and negative urgency, continued to spend more time on social media applications despite notification deactivation.",
       "first_seen_at": "2026-09-14",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Field Experiment"
       ],
@@ -56,7 +86,7 @@
       "publication_date": "2026-09-03",
       "abstract": "Do job seekers consider the race or gender of an employer when applying for a job? Although we have extensive research on employer-side discrimination, we know less about employee-side biases and their consequences. In this study, we examine how the gender and race of the employer shape the willingness of prospective employees to apply for a job. To examine this, we conducted a field experiment where we randomized real jobseekers into three conditions according to employer demographics. We find that job candidates were less likely to apply to a job when they learn that the founders are Black, and, when they did apply, they requested 10% higher salary. In addition, the more qualified a candidate, the less likely they were to apply to Black founders, leaving Black founders with a pool of candidates that is smaller, worse, and more expensive than their White peers. We find no gender penalty for White female founders. Findings from two survey experiments suggest that the penalty is unique to White applicants evaluating Black founders and reflects a concern among White applicants that they will be less likely to fit within a firm and that the firm is less likely to be successful in the long run. We find no evidence of a widespread applicant homophily where all applicants favor founders of their own ethnic group, nor do we find evidence of widespread statistical discrimination whereby all applicants penalize Black founders for being atypical members of the entrepreneurial class. This paper was accepted by Olav Sorenson, organizations. Funding: Financial support from the INSEAD Alumni Fund is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.00481 .",
       "first_seen_at": "2026-09-05",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Difference-in-Differences",
         "Field Experiment"
@@ -87,7 +117,7 @@
       "publication_date": "2026-09-01",
       "abstract": "This research examines how externally hired senior technology executives reshape product innovation in startup complementors operating within software platform ecosystems. We distinguish two innovation types tied to the platform’s layered modular architecture: layer-expansion innovation that extends products into previously unused technical layers, and within-layer innovation that deepens the use of layers already embedded in the complementor’s products. Using longitudinal data from startup complementors in the Hadoop ecosystem, we find that externally hired senior technology executives are positively associated with layer-expansion innovation but negatively associated with within-layer innovation, indicating a reallocation of innovation efforts across platform layers. Drawing on the cognitive and technical dimensions of tacit knowledge, we theorize that externally hired senior technology executives influence innovation by introducing knowledge from their prior experience in technology and product development. Multiple mechanism analyses provide evidence consistent with this knowledge-based explanation. The innovation effects are stronger when executives are hired into newly created positions and when their prior expertise extends beyond the startup’s existing technical layers. We also find that these effects are more pronounced among growth-stage startups and startups without senior technical founders. This research contributes to the software platform ecosystem, executive human capital, and entrepreneurial innovation literature by investigating the impact of externally hired senior technology executives on startup innovation relative to the platform’s layered architecture.",
       "first_seen_at": "2026-09-03",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Fixed Effects / Panel Econometrics"
       ],
@@ -115,7 +145,7 @@
       "publication_date": "2026-09-01",
       "abstract": "Racial discrimination in crowdfunding is a significant barrier to equitable access to capital, as racial minorities face greater challenges in achieving their fundraising goals. While prior research has documented discriminatory patterns in crowdfunding outcomes, the underlying mechanisms driving this discrimination remain unclear. This is a critical gap that must be addressed to develop effective interventions. Drawing on economic theories of taste-based and statistical discrimination, we examine how discrimination mechanisms vary across crowdfunding types. We posit that donation crowdfunding primarily exhibits taste-based discrimination, while investment crowdfunding manifests statistical discrimination. We tested these predictions through three preregistered randomized experiments. Confirming our prediction, the first experiment revealed taste-based discrimination against Black fundraisers in donation crowdfunding. The second experiment demonstrated statistical discrimination in investment crowdfunding. However, contrary to prior research showing negative discrimination against minorities, our second experiment revealed positive statistical discrimination toward Asian fundraisers. We posit that this positive discrimination is due to the decision frame participants adopt, and this explanation is supported by Experiment 3: The direction of discrimination is reversed when task instructions are modified to elicit a negative decision frame. Our research advances both the crowdfunding and the racial discrimination literatures while providing insights for platform design and debiasing interventions.",
       "first_seen_at": "2026-08-30",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Randomized Experiment"
       ],
@@ -143,7 +173,7 @@
       "publication_date": "2026-08-31",
       "abstract": "Racial discrimination in crowdfunding is a significant barrier to equitable access to capital, as racial minorities face greater challenges in achieving their fundraising goals. While prior research has documented discriminatory patterns in crowdfunding outcomes, the underlying mechanisms driving this discrimination remain unclear. This is a critical gap that must be addressed to develop effective interventions. Drawing on economic theories of taste-based and statistical discrimination, we examine how discrimination mechanisms vary across crowdfunding types. We posit that donation crowdfunding primarily exhibits taste-based discrimination, while investment crowdfunding manifests statistical discrimination. We tested these predictions through three preregistered randomized experiments. Confirming our prediction, the first experiment revealed taste-based discrimination against Black fundraisers in donation crowdfunding. The second experiment demonstrated statistical discrimination in investment crowdfunding. However, contrary to prior research showing negative discrimination against minorities, our second experiment revealed positive statistical discrimination toward Asian fundraisers. We posit that this positive discrimination is due to the decision frame participants adopt, and this explanation is supported by Experiment 3: The direction of discrimination is reversed when task instructions are modified to elicit a negative decision frame. Our research advances both the crowdfunding and the racial discrimination literatures while providing insights for platform design and debiasing interventions.",
       "first_seen_at": "2026-09-02",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Randomized Experiment"
       ],
@@ -172,7 +202,7 @@
       "publication_date": "2026-08-27",
       "abstract": "This study investigates how the platform’s disintermediation governance policy (i.e., the policy that disciplines complementors and consumers circumventing the platform to transact directly) affects complementors’ product innovation and launching strategies. We leverage a change in the Communication Guideline on Amazon.com (i.e., the focal platform), which prohibits complementors (i.e., sellers) from sending external website links, telephone numbers, and email addresses to buyers in direct messaging, as a policy shock to Amazon complementors. By conducting a difference-in-differences analysis, we find that the governance policy significantly reduces product innovation on the focal platform among complementors with direct selling channels as measured by the number of new products and the innovativeness of new products. These main effects are mitigated by complementor reputation on Amazon and complementor multihoming. Mechanism analyses show that complementors with direct selling channels increase the number of new products launched through those channels after the policy change (i.e., the switching effect). Moreover, complementors tend to strategically switch innovative and high-value products away from the focal platform while leaving less innovative but price-competitive products on it to attract Amazon consumers before diverting to their direct selling channels (i.e., the bait effect). Our results have implications for platform governance policies regarding disintermediation and its impact on complementor product innovation and launch strategies both on and off the focal platform. This paper was accepted by D. J. Wu, information systems. Funding: G. Gu gratefully acknowledges research support from the USC Marshall School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04439 .",
       "first_seen_at": "2026-08-29",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -201,7 +231,7 @@
       "publication_date": "2026-08-26",
       "abstract": "The future architecture of financial systems is a subject of contention, with centralized and decentralized governance proponents. Here, we ask the following question. Would the architecture affect the quality of decision making? We propose a game where financial network participants demarcate the ownership of claims to income. This governance task can be decentralized (shared authority), centralized (single authority), or hybrid (alternating authority). Without communication, all architectures supported poor outcomes. With communication, decentralization ensured good governance and maximum profits, whereas centralization did not—lowering communication’s potency in promoting socially optimal decisions. This indicates that there is scope for decentralization in innovating financial institutions. This paper has been accepted by Camelia Kuhnen for the Virtual Special Issue on Digital Finance. Funding: N. Chemaya acknowledges partial financial support from the NET Institute. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02314 .",
       "first_seen_at": "2026-08-28",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -231,7 +261,7 @@
       "publication_date": "2026-08-24",
       "abstract": "Research on discrimination has predominantly relied on audit studies, which provide clean causal estimates through randomized profile testing but offer only static snapshots of bias. We adopt a dynamic perspective to examine how racial discrimination evolves over time. Using observational panel data from an online educational platform, we first find that African-American teachers receive 30.2% fewer bookings, and their opened classes are 3.3% less likely to be booked compared with their White counterparts during their first week on the platform, a gap that may indicate initial discrimination. Employing individual fixed effects models, we estimate how this gap evolves over time. The results show a striking 1,007% widening of the initial gap over the 12-week period. Our mechanism analysis shows that new students are significantly less likely to book classes with African-American teachers than with White teachers, even when African-American and White teachers have minimal or comparable reputation metrics. As a result, African-American teachers accumulate reputation metrics and customers more slowly than White teachers. Over time, the growing gaps in reputation and customer base further exacerbate the booking gap, driven by both new and repeat students. Our findings suggest that traditional audit studies may significantly underestimate the long-term consequences of early-stage discrimination and highlight how reputation and repeat customer accumulation serve as bias amplifiers on online platforms. We also show that this amplification mechanism operates regardless of whether the initial gap stems from racial discrimination and thus generalizes to other contexts. This paper was accepted by Srikanth Jagabathula, market design, platform, and demand analytics. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.02111 .",
       "first_seen_at": "2026-08-27",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Fixed Effects / Panel Econometrics"
       ],
@@ -261,7 +291,7 @@
       "publication_date": "2026-08-22",
       "abstract": "Complex digital decision tasks can become obstructive when interface design requires users to interpret, retrieve, and compare dispersed information under ambiguity. Although technostress research recognizes information system (IS) design as a potential mitigation lever, it remains underspecified how concrete interface-level mechanisms shape users’ stress appraisals during interaction without removing objective task complexity. We theorize digital interface nudges, which are choice architecture based interface elements that structure options and guide attention without restricting choice, as a focused IS design lever that can reduce perceived cognitive effort during decision making and in turn lower perceived hindrance technostressors. We test this argument in an online experiment in which participants complete a complex car-booking task under either a default setting digital interface nudge, a salience-framing digital interface nudge, or a control interface. Both digital interface nudges reduce perceived hindrance technostressors relative to the control, and these reductions are stronger for individuals with a higher digital mindset. The study contributes to technostress research by showing how minimal choice architecture based interface interventions can shape how users appraise complexity in structured decision interfaces without removing objective complexity from the task itself. It also extends digital nudging research from behavioral choice outcomes to stress-related perceptual outcomes and identifies digital mindset as an initial user-level scope condition that shapes the effectiveness of interface structuring.",
       "first_seen_at": "2026-08-27",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "A/B Test"
       ],
@@ -290,7 +320,7 @@
       "publication_date": "2026-08-20",
       "abstract": "We investigate the heritability of risk, uncertainty, and time preferences using a large-scale field experiment with adult twins, complemented by a comprehensive meta-analysis of prior studies. Our research introduces a novel empirical approach that integrates behavioral genetics with structural econometrics, enabling us to directly quantify the heritability of latent preference parameters in behavioral models of decision making, without relying on observed proxies. Our incentive-compatible experiment is the first to simultaneously elicit all three types of preferences within the same individuals in a twin study. Our findings reveal a stronger genetic influence on risk and uncertainty preferences than previously reported. We demonstrate that conventional proxy measures for preferences and simplified structural models tend to overstate the influence of unique environmental factors. These results help contextualize preference heterogeneity as a driver of persistent differences in decision making across individuals, leaders, and organizations. This paper was accepted by Aurélien Baillon, behavioral economics and decision analysis. Funding: Support from the University of Technology Sydney and from the Australian Government through the Australian Research Council’s Centre of Excellence for Children and Families over the Life Course [Project IDs CE140100027 and CE200100025] is gratefully acknowledged. This research was facilitated through access to Twins Research Australia, a national resource supported by the National Health & Medical Research Council since 1981, administered by the University of Melbourne. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00669 .",
       "first_seen_at": "2026-08-27",
-      "last_seen_at": "2026-09-17",
+      "last_seen_at": "2026-09-18",
       "methods": [
         "Field Experiment"
       ],
