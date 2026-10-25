@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-24T23:12:27.439633+00:00",
-  "last_checked_at": "2026-10-24T23:12:27.439633+00:00",
+  "updated_at": "2026-10-25T23:15:37.401945+00:00",
+  "last_checked_at": "2026-10-25T23:15:37.401945+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2026-09-25",
+  "query_start_date": "2026-09-26",
   "journal_count": 12,
   "successful_journal_count": 12,
-  "examined_work_count": 212,
+  "examined_work_count": 210,
   "fetched_matching_count": 26,
   "new_paper_count": 0,
   "refreshed_paper_count": 26,
@@ -28,7 +28,7 @@
       "publication_date": "2026-10-22",
       "abstract": "We examine how users respond to winning symbolic awards in online crowdsourcing contests. Our setting is a machine learning competition platform that grants symbolic medals to recognize participants’ contest achievements. Employing a regression discontinuity design, we find that gold medal winners participate less in subsequent contests but engage more in prosocial activities, evidenced by a greater volume and length of posts, as well as more substantial and frequent code contributions. In contrast, bronze and silver medals do not seem to exert a significant influence on recipients’ subsequent behaviors. Drawing on self-determination theory and the needs-as-motives hypothesis, we provide evidence that need-driven goal shifting plays an important role in driving the dual effects of gold medals—diminished contest participation but enhanced prosocial contributions. Further analyses reveal that winners with previous competition medals are more likely to favor contributing content over competing again, whereas winners with more prior contribution medals are less inclined to further increase contributions. Moreover, team winners exhibit a lower tendency than solo winners to shift their efforts from competition to contribution. We add to the symbolic awards literature by uncovering a novel goal-shifting effect induced by contest medals, where award receipt redirects user effort from the focal rewarded domain to other forms of platform engagement. This paper was accepted by D. J. Wu, information systems. Funding: Financial support from the National Natural Science Foundation of China [Grants 72032006, W2611101, and 72371192] and the “Digital-Intelligent Operations Risk Management” Innovation and Entrepreneurship Team Project of the Sanqin Talent Special Support Program in Shaanxi Province [2025STD03] is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07419 .",
       "first_seen_at": "2026-10-24",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Regression Discontinuity"
       ],
@@ -59,7 +59,7 @@
       "publication_date": "2026-10-19",
       "abstract": "This study examines how telehealth delivery models are associated with access to care and protocol adherence in underserved populations. While prior research reports mixed evidence on telehealth’s effectiveness, we argue that these inconsistencies arise because telehealth is not a single intervention but is implemented through distinct service configurations that address different barriers. Drawing on the theoretical framework of digital economics, we conceptualize telehealth as a technology-mediated service that can alter key economic frictions, including search and verification, transportation, tracking, and setup costs. We focus on two widely adopted models—specialist-facilitated telehealth and remote telehealth—and theorize that each addresses different subsets of these frictions, leading to distinct effects on care access and protocol adherence across settings. Using panel data from U.S. Community Health Centers on mental health services, we document three findings. First, adoption of the specialist-facilitated model is associated with increased access to mental health care, particularly in areas with greater clinical need. Second, remote telehealth is not associated with increased access on average but is associated with higher adherence to standardized depression screening and follow-up protocols. These effects are consistent with improvements in screening and documentation processes rather than increases in utilization. Third, the estimated effects of both models vary across local cost environments. The access effects of specialist-facilitated telehealth are larger in areas where search and verification frictions are greater. In contrast, the effects of remote telehealth are attenuated where patient-side setup costs are high but are larger where transportation barriers and documentation frictions are greater. These findings advance a model-specific perspective on telehealth’s effects, extend the digital economics framework to technology-mediated services, and provide evidence that the estimated effects of digital health interventions vary with how delivery models interact with underlying cost environments.",
       "first_seen_at": "2026-10-21",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Fixed Effects / Panel Econometrics"
       ],
@@ -91,7 +91,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Grounded in Uses and Gratifications Theory (UGT), this study examines how user motivations shape two-stage online shopping cart decisions—cart use and abandonment—from a dynamic perspective. Using large-scale e-commerce clickstream data recording consumer digital footprints, we develop a sequential modeling framework that integrates a zero-inflated negative binomial model with conditional logistic regression. We distinguish among information-search, organizational, and purchase motivations, and uncover their heterogeneous effects across decision stages. Results show that search depth promotes cart use and reduces abandonment, whereas search breadth has the opposite effect. Organizational motivation reduces reliance on the cart and significantly lowers abandonment, while purchase motivation exhibits divergent effects. This study advances online consumer behavior research from a multi-motive, multi-stage perspective and provides actionable insights for optimizing recommendation and conversion strategies.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -120,7 +120,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Autonomous agents are the new inhabitants of the digital marketplace, yet the nature of their “rationality” remains elusive. While research has focused on how Large Language Models (LLMs) might mutually conspire to inflate prices, we uncover a more insidious phenomenon: unilateral cooperation driven by extortion. This paper investigates the interaction between an LLM-based pricing agent and an opponent employing a Zero-Determinant (ZD) extortionate strategy. By mapping a multinomial logit demand model onto a Prisoner’s Dilemma framework, we represent the strategic choice between a low-price Nash Equilibrium and high-price collusion. Our experimental results reveal a significant strategic vulnerability, as the LLM agent consistently chooses high prices to maximize its own expected utility, thereby falling under the linear payoff control of the extortioner. We demonstrate that as the extortion factor χ increases, the ratio of the players’ surplus payoffs, measured as the gain above the low-price baseline, converges toward the theoretical value of 1/χ. This suggests that the LLM’s rational pursuit of payoff maximization enables an extortionate opponent to unilaterally fix the market into a state of high-price exploitation. These findings highlight the susceptibility of autonomous pricing agents to algorithmic control, where a rational pursuit of profit leads to a state of unilateral cooperation, a subjugation of the market by a hegemonic competitor.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Discrete Choice Model"
       ],
@@ -151,7 +151,7 @@
       "publication_date": "2026-10-15",
       "abstract": "This study evaluates Green Total Factor Productivity (GTFP) and the level of digital–real integration based on micro-panel data from vegetable growers in Jiayu County spanning 2014–2024. It applies the super-efficiency SBM-GML index model alongside the entropy method to measure GTFP and the extent of digital–real integration, respectively. The impact mechanisms are investigated using a two-way fixed effects model, mediation, and moderating effect models. Robustness and endogeneity tests support the results, which indicate that digital–real integration greatly improves GTFP. Results show that digital–real integration significantly enhances GTFP, a finding confirmed by robustness and endogeneity tests. Capital and labor misallocation partially mediate this relationship, with contribution rates of 23.8% and 2.7%, respectively. The impact of digital-real integration is strengthened by the positive moderation of this link by agricultural R&D investment and agricultural insurance depth. Additionally, the effect is heterogeneous across planting scales, with stronger impacts observed among large-scale producers compared to small holders. Overall, digital–real integration promotes green production innovation and supports the development of sustainable rural e-commerce. These findings provide empirical evidence for leveraging digital technologies to advance agricultural sustainability and enrich application scenarios for rural revitalization.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Fixed Effects / Panel Econometrics"
       ],
@@ -182,7 +182,7 @@
       "publication_date": "2026-10-15",
       "abstract": "The rapid development of digital health technologies has turned the digital divide among older adults into a pressing public health issue. Current empirical evidence remains fragmented and inconsistent, yielding limited consensus on the pathways by which the digital divide influences health outcomes in this population. To synthesize extant knowledge, we conducted a literature analysis of 41 peer-reviewed articles. Our analysis reveals substantial heterogeneity in reported associations between the digital divide and older adults’ health outcomes. Drawing on these insights, we introduce an integrative framework that delineates direct and indirect mechanisms linking dimensions of the digital divide (access, usage and benefit) to health outcomes (physical, mental and behavioral), and that situates these mechanisms within key contextual factors. We conclude by identifying methodological gaps and priorities for future research to improve causal inference and inform interventions aimed at reducing digital health inequities in older populations.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Causal Inference"
       ],
@@ -213,7 +213,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Experience-based cultural events contribute significantly to local economic development and cultural tourism. Due to limited access to traditional financing, crowdfunding has become an important alternative for cultural events. However, these campaigns face a paradox: a large amount of cultural knowledge and distinctive elements must be presented to a highly diverse audience with heterogeneous preferences. This study investigates how AI chatbots complement information provided by fundraisers, address backers’ personalized information asymmetry, and influence funding decisions in such campaigns. An online experiment simulating a museum-affiliated cultural market shows that artifact-specific chatbots increase participation intention, social sharing, and selection of higher-priced rewards. Narrative chatbots produce even stronger effects than the expository ones. The findings highlight the potential of generative AI tools to reduce personalized information asymmetry and enhance backer engagement in cultural event crowdfunding.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "A/B Test"
       ],
@@ -245,7 +245,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Digital platforms are increasingly shifting from permissive market facilitation toward proactive and algorithmically mediated governance. While stricter quality-control policies may improve consumer protection and reduce information asymmetry, their supply-side consequences remain underexamined. This study investigates Amazon’s December 2025 dietary supplement quality mandate as a natural experiment to examine how platform-level compliance requirements affect seller survival, sales performance, price adjustment, and listing visibility. We conceptualize these pressures as compliance squeeze, whereby uniform quality mandates impose unequal operational, administrative, and financial burdens on sellers with different compliance capacities. Using planned ASIN-week panel data from SellerSprite, the study proposes a two-stage empirical strategy. A Regression Discontinuity Design will capture immediate operational disruptions around the policy threshold, while a Two-Way Fixed Effects Difference-in-Differences model will estimate longer-term structural effects across treated and comparison listings. By retaining inactive ASINs rather than excluding them from the sample, the study addresses survivor bias and captures less visible forms of market exit, including sales collapse, Buy Box loss, and listing inactivity. The expected contribution is to extend platform governance research beyond consumer-side trust and quality assurance by highlighting how algorithmic regulation may reshape seller participation and marketplace diversity.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences",
         "Natural / Quasi Experiment",
@@ -279,7 +279,7 @@
       "publication_date": "2026-10-15",
       "abstract": "This study examines how psychological capital affects opportunity recognition among e-commerce entrepreneurs in China, focusing on the moderating role of environmental dynamism. Based on data collected from 386 first-time founders in Beijing, Shanghai, and Guangzhou, hierarchical regression analysis shows that psychological capital significantly enhances opportunity recognition, and this effect is strengthened in highly dynamic environments (interaction β = 0.17, p < 0.001). Among the four dimensions, optimism emerged as the strongest predictor (β = 0.20), a pattern theorized in relation to the volatility of Chinese platform markets. By integrating the Digital Entrepreneurial Capability (DEC) and Measurement–Outcome–Structure (MOS) frameworks, and by triangulating survey findings with semi-structured interviews, this research advances understanding of how internal psychological resources and external market conditions jointly drive entrepreneurial outcomes. The findings address a key gap in digital entrepreneurship literature and provide practical insights for supporting new venture success in volatile markets.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -310,7 +310,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Generative artificial intelligence (GenAI) is increasingly used in digital game development, and disclosures on digital platforms make such use more visible to players. Prior research offers conflicting predictions regarding how users respond to such disclosure. Research on AI-generated products suggests that disclosure can reduce valuation because it weakens source-related beliefs tied to human creation. Research on games as interactive hedonic systems, however, suggests that players also evaluate games in terms of the experience they expect during play. Building on these perspectives, this study conceptualizes GenAI disclosure as the focal independent variable and proposes two pathways through which disclosure influences players’ purchase intention. First, GenAI disclosure decreases perceived effort, which lowers purchase intention. Second, GenAI disclosure can increase perceived novelty, which raises purchase intention, but this positive pathway depends on the stage of GenAI involvement described by the disclosure. Specifically, this positive effect is stronger under during-interaction involvement than under pre-interaction involvement. We test the model using a scenario-based online experiment in the context of digital games. The results show that GenAI disclosure reduces perceived effort relative to no disclosure, while its positive effect on perceived novelty emerges primarily when GenAI is described as contributing during gameplay rather than before gameplay. Willingness to pay is included as a supplementary outcome and shows directionally similar but weaker patterns. This study extends GenAI disclosure research to digital games and shows that the effect of disclosure depends not only on whether GenAI use is disclosed, but also on the stage of involvement described by that disclosure.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "A/B Test"
       ],
@@ -342,7 +342,7 @@
       "publication_date": "2026-10-15",
       "abstract": "In the knowledge economy, knowledge exchange platforms must carefully design monetary incentives. This study examines how incentive visibility shapes knowledge contributions and explores the moderating role of incentive magnitude. Results from an online experiment reveal that public incentives promote free but not paid knowledge contributions. They enhance monetary reciprocity and executional costs while weakening relational reciprocity. Furthermore, higher incentive magnitudes intensify the effects of visibility on monetary reciprocity, executional costs, and free knowledge contributions.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "A/B Test"
       ],
@@ -371,7 +371,7 @@
       "publication_date": "2026-10-15",
       "abstract": "In the rapidly evolving landscape of digital philanthropy, budget transparency has emerged as a cornerstone of digital marketing strategies to foster donor trust. However, the prevailing assumption that \"more disclosure is always better\" remains underexamined, particularly regarding how disclosure strategies interact with specific budget structures. Leveraging a large-scale dataset from the Tencent Lejuan platform and employing Large Language Models (LLMs) to quantify unstructured textual features, this study empirically investigates the main effects of budget components—administrative overhead and direct costs—on fundraising performance, and explores the asymmetric moderating roles of disclosure quality (semantic explanation) and quantity (item count). The findings reveal three key insights. First, donors exhibit significant \"administrative overhead aversion\" and a corresponding \"direct cost preference.\" Second, disclosure strategies demonstrate a crucial \"signal fit\" mechanism: for administrative overhead, high-quality semantic explanations serve as a vital justification signal, significantly alleviating its negative impact, whereas merely increasing disclosure quantity is less effective. Third, conversely, for direct costs, increasing disclosure quantity (itemized granularity) acts as a powerful verification signal that boosts fundraising performance, while extensive semantic explanations provide limited marginal utility due to information redundancy. This study theoretically delineates the boundary conditions of transparency in digital charity and proposes a differentiated disclosure framework tailored to specific budget attributes, offering actionable guidelines for philanthropic organizations to optimize digital trust-building.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -402,7 +402,7 @@
       "publication_date": "2026-10-15",
       "abstract": "AI-generated content (AIGC) has reshaped content creation on social media, prompting platforms to adopt “AI Info” labels as transparency mechanisms. Drawing on signaling theory, this study examines how such labels influence content creators’ posting frequency. Using a propensity score matched difference-in-differences (PSM-DiD) design applied to a panel dataset of 237 Instagram creators observed from January 2023 to December 2025, we find that mandatory AI labeling significantly reduces creators’ weekly posting frequency. This study contributes to AI transparency research by demonstrating unintended behavioral consequences of disclosure policies for content creators, and offers implications for platform governance design.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences",
         "Fixed Effects / Panel Econometrics",
@@ -435,7 +435,7 @@
       "publication_date": "2026-10-15",
       "abstract": "In the context of the digital economy, exploring the impact of digital transformation on the cost of debt financing has great practical significance for alleviating the “expensive financing” problem faced by Chinese enterprises. Enterprise digital transformation builds an efficient supply chain network, which promotes customer-enterprise exchanges and reduces transaction costs across various links in the enterprise. Using the data of China’s A-share listed companies from 2012 to 2021, this paper adopts the panel regression model with fixed effects and through the robustness test of two-stage least squares (2SLS), propensity score matching (PSM), replacing explained variables and adding control variables, this paper examines the impact of corporate digital transformation on debt financing cost and its mechanism. The results show that going digital can help businesses significantly lower their debt financing costs by dispersing customer concentration. Finally, the moderating effect suggests that institutional investor shareholding can directly and indirectly affect how digital transformation affects debt financing costs. The impact mechanism revolves around the relationship between customer concentration and debt financing costs. The findings help open the “black box” of how enterprise digital transformation affects debt financing costs, expand the literature on enterprise digital transformation, and offer a new path to reduce enterprise debt financing costs.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Instrumental Variables",
         "Fixed Effects / Panel Econometrics",
@@ -466,7 +466,7 @@
       "publication_date": "2026-10-15",
       "abstract": "It is against the backdrop of global digital transformation that the role of the government as an orchestrator of the innovation ecosystem is indispensable in shaping digital innovation through policy design and coordination of strategic resources. The present paper develops a coupled evaluation system of PMC-SBM. The Policy Modeling Consistency (PMC) index is applied to measure the quality of the policy structure, and a super-efficiency SBM-Malmquist type of model is used to evaluate the efficiency and the dynamic evolution of the allocation of innovation resources. The analysis will look at the relationship between policy structure and allocation performance as opposed to making a strict causal identification claim. The results may be recapped in three areas. First, the quality of the science and technology innovation policies of Beijing is fluctuating in the pattern of rise-decline-recovery-contraction. Second, technological advancement dominates the total factor productivity growth within the innovation ecosystem, but the scale- efficiency channel is relatively weak. Third, in the period 2023–2025, digital governance regulations intensified, and the coincidence of stronger governance requirements with declining efficiency is consistent with a short-term compliance-cost crowding-out effect. Overall, this study highlights the tension between “governance intensification” and “innovation vitality” in digital transformation and offers evidence-based implications for building a more resilient innovation ecosystem.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Causal Inference"
       ],
@@ -495,7 +495,7 @@
       "publication_date": "2026-10-15",
       "abstract": "In this study, we examine how changes in monetary incentives offered to online consultants on e-consultation platforms shape the direction of their free knowledge contributions across specialized and non-specialized domains. We use the sudden suspension and subsequent resumption of the Fenda platform as two exogenous shocks to the monetary incentives these online consultants receive, and implement a difference-in-differences estimation. Our study shows that monetary incentives shift the direction of online consultants’ free knowledge contributions. Rather than delving deeper into their specialized domains and engaging with even unpopular topics, they tend to broaden their contributions across a broader array of non-specialized domains. The findings enrich the literature on knowledge management and provide valuable guidance for managers of e-consultation platforms.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -525,7 +525,7 @@
       "publication_date": "2026-10-15",
       "abstract": "This study investigates how multimodal emotional expressions influence user behavior on digital charity platforms. Drawing on framing theory and cognitive load theory, we propose the concept of multimodal emotional consistency to capture the alignment between textual and visual emotional expressions. Using a dataset of 23,859 online charity crowdfunding projects, we employ deep learning-based emotion classification to extract textual emotions and facial emotion recognition to identify visual emotions, resulting in 4,474 valid samples. We construct key variables including emotional consistency, textual emotional intensity, and visual emotional intensity, and examine their effects on fundraising performance using ordinary least squares (OLS) regression. The results show that emotional consistency has a significant positive effect on donation outcomes, suggesting that aligned emotional signals across modalities enhance information persuasiveness. Textual emotional intensity exhibits a significant negative effect, indicating that overly emotional language may reduce user trust. In contrast, visual emotional intensity has a positive effect, highlighting the advantage of visual cues in eliciting user empathy and engagement. Furthermore, we find a nonlinear relationship between emotional consistency and fundraising performance, revealing diminishing marginal effects. This study contributes to the literature on digital platform user behavior by uncovering how multimodal emotional design shapes donation decisions, and provides practical implications for optimizing content strategies in online charity crowdfunding.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -556,7 +556,7 @@
       "publication_date": "2026-10-15",
       "abstract": "As generative AI becomes increasingly embedded in content generation, understanding how its interaction styles shape user responses is critical. This study examines AI ingratiation—AI-generated expressions of praise and flattery—and its effects on user perceptions and behavioral outcomes. A 2×2 online experiment reveals that AI ingratiation increases perceived intimacy but decreases perceived authenticity. Building on these perceptual responses, perceived intimacy and perceived authenticity jointly transmit the effects of AI ingratiation to user satisfaction and content iteration intention, indicating significant indirect effects through these dual mediating pathways. We further examine the moderating role of AI literacy and find that users with higher self-reported AI usage literacy are more responsive to AI ingratiation. Specifically, higher AI literacy strengthens the positive effect of AI ingratiation on perceived intimacy, which in turn enhances user satisfaction. Finally, a multi-group analysis reveals significant differences between advertising and academic contexts, suggesting that the effects of AI ingratiation vary across content generation scenarios. These findings highlight the dual-pathway and context-dependent nature of AI ingratiation in human–AI interaction.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "A/B Test"
       ],
@@ -585,7 +585,7 @@
       "publication_date": "2026-10-15",
       "abstract": "As e-commerce shifts toward socialization and intelligence, consumer trust and behavior have changed profoundly. Similarity and the emotional connections it creates have become key factors. Based on similarity-attraction theory and the SOR model, this study explores how buyer-seller similarity influences consumer trust and impulsive consumption in online shopping. Through grounded theory interviews, questionnaire surveys, and empirical analysis, the results show that buyer-seller similarity (i.e., interaction style similarity, brand personality similarity, and conflict handling style similarity) significantly and positively affects consumer trust, which in turn drives impulsive consumption. The study expands the theoretical framework of consumer trust formation from a similarity perspective, reveals the impact paths of similarity on consumption behavior, and provides a theoretical basis and practical reference for e-commerce merchants to optimize user experience and formulate precise marketing strategies.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -617,7 +617,7 @@
       "publication_date": "2026-10-15",
       "abstract": "Data silos constrain cross-organizational coordination in sea–rail transport. This study integrates federated learning (FL), CKKS homomorphic encryption (HE), and blockchain (BC) into a three-layer framework for data-local collaborative learning, ciphertext aggregation, and auditable governance. Experiments use 20,000 synthetic shipment records and four clients. A same-seed ETA configuration comparison and a 500-round, eight-target evaluation show that FL+HE+BC preserves plaintext-FL fidelity: normalized RMSE is 0.0491–0.0753 and R² is 0.7578–0.8961 across six regression targets, while delay prediction reaches F1=0.9519 and AUC=0.9949. Four privacy attacks further delimit the protection boundary. For decrypted four-client aggregates, DLG success falls to 0.10, but cosine inversion remains 0.90 and gradient-property inference reaches AUC=0.7299. An external encrypted-traffic attack on high-value-cargo concentration is not significant for a single upload (best AUC=0.5595; mean permutation p=0.2468). Thus, CKKS protects update contents in transit, while decrypted aggregates and observable communication metadata remain residual risks requiring access control and traffic-shaping safeguards.",
       "first_seen_at": "2026-10-22",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Other Quantitative Empirical"
       ],
@@ -646,7 +646,7 @@
       "publication_date": "2026-10-14",
       "abstract": "We examine how different generations of artificial intelligence (AI) substitute for human knowledge worker tasks, leveraging two sequential natural experiments in the translation industry. We study the introduction of Google Neural Machine Translation (GNMT), a predictive, task-specific AI, as well as ChatGPT, a broad, general-purpose generative AI, in a major online labor market. Distinguishing between analytical tasks (regular translations) and intuitive tasks (transcreations, which require creative and cultural adaptation), we estimate difference-in-differences models on transaction-level data from 2016 to 2017 and 2022 to 2023. We find that GNMT reduced the demand for analytical tasks by economically meaningful magnitudes, while having no detectable effect on intuitive tasks. By contrast, ChatGPT produced substantially larger and more uniform reductions for both analytical and intuitive tasks, indicating a marked expansion in the scope and magnitude of AI substitution. By comparing these two technological shocks within the same labor market, we show that conclusions about which types of human work are resilient to automation do not straightforwardly generalize from predictive to generative AI. This paper was accepted by Joshua Gans, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06740 .",
       "first_seen_at": "2026-10-16",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences",
         "Natural / Quasi Experiment"
@@ -677,7 +677,7 @@
       "publication_date": "2026-10-08",
       "abstract": "Randomized controlled trials (RCTs) provide the most credible estimates of advertising incrementality but are difficult to scale. We propose Predicted Incrementality by Experimentation (PIE), which reframes ad measurement as a campaign-level prediction problem. PIE uses a sample of RCTs to learn a mapping from campaign features to causal effects, then applies it to campaigns not run as RCTs. Because the RCTs identify the causal effects, PIE can incorporate post-determined features—campaign-level aggregates such as test-group outcomes, exposure rates, and last-click conversions, computed after campaign completion. These metrics reflect the consumer behaviors that generate treatment effects, so they carry predictive information about incrementality, even though they would be invalid controls in a causal model. Using 2,226 Meta ad experiments, PIE achieves an out-of-sample [Formula: see text] for incremental conversions per dollar, compared with [Formula: see text] for industry-standard seven-day last-click attribution. In a decision-making framework, PIE disagrees with RCT-based decisions in only 8%–12% of campaigns, compared with 12%–20% for last-click attribution. We conclude that PIE can help scale causal measurement from a limited number of RCTs to a large set of nonexperimental campaigns. This paper was accepted by Raphael Thomadsen, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01108 .",
       "first_seen_at": "2026-10-10",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Randomized Experiment",
         "Causal Inference"
@@ -705,7 +705,7 @@
       "publication_date": "2026-10-07",
       "abstract": "Digital platforms increasingly curate their content through personalized algorithmic feeds. Platforms have an incentive to promote content that increases the predicted engagement of each user to lift advertising revenues. This paper studies how ranking content to maximize engagement affects the credibility of news content with which users engage. In addition, I evaluate how the ranking algorithm itself can be designed to promote engagement with high-credibility content. Using data from the Reddit politics community, I exploit a novel discontinuity in the ranking algorithm to identify the causal effect of a post’s rank on the number of comments it receives. I use this discontinuity to identify a model of user comment decisions and estimate the credibility of news content that users engage with under a personalized engagement-maximizing algorithm. The personalized engagement-maximizing algorithm exacerbates differences in the credibility of news content with which users engage. I then evaluate a credibility-aware algorithm that explicitly promotes credible news publishers and find the platform can substantially increase the share of engagement with high-credibility publishers for a small reduction in total engagement. These findings suggest algorithmic interventions can be a useful tool for managers to balance engagement quantity and content quality. This paper was accepted by Hemant Bhargava, information systems. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06298 .",
       "first_seen_at": "2026-10-09",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Causal Inference"
       ],
@@ -734,7 +734,7 @@
       "publication_date": "2026-10-06",
       "abstract": "Investing in children’s human capital reduces business investments for U.S. entrepreneurial households. Using financial account data of 90,000 small businesses linked to their owners and a regression discontinuity design that compares the business performance of households with college-aged dependents (18–22) to those with near-college-aged dependents (14–17), I show that business revenues and expenses decline sharply when owners’ children reach age 18. Despite the declines, profitability and productivity remain largely unaffected, suggesting a general downsizing rather than a loss in efficiency. Heterogeneity analysis shows that downsizing is concentrated among highly indebted owner households and businesses with volatile cash flows. For each dollar increase in household spending associated with a child turning 18, business expenses decline by $2.26. These findings are consistent with entrepreneurial parents reallocating capital from business investments toward their children’s human capital, as both compete for the same pool of internal family financial resources. This paper was accepted by Camelia Kuhnen, finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.04789 .",
       "first_seen_at": "2026-10-08",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Regression Discontinuity"
       ],
@@ -765,7 +765,7 @@
       "publication_date": "2026-10-01",
       "abstract": "We investigate the impact of a unique legislative reform that granted anonymity to plaintiffs in court rulings for personal injury claims. Prior to the reform’s implementation in August 2015, claimants who rejected settlement offers faced the risk that court proceedings would publicly disclose sensitive information regarding their health and earnings. By eliminating this source of privacy loss, the reform provides an opportunity to examine how privacy considerations affect outcomes in a real-world setting. Our analysis measures changes in payments for personal injury versus property damage claims (which were not affected by the reform) for car accident cases handled by the major insurance firms in Israel between 2011 and 2020. Using a difference-in-differences framework, we find that the reform led to a 12%–17% increase in payments for personal injury claims. We interpret this estimate as the implicit cost claimants were previously willing to bear, in the form of lower settlements, to avoid the disclosure of private information through court rulings. This result underscores the economic value individuals place on privacy, revealing that concerns about public exposure can significantly influence decision making and negotiation outcomes. Our findings demonstrate the importance of privacy considerations in customer interactions where sensitive information is often involved. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Funding: This work was supported by the Ministry of Justice of Israel [Grant 88/2024], The Falk Institute [Grant 24.03], and the Israel Science Foundation [Grant 1224/24]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00107 .",
       "first_seen_at": "2026-10-03",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences"
       ],
@@ -793,7 +793,7 @@
       "publication_date": "2026-09-29",
       "abstract": "Short-form video platforms have become central to debates about digital overuse and sleep disruption, yet causal evidence on their behavioral impacts remains limited. We study the effects of adopting short-form video in the context of TikTok, which pioneered the format and accounts for a large share of global short-form video consumption. Using granular smartphone touchstream data from a large opt-in panel of U.S. Android users, we track app usage, screen time, and inferred sleep behavior before and after TikTok adoption. We employ a difference-in-differences framework leveraging a high-frequency app usage data set from nearly 7,000 TikTok adopters. Our findings reveal a significant increase in overall screen time—averaging 221 minutes per week for heavy TikTok users—following TikTok adoption, alongside notable declines in usage of other social media and gaming apps, suggesting a strong substitution effect. The screen time effects are highest during late night hours. We also observe shifts in sleep patterns, including delayed bedtimes and a moderate reduction in sleep duration, among high-intensity users. We observe no effects for low-intensity users, who engage minimally with TikTok postadoption. Our findings show that short-form video adoption expands total digital attention rather than merely reallocating it, with important implications for platform design, regulation, and digital well-being. As a side result, our analysis provides clear evidence of substitutability between TikTok and traditional social media platforms, which has important implications for competition policy. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08260 .",
       "first_seen_at": "2026-10-01",
-      "last_seen_at": "2026-10-25",
+      "last_seen_at": "2026-10-26",
       "methods": [
         "Difference-in-Differences"
       ],
