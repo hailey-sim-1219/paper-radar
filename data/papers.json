@@ -1,18 +1,78 @@
 {
-  "updated_at": "2026-11-25T04:10:22.419251+00:00",
-  "last_checked_at": "2026-11-25T04:10:22.419251+00:00",
+  "updated_at": "2026-11-26T03:32:30.921712+00:00",
+  "last_checked_at": "2026-11-26T03:32:30.921712+00:00",
   "source": "OpenAlex",
   "lookback_days": 365,
-  "query_start_date": "2026-10-26",
+  "query_start_date": "2026-10-27",
   "journal_count": 12,
   "successful_journal_count": 12,
-  "examined_work_count": 92,
-  "fetched_matching_count": 6,
-  "new_paper_count": 0,
+  "examined_work_count": 96,
+  "fetched_matching_count": 8,
+  "new_paper_count": 2,
   "refreshed_paper_count": 6,
-  "paper_count": 308,
+  "paper_count": 310,
   "errors": [],
   "papers": [
+    {
+      "id": "W7239433942",
+      "doi": "10.1287/isre.2024.1314",
+      "title": "Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI",
+      "authors": [
+        "Xusen Cheng",
+        "Lu Gao",
+        "Qiguang Yang",
+        "Xin Robert Luo"
+      ],
+      "journal": "Information Systems Research",
+      "journal_short": "ISR",
+      "publication_date": "2026-11-24",
+      "abstract": "It is well established that Chain-of-Thought (CoT) reasoning improves model performance in Generative Artificial Intelligence (GenAI). Far less understood is whether presenting CoT reasoning in AI-enabled interfaces enhances users’ perceived trust in GenAI’s competence in performing tasks. Drawing on the Heuristic-Systematic Model, we develop a theoretical framework in which CoT presence and quality trigger either heuristic perceptions of transparency or systematic perceptions of diagnosticity and germane cognitive load, with distinct mechanisms across task-difficulty conditions. Across a series of online experiments, we identify two key findings. First, high-quality CoT consistently enhances perceived trust in GenAI’s ability to generate correct outputs, regardless of task difficulty. Notably, under high-difficulty conditions, users’ trust in GenAI is primarily driven by the greater germane cognitive load perceived from high-quality CoT, whereas under low-difficulty conditions, trust is primarily driven by perceived transparency or diagnosticity. Second, low-quality CoT reduces users’ competence trust in GenAI that generates incorrect outputs only under low-difficulty conditions and only when users engage in careful processing, operating through perceived diagnosticity. Yet, under high-difficulty conditions, low-quality CoT amplifies trust via perceived transparency. By disentangling the cognitive pathways through which CoT shapes competence trust in GenAI and by identifying task difficulty as a critical boundary condition, these findings deepen our understanding of transparent reasoning in AI interfaces and offer valuable insights for deploying CoT in GenAI systems.",
+      "first_seen_at": "2026-11-26",
+      "last_seen_at": "2026-11-26",
+      "methods": [
+        "A/B Test"
+      ],
+      "topics": [
+        "Generative AI",
+        "Human–AI Collaboration"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": false,
+      "doi_url": "https://doi.org/10.1287/isre.2024.1314",
+      "journal_url": "https://doi.org/10.1287/isre.2024.1314",
+      "url": "https://doi.org/10.1287/isre.2024.1314",
+      "is_new": true
+    },
+    {
+      "id": "W4399806556",
+      "doi": "10.1287/mnsc.2025.03354",
+      "title": "Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition?",
+      "authors": [
+        "Umit G. Gurun",
+        "Zheng Liu",
+        "Steven Chong Xiao"
+      ],
+      "journal": "Management Science",
+      "journal_short": "MS",
+      "publication_date": "2026-11-24",
+      "abstract": "The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, because they act as both marketplace gatekeepers and strategic investors. Studying Google’s dual role via Google Ventures (GV) and the Android marketplace, we find Google-backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains are consistent with selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The Online Appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03354 .",
+      "first_seen_at": "2026-11-26",
+      "last_seen_at": "2026-11-26",
+      "methods": [
+        "Difference-in-Differences"
+      ],
+      "topics": [
+        "Entrepreneurship"
+      ],
+      "is_quantitative": true,
+      "cited_by_count": 0,
+      "open_access": true,
+      "doi_url": "https://doi.org/10.1287/mnsc.2025.03354",
+      "journal_url": "https://doi.org/10.1287/mnsc.2025.03354",
+      "url": "https://doi.org/10.1287/mnsc.2025.03354",
+      "is_new": true
+    },
     {
       "id": "W7234934291",
       "doi": "10.1287/mnsc.2023.00747",
@@ -28,7 +88,7 @@
       "publication_date": "2026-11-17",
       "abstract": "The 0-1 knapsack problem is a fundamental problem of discrete choice that permeates many diverse fields and applications, but relatively little is known about what instances human solvers find more difficult than others. This paper reports the results of the first large-scale randomized controlled field experiment investigating this question, conducted in partnership with a global mobile gaming platform. A total of 100,000 different knapsack instances were predesigned for this study and randomly assigned to each player attempt at the knapsack problem. For our base-case analysis, there were 17,950,838 distinct player accounts who made a total of 150,284,195 submitted solution attempts. Contrary to expectations, players performed better on problems that were rated as more difficult by two traditional measures of knapsack difficulty (the Pearson correlation between value and weight vectors and Sahni complexity), but performed worse on problem instances that featured large optimality gaps from a suite of heuristic solution algorithms. These suggest that optimality gaps can serve as promising measures of human-perceived knapsack difficulty and potentially could be used to measure human-perceived problem difficulty for other types of discrete choice problems. We found evidence that players improved their performance with repeated attempts at the knapsack task overall, but less-experienced players of the mobile game improved more quickly than more-experienced players. Through the construction of a new measure of human-perceived difficulty rating for each knapsack instance, we found evidence that players who were assigned to instances with a higher difficulty rating in the past tended to perform better on future attempts. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: S. Agarwal’s research is supported by the Ministry of Education, Singapore, under its Social Science and Humanities Research Thematic [Grant SSRC2024-SSHRTG-022] and the National Natural Science Foundation of China [Grant 72495154]. J. Goh’s research is supported by a Startup [Grant R-314-000-110-133] and a 2021 Humanities and Social Sciences Faculty Research Fellowship from the National University of Singapore. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00747 .",
       "first_seen_at": "2026-11-19",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "Field Experiment",
         "Discrete Choice Model"
@@ -57,7 +117,7 @@
       "publication_date": "2026-11-14",
       "abstract": "Understanding what drives individuals to maintain health behaviours is crucial for designing effective interventions and accurately predicting healthcare outcomes. This study introduces a novel method for inferring motivational states from wearable exercise data, leveraging self-determination theory to interpret latent behavioural patterns. Using longitudinal data from 15,904 participants in a gamified health programme, behavioural patterns are profiled into motivation-informed categories, amotivation, controlled motivation and autonomous motivation, which are then incorporated into predictive models of healthcare claims. Post-analysis reveals that these profiles align with theoretical constructs and enhance the model's sensitivity to at-risk individuals, consequently improving recall and F1 scores. Explainable machine learning techniques highlight the predictive significance of motivation alongside conventional clinical indicators. This approach bridges psychological theory and data science, offering scalable, interpretable insights for insurers, clinicians and digital health interventions aiming to personalise care and optimise outcomes, while providing an empirical foundation for the future validation of the profiles.",
       "first_seen_at": "2026-11-16",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "Fixed Effects / Panel Econometrics"
       ],
@@ -86,7 +146,7 @@
       "publication_date": "2026-11-13",
       "abstract": "Firms often rebrand to counter negative shocks, but can it work? Using a historical natural experiment, we analyze a large sample of companies from the same industry (banking) that shared very similar names, but overwhelmingly decided to change them in response to a common, negative news shock. U.S. entry into World War I in 1917 created a sudden anti-German backlash against anything that invoked an association with the now enemy. The shock itself was thus orthogonal to bank fundamentals and pre-existing trends, but pushed banks to reconsider their brands. After 1917, the few German-named banks that kept their tainted names saw significant declines in assets, deposits, and market share relative to other banks. However, German-named banks that rebranded mitigated much of the negative shock. Specifically, German-named banks that adopted a new non-ethnic brand name avoided between 75% and 85% of the anti-German effect, and those that adopted a new patriotic brand name were able to neutralize it completely. Overall, we find that “crisis rebranding” paid off in our historical setting regardless of the chosen brand, with patriotic rebranding proving the most effective at offsetting the exogenous shock. This paper was accepted by Jean-Pierre Dube, marketing. Funding: K. J. Mitchener thanks the Ciocca Center for Entrepreneurship and Innovation at Santa Clara University for funding this research (Grant 2024-CIOG11). Any views expressed in this paper exclusively represent those of the authors and do not reflect the official viewpoint of the Oesterreichische Nationalbank, the European Central Bank, or the Eurosystem. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03635 .",
       "first_seen_at": "2026-11-15",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "Natural / Quasi Experiment"
       ],
@@ -113,7 +173,7 @@
       "publication_date": "2026-11-12",
       "abstract": "Employees often work under incomplete contracts, performing both contracted in-role tasks and valuable but noncontracted extra-role activities. Once employees have completed in-role tasks, discretionary time remains, which they may allocate to extra-role activities or consume opportunistically. This study examines how managers’ time-reporting decisions, as a less intrusive form of control, affect subordinates’ effort-allocation decisions. I propose two opposing predictions. First, managers’ control implementations may signal distrust, resulting in more opportunism and thus less extra-role effort. Second, I identify value signaling as a novel theoretical mechanism through which time-reporting decisions may increase extra-role effort. The main experiment manipulated two factors: the type of time report (aggregated versus disaggregated) and its implementation source (managerial choice versus random assignment) to isolate signaling effects from monitoring effects. Results reveal that when managers choose not to implement disaggregated time reporting—that is, reports that make discretionary time salient—subordinates significantly reduce their extra-role effort. Structural equation modeling shows that value signaling outweighs distrust signaling in driving employees’ effort-allocation decisions. In contrast, when the time-reporting format is randomly assigned, effort remains unchanged, underscoring the signaling role of managerial choice. An additional online experiment shows directionally consistent results with the main experiment. These findings reveal a hidden cost of not controlling and contribute to the literature on incomplete contracts, slack resources, and input-based controls in modern work contexts. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Bijzonder Onderzoeksfonds UGent [Grant BOF/STA/202009/047]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.00955 .",
       "first_seen_at": "2026-11-14",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "Randomized Experiment",
         "A/B Test"
@@ -145,7 +205,7 @@
       "publication_date": "2026-11-06",
       "abstract": "We quantify the short-term impact of generative artificial intelligence (GenAI) on sales performance through a series of large-scale randomized field experiments involving millions of users and products at a leading crossborder online retail platform. Over 2023–2024, the platform integrated GenAI into seven business workflows spanning customer service, consumer-product matching, advertising, and seller services. We find that GenAI adoption increases sales in most workflows, with effects ranging from no detectable impact to 16.3% depending on GenAI’s marginal contribution relative to baseline firm practices. Across the four GenAI applications with positive sales effects, the implied annual incremental value is roughly $5 per consumer—an economically meaningful impact given the retailer’s scale and the early stage of GenAI adoption. The gains operate primarily through higher conversion rates rather than larger cart values, consistent with GenAI improving the shopping experience by reducing search, information, communication, and personalization frictions. Importantly, these effects are not associated with worse postpurchase outcomes as product return rates and customer ratings do not deteriorate. Finally, we document substantial demand-side heterogeneity, with larger gains for less experienced consumers. Our findings provide novel, large-scale causal evidence on how GenAI shapes sales productivity in online retail, highlighting both its immediate value and broader potential. This paper was accepted by Jean-Pierre Dube, marketing. Funding: L. Fang acknowledges financial support from the National Natural Science Foundation of China [Grants 72501258 and 72192803], the Major Special Project in Philosophy and Social Sciences of the Ministry of Education of China [Grant 2026JZDZ020], the National Social Science Fund of China [Grant 22&ZD081]. Z. Yuan acknowledges financial support from the National Key Research and Development Project [Grant 2024YFB3312900], the National Natural Science Foundation of China [Grants 72141305 and 72203202], the National Social Science Fund of China [Grants 26ZDA030 and 25&ZD149], and the Fundamental Research Funds for the Central Universities. K. Zhang, D. Donati, and M. Sarvary have no funding to report. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2026.00623 .",
       "first_seen_at": "2026-11-08",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "Field Experiment"
       ],
@@ -176,7 +236,7 @@
       "publication_date": "2026-11-03",
       "abstract": "Organisations increasingly delegate consequential judgements to algorithmic decision-making systems (ADMS)—software that renders decisions with minimal human intervention, as in credit scoring and fraud detection. Such systems can produce unethical outcomes that cause substantial reputational and societal harm, including discrimination against minorities. Prior research has mainly evaluated ethical outcomes after deployment, yet their foundations are laid earlier, during development. At this stage, developers must rely on deontological reasoning, evaluating design choices against moral imperatives such as fairness and non-discrimination, because actual consequences cannot yet be observed. In practice, deontological reasoning often falls short, as it is cognitively demanding and inconsistently motivated. Drawing on deontological ethics, we examine how perceived algorithmic accountability orients developers towards deontological judgements and behaviours, and the conditions under which this effect is amplified. Using a multi-method design comprising a survey (n = 148), an online experiment (n = 102), and qualitative interviews (n = 15) with ADMS developers, we find that developers perceiving higher algorithmic accountability engage more in deontological judgements and behaviours. These relationships strengthen with greater ADMS knowledge and within a deontological work climate. We thereby move beyond high-level ethical principles for responsible ADMS design and demonstrate how organisations can elicit ethical behaviour from developers through algorithmic accountability.",
       "first_seen_at": "2026-11-05",
-      "last_seen_at": "2026-11-25",
+      "last_seen_at": "2026-11-26",
       "methods": [
         "A/B Test"
       ],
